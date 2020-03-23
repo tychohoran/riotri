@@ -1,6 +1,7 @@
 ---
 title: Gear Loan
-position: 4
 permalink: "/programs/gear-loan/"
+position: 4
 layout: page
 ---
+

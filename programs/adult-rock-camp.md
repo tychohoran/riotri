@@ -1,6 +1,7 @@
 ---
 title: Adult Rock Camp
-position: 1
 permalink: "/programs/adult-rock-camp"
+position: 1
 layout: page
 ---
+

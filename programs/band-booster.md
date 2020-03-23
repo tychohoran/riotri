@@ -1,6 +1,7 @@
 ---
 title: Band Booster
-position: 3
 permalink: "/programs/band-booster"
+position: 3
 layout: page
 ---
+

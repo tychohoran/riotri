@@ -1,6 +1,7 @@
 ---
 title: Group Lessons
-position: 2
 permalink: "/programs/group-lessons"
+position: 2
 layout: page
 ---
+
