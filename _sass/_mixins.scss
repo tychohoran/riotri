@@ -1,0 +1,38 @@
+// Use media queries
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+// Use @font-facefonts
+@mixin font-face( $font-name, $font-path, // path + file name. Ex : path/to/font/filename
+$font-weight: 400, $font-style: normal) {
+  @font-face {
+    font-family: $font-name;
+    font-style : $font-style;
+    font-weight: $font-weight;
+    src: url('#{$font-path}.woff') format('woff');
+  }
+}
+
+// Mixin to prefix a property
+@mixin prefix($property, $value, $prefixes: ()) {
+  @each $prefix in $prefixes {
+    #{'-' + $prefix + '-' + $property}: $value;
+  }
+ 
+  // Output standard non-prefixed declaration
+  #{$property}: $value;
+}
+
+
+// Mixin to prefix the value of a property
+@mixin value-prefix($property, $value, $prefixes: ()) {
+  @each $prefix in $prefixes {
+    #{$property}: #{'-' + $prefix + '-' + $value};
+  }
+ 
+  // Output standard non-prefixed declaration
+  #{$property}: $value;
+}

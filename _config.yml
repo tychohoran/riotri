@@ -1,0 +1,27 @@
+---
+title: RIOT RI
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+description: RIOT Rhode Island is a volunteer-based non-profit that uses music creation and critical thinking to foster empowerment, collaborative relationships, and the development of healthy identities in girls, women, trans, and gender non-conforming individuals.
+Background Color: "#000"
+Accent Color 1: "#ffe22b"
+Accent Color 2: "#00c4bb"
+Accent Color 3: "#5151bf"
+Menu Image: 
+Site Logo: "/uploads/RIOT-Logo.svg"
+Favicon Image: "/uploads/RIOT-Favicon.png"
+baseurl: 
+url: http://riotri.com
+markdown: kramdown
