@@ -1,0 +1,36 @@
+body {
+    background-color: $background-color;
+}
+
+%absolute-reset {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+}
+%full-screen {
+    width: 100%;
+    height: 100%;
+}
+%flex-setup{
+    @include value-prefix(display, flex, webkit moz ms o);
+    @include prefix(flex-flow, column nowrap, webkit moz ms o);
+}
+
+.splash {
+    @extend %absolute-reset;
+    @extend %full-screen;
+    @extend %flex-setup;
+    @include prefix(justify-content, center, webkit moz ms o);
+    @include prefix(align-items, center, webkit moz ms o);
+    * {
+        margin: $spacing-unit/2 $spacing-unit;
+    }
+    .site-logo {
+        width: $content-width;
+    }
+    .coming-soon {
+        color: $accent-color;
+    }
+}

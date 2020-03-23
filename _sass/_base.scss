@@ -1,0 +1,140 @@
+/**
+ * Reset some basic elements
+ */
+a,abbr,acronym,address,applet,article,aside,audio,
+b,big,blockquote,body,canvas,caption,center,cite,code,
+dd,del,details,dfn,div,dl,dt,em,embed,
+fieldset,figcaption,figure,footer,form,
+h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,
+kbd,label,legend,li,mark,menu,nav,object,ol,output,
+p,pre,q,ruby,s,samp,section,small,span,strike,
+strong,sub,summary,sup,table,tbody,td,tfoot,th,
+thead,time,tr,tt,u,ul,var,video{
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+    font:inherit;
+    vertical-align:baseline;
+}
+
+article,aside,details,figcaption,figure,footer,
+header,hgroup,menu,nav,section{
+    display:block;
+}
+
+/**
+ * Basic styling
+ */
+body, html {
+    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    color: $text-color;
+    -webkit-text-size-adjust: 100%;
+    font-variant: normal;
+    text-transform: none;
+    @include prefix(font-feature-settings, "kern" 1, webkit moz o);
+    @include prefix(font-kerning, normal, webkit);
+    text-rendering:optimizeLegibility;
+    @include prefix(font-variant-ligatures, common-ligatures, webkit);
+    @include prefix(font-smoothing, antialiased, webkit);
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/**
+ * Box Sizing
+ */
+
+a,article,body,code,dd,div,dl,dt,
+fieldset,footer,form,h1,h2,h3,h4,h5,h6,header,html,
+input[type=email],input[type=number],
+input[type=password],input[type=tel],input[type=text],
+input[type=url],legend,li,main,ol,p,pre,
+section,table,td,textarea,th,tr,ul{
+    @include prefix(box-sizing, border-box, webkit);
+}
+
+/**
+ * Images
+ */
+img {
+    max-width: 100%;
+    vertical-align: middle;
+    border-style:none;
+}
+svg:not(:root){
+    overflow:hidden;
+}
+
+
+/**
+ * Figures
+ */
+figure > img {
+    display: block;
+}
+
+
+
+/**
+ * Lists
+ */
+ol,ul{
+    list-style:none;
+}
+
+
+/**
+ * Headings
+ */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: $base-font-weight;
+}
+
+/**
+ * Bold and Italic Styles
+ */
+em,i{
+    font-style:italic;
+}
+b{
+    font-weight:700;
+}
+
+object {
+    pointer-events: none;
+}
+
+/**
+ * Links
+ */
+a, a:link, a:visited {
+    color: $accent-color;
+    text-decoration: none;
+}
+
+/**
+ * Tables
+ */
+table{
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/**
+ * Blockquotes
+ */
+blockquote,q{
+    quotes:none;
+}
+
+blockquote:after,blockquote:before,q:after,q:before{
+    content:'';
+    content:none;
+}
+
+/**
+ * input
+ */
+input{
+    @include prefix(appearance, none, webkit moz);
+}
