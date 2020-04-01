@@ -34,3 +34,24 @@ body {
         color: $accent-color;
     }
 }
+
+.site-header{
+    @extend %absolute-reset;
+    position:fixed;
+    @extend %flex-setup;
+    width: 135px;
+    height: 100%;
+    background-color: $background-color;
+
+    .site-logo{
+        width: 100px;
+    }
+}
+
+.wrapper {
+    @extend %absolute-reset;
+    left: auto;
+    display: block;
+    width: calc(100% - #{$menu-width});
+    min-height: 100%;
+}
