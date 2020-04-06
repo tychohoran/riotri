@@ -42,9 +42,82 @@ body {
     width: 135px;
     height: 100%;
     background-color: $background-color;
+    z-index: 100;
+    overflow: hidden;
 
-    .site-logo{
-        width: 100px;
+    @include prefix(transition, width 0.125s ease, webkit moz mx o);
+
+    a {
+        display: block;
+    }
+    .site-title{
+        margin: $mobile-margin 0 $desktop-margin 12.5793px;
+        .site-logo{
+            width: 100px;
+        }
+    }
+    .site-nav {
+        .nav-trigger {
+            margin-left: $desktop-margin;
+            .nav-icon{
+                width: 60px;
+                height: auto;
+                * {
+                    @include prefix(transition, transform 0.125s, webkit moz mx o);
+                }
+                #line1 {
+                    @include prefix(transform-origin, center center, webkit moz mx o);
+                    @include prefix(transform, translate(0,6px), webkit moz mx o);
+                }
+                #line2 {
+                    @include prefix(transform-origin, center center, webkit moz mx o);
+                    @include prefix(transform, translate(0,-6px), webkit moz mx o);
+                }
+            }
+        }
+        .page-links{
+            margin-left: $desktop-margin;
+            @extend %flex-setup;
+            opacity: 0;
+            pointer-events: none;
+            @include prefix(transition, opacity 0.125s ease, webkit moz mx o);
+            .page-link{
+                color: #fff;
+                white-space: nowrap;
+                font-size: $h2-desktop;
+                text-transform: uppercase;
+                line-height: 2*$mobile-margin;
+            }
+
+            .social-media {
+                @include value-prefix(display, flex, webkit moz ms o);
+                @include prefix(flex-flow, row wrap, webkit moz ms o);
+                .social-icon{
+                    margin-right: 9px;
+                    width: 24px;
+                    height: auto;
+                }
+            }
+        }
+    }
+    &.selected {
+        width: 261px;
+        .site-nav{
+            .nav-trigger {
+                .nav-icon{
+                    #line1 {
+                        @include prefix(transform, translate(0,0px) rotate(45deg), webkit moz mx o);
+                    }
+                    #line2 {
+                        @include prefix(transform, translate(0,0px) rotate(-45deg), webkit moz mx o);
+                    }
+                }
+            }
+            .page-links{
+                pointer-events: all;
+                opacity: 1;
+            }
+        }
     }
 }
 
@@ -54,4 +127,5 @@ body {
     display: block;
     width: calc(100% - #{$menu-width});
     min-height: 100%;
+    background-color: $accent-color;
 }

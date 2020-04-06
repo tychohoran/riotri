@@ -4,9 +4,7 @@
 	</a>
 	<nav class="site-nav">
 		<a class="nav-trigger" href="#">
-			<object type="image/svg+xml" data="{{site['Menu Image']}}" class="nav-icon">
-				<img src="{{site['Menu Image']}}" alt="Menu Icon">
-			</object>
+			{% include menu-icon.html %}
 		</a>
 		<div class="page-links">
 			 {% assign sorted_pages = site.pages | sort:"position" %}
@@ -17,6 +15,7 @@
 			    	<a class="page-link" href="{{link_page.url}}">{{link_page.title}}</a>
 			  	{% endif %}
 			 {% endfor %}
+			 {% include social-media.html %}
 		</div>
 	</nav>
 </header>
