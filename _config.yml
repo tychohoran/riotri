@@ -26,9 +26,9 @@ Menu Image: "/uploads/RIOT-menu-icon.svg"
 Site Logo: "/uploads/RIOT-Logo.svg"
 Site Vertical Logo: "/uploads/RIOT-Logo-Portrait.svg"
 Favicon Image: "/uploads/RIOT-Favicon.png"
-Instagram URL: "https://www.instagram.com/girlsrockri"
-Facebook URL: "https://www.facebook.com/girlsrockri/"
-Twitter URL: "https://twitter.com/girlsrockri"
+Instagram URL: https://www.instagram.com/girlsrockri
+Facebook URL: https://www.facebook.com/girlsrockri/
+Twitter URL: https://twitter.com/girlsrockri
 baseurl: 
 url: http://riotri.com
 markdown: kramdown
