@@ -4,9 +4,7 @@
 	</a>
 	<nav class="site-nav">
 		<a class="nav-trigger" href="#">
-			<object type="image/svg+xml" data="{{site['Menu Image']}}" class="nav-icon">
-				<img src="{{site['Menu Image']}}" alt="Menu Icon">
-			</object>
+			{% include menu-icon.html %}
 		</a>
 		<div class="page-links">
 			 {% assign sorted_pages = site.pages | sort:"position" %}
@@ -14,9 +12,23 @@
 			 	{% assign dir_trim = link_page.dir | split: "/" %}
 			 	{% assign root_dir = dir_trim[1] | prepend:"/" | append:"/" %}
 			    {% if link_page.url == root_dir and link_page.title %}
-			    	<a class="page-link" href="{{link_page.url}}">{{link_page.title}}</a>
+			    	{% if root_dir == page.dir %}
+			    		{% assign class = " current" %}
+			    	{% else %}
+			    		{% assign class = "" %}
+			    	{% endif %}
+			    	<a class="page-link{{class}}" href="{{link_page.url}}">{{link_page.title}}</a>
+			    	{% assign subpages = site.pages | sort:"position" | where: "dir", root_dir %}
+			    	<div class="subpages">
+				    	{% for subpage in subpages %}
+				    		{% unless subpage.url == root_dir %}
+				    		<a class="page-link sub" href="{{subpage.url}}">{{subpage.title}}</a>
+				    		{% endunless %}
+				    	{% endfor %}
+			    	</div>
 			  	{% endif %}
 			 {% endfor %}
+			 {% include social-media.html %}
 		</div>
 	</nav>
 </header>
