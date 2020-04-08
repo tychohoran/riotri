@@ -1,3 +1,5 @@
+@include font-face("Antarctican Headline", "/fonts/AntarcticanHeadline-Medium");
+
 body {
     background-color: $background-color;
 }
@@ -59,6 +61,7 @@ body {
     .site-nav {
         .nav-trigger {
             margin-left: $desktop-margin;
+            max-height: 60px;
             .nav-icon{
                 width: 60px;
                 height: auto;
@@ -77,25 +80,50 @@ body {
         }
         .page-links{
             margin-left: $desktop-margin;
-            @extend %flex-setup;
+            margin-top: 18px;
+            @include value-prefix(display, flex, webkit moz ms o);
+            @include prefix(flex-flow, row wrap, webkit moz ms o);
+            width: 600px;
             opacity: 0;
             pointer-events: none;
             @include prefix(transition, opacity 0.125s ease, webkit moz mx o);
+
+            * {
+                max-height: 45px;
+            }
+
             .page-link{
                 color: #fff;
                 white-space: nowrap;
-                font-size: $h2-desktop;
+                font-size: $base-font-size;
                 text-transform: uppercase;
-                line-height: 2*$mobile-margin;
+                line-height: 1;
+                padding-bottom: 18px;
+                min-width: 225px;
+                @include prefix(transition, opacity 0.125s ease, webkit moz mx o);
+
+                &.current {
+                    color: $accent-color;
+                }
+                &.sub{
+                    font-size: 18px;
+                }
+            }
+
+            .subpages {
+                opacity: 0;
+                pointer-events: none;
             }
 
             .social-media {
                 @include value-prefix(display, flex, webkit moz ms o);
                 @include prefix(flex-flow, row wrap, webkit moz ms o);
+                width: 100%;
                 .social-icon{
                     margin-right: 9px;
                     width: 24px;
                     height: auto;
+                    vertical-align: text-top;
                 }
             }
         }
@@ -121,11 +149,86 @@ body {
     }
 }
 
+.slideshow {
+    @include value-prefix(display, flex, webkit moz ms o);
+    @include prefix(flex-flow, row nowrap, webkit moz ms o);
+    overflow: hidden;
+}
+
+
 .wrapper {
     @extend %absolute-reset;
     left: auto;
     display: block;
     width: calc(100% - #{$menu-width});
     min-height: 100%;
+    @include value-prefix(height, fit-content, webkit);
     background-color: $accent-color;
+
+    .post {
+
+        .post-content {
+
+            section {
+                padding: $desktop-margin 4*$mobile-margin; 
+                @include value-prefix(display, flex, webkit moz ms o);
+                @include prefix(flex-flow, row wrap, webkit moz ms o);
+            }
+
+            section:first-child {
+                padding-top: 2*$desktop-margin;
+            }
+
+            section:last-child {
+                padding-bottom: 2*$desktop-margin;
+            }
+
+            h1 {
+                text-transform: uppercase;
+                font-family: $header-font;
+                font-size: $h1-desktop;
+                line-height: 0.8;
+                letter-spacing: -2px;
+                width: 380px;
+                margin-bottom: $small-font-size;
+                @include prefix(align-self, flex-start, webkit moz ms o);
+
+                @include media-query($on-laptop) {
+                    @include prefix(transform, none !important, webkit moz ms o);
+                    width: 100%;
+                }
+            }
+
+            h2 {
+                text-transform: uppercase;
+                font-size: $h2-desktop;
+                font-weight: 700;
+                line-height: 45px;
+                margin-bottom: $small-font-size;
+            }
+
+            .section-content {
+                @include prefix(flex, 1 0 50%, webkit moz ms o);
+                letter-spacing: 1px;
+            }
+
+            #values+.section-content .sub-section{
+                padding: $desktop-margin;
+                margin-right: -$desktop-margin;
+                margin-bottom: $desktop-margin;
+                background-color: $text-color;
+                color: #fff;
+
+                h2{
+                    color: $accent-color-2;
+                }
+
+                @include media-query($on-laptop) {
+                    &:first-child {
+                        margin-top: $small-font-size;
+                    }        
+                }
+            }
+        }
+    }
 }
