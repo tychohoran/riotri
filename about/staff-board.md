@@ -7,16 +7,15 @@ layout: page
 ![riorri-board.jpg](/uploads/riorri-board.jpg)
 
 # BOARD
-
-Katie Krafft
-Lipou Laliemthavisay
-Reba Mitchell
-Roz Raskin, Secretary
-Darlene Reina, Chair
-Meredith Stern
-Carly Stearnbourne
-Abeer Khatana
-Kyla Falcon
+* Katie Krafft
+* Lipou Laliemthavisay
+* Reba Mitchell
+* Roz Raskin, Secretary
+* Darlene Reina, Chair
+* Meredith Stern
+* Carly Stearnbourne
+* Abeer Khatana
+* Kyla Falcon
 
 # STAFF
 
