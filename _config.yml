@@ -14,6 +14,7 @@ defaults:
     type: pages
   values:
     layout: page
+    Has Visible Header: true
     Slideshow Images:
       - ""
 description: RIOT Rhode Island is a volunteer-based non-profit that uses music creation
