@@ -1,6 +1,7 @@
 ---
 title: Mission, Vision, Values
 position: 0
+Has Visible Header: false
 layout: page
 ---
 
