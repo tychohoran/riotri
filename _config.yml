@@ -15,7 +15,7 @@ defaults:
   values:
     layout: page
     Slideshow Images:
-      - ""
+    - ''
 description: RIOT Rhode Island is a volunteer-based non-profit that uses music creation
   and critical thinking to foster empowerment, collaborative relationships, and the
   development of healthy identities in girls, women, trans, and gender non-conforming
