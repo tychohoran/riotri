@@ -1,11 +1,12 @@
 <header class="site-header">
 	<a class="site-title" href="{{site.url}}">
-		<img src="{{site['Site Vertical Logo']}}" alt="RIOT RI Logo" class="site-logo">
+		<img src="{{site['Site Vertical Logo']}}" alt="RIOT RI Logo" class="site-logo-vert">
+		<img src="{{site['Site Logo']}}" alt="RIOT RI Logo" class="site-logo">
+	</a>
+	<a class="nav-trigger" href="javascript:void(0)" onclick="doingClick();">
+			{% include menu-icon.html %}
 	</a>
 	<nav class="site-nav">
-		<a class="nav-trigger" href="#">
-			{% include menu-icon.html %}
-		</a>
 		<div class="page-links">
 			 {% assign sorted_pages = site.pages | sort:"position" %}
 			 {% for link_page in sorted_pages %}

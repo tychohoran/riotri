@@ -7,14 +7,16 @@
 
 // Our variables
 $base-font-family: 'Lato', sans-serif;
-$base-font-size:   27px;
+$base-font-size:   22.5px;
 $base-font-weight: 400;
-$base-line-height: 1.5;
+$base-line-height: 36px;
 $small-font-size: 18px;
 
 $header-font: Antarctican Headline, "Antarctican Headline", sans-serif;
 $h1-desktop: 120px;
 $h2-desktop: 36px;
+$h1-mobile: 72px;
+$h2-mobile: 27px;
 
 $spacing-unit:     27px;
 $mobile-margin:    22.5px;
@@ -24,10 +26,12 @@ $text-color:       #000;
 $background-color: {{site['Background Color']}};
 $accent-color:     {{site['Accent Color 1']}};
 $accent-color-2:     {{site['Accent Color 2']}};
+$accent-color-3:     {{site['Accent Color 3']}};
 
 // Width of the content area
 $content-width:    600px;
 $menu-width:	135px;
+$menu-height:	90px;
 
 $on-palm:          600px;
 $on-laptop:        1100px;

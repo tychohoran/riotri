@@ -2,6 +2,6 @@
 title: Get Involved
 permalink: "/get-involved/"
 position: 1
-layout: page
+layout: category
 ---
 

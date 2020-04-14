@@ -1,18 +1,19 @@
 ---
 title: Donate
 position: 0
+Has Visible Header: true
 layout: page
 ---
 
-# DONATE MONEY
+# MONEY
 
 Click the donation button below to give safely via [Mightycause](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island), one time or monthly. Checks can be sent to our mailing address (PO Box 3475, Providence, RI 02909). Donations are tax deductible, too! (If you are paying tuition for Girls Rock Camp, please visit our [registration page](http://girlsrockri.org/register-girlsrockcamp/))
 
-# DONATE TIME
+# TIME
 
 Visit our [volunteer page](http://girlsrockri.org/volunteer/) to learn about our fun and important volunteer opportunities!
 
-# DONATE STUFF
+# STUFF
 
 We can always use music gear, office equipment, and food donations (check out our wish list below)! All donations can be dropped off at the RIOT RI Headquarters located at 763 Westminster St Providence, RI 02903.  If you would like to schedule a time to drop off donations, please contact us at info@girlsrockri.org.  All in-kind donations are tax-deductible, too!
 

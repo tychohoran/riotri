@@ -108,8 +108,12 @@ object {
  * Links
  */
 a, a:link, a:visited {
-    color: $accent-color-2;
+    color: $accent-color-3;
     text-decoration: none;
+}
+
+a:hover{
+    color: $accent-color-2;
 }
 
 /**
