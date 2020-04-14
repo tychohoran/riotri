@@ -1,6 +1,7 @@
 ---
 title: Battle of the Patriarchy
 position: 3
+Has Visible Header: true
 layout: page
 ---
 

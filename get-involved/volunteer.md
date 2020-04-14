@@ -1,6 +1,7 @@
 ---
 title: Volunteer
 position: 2
+Has Visible Header: true
 layout: page
 ---
 

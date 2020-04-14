@@ -58,7 +58,7 @@ h1 {
     text-transform: uppercase;
     font-family: $header-font;
     font-size: $h1-desktop;
-    line-height: 0.8;
+    line-height: 0.85;
     letter-spacing: -1px;
     
     @include media-query($on-palm) {
@@ -288,7 +288,8 @@ h2 {
     }
 
     .page-header {
-        background-color: $accent-color-2;
+        background-color: #000;
+        color: #fff;
         z-index: 50;
     }
 
@@ -302,11 +303,15 @@ h2 {
 
         .post-header {
             background-color: $accent-color-2;
+
+            &.hidden {
+                display: none;
+            }
         }
         .post-content {
 
             h1 {
-                width: 400px;
+                width: 420px;
                 padding-right: $desktop-margin;
                 @include prefix(align-self, flex-start, webkit moz ms o);
 
@@ -346,33 +351,39 @@ h2 {
                 @include media-query($on-palm) {
                     padding: $mobile-margin 0; 
 
-                    * {
+                    & > *:not(img) {
                         width: 100%;
-                    }
-                    h1, .section-content > * {
                         padding: 0 $desktop-margin;
 
-                        img {
-                            margin: 0 (-$desktop-margin) $mobile-margin (-$desktop-margin);
-                            width: calc(100% + 2*#{$desktop-margin})
+                    }
+                    & > .section-content {
+                        padding: 0;
+
+                        & > * {
+                            padding: 0 $desktop-margin;
+
+                            img {
+                                margin: 0 (-$desktop-margin);
+                                width: calc(100% + 2*#{$desktop-margin});
+                            }
                         }
                     }
                 }
-            }
 
-            section:first-child {
-                padding-top: 2*$desktop-margin;
+                &:first-child {
+                    padding-top: 2*$desktop-margin;
 
-                @include media-query($on-palm) {
-                    padding-top: 2*$mobile-margin; 
+                    @include media-query($on-palm) {
+                        padding-top: 2*$mobile-margin; 
+                    }
                 }
-            }
 
-            section:last-child {
-                padding-bottom: 2*$desktop-margin;
+                &:last-child {
+                    padding-bottom: 2*$desktop-margin;
 
-                @include media-query($on-palm) {
-                    padding-bottom: 0; 
+                    @include media-query($on-palm) {
+                        padding-bottom: 2*$mobile-margin; 
+                    }
                 }
             }
 
@@ -393,33 +404,28 @@ h2 {
 
                     &:last-child {
                         margin-bottom: 0;
-                        @include media-query($on-palm) {
-                            margin-bottom: 2*$desktop-margin; 
+                    }
+
+                    img {
+                        @include prefix(order, -1, webkit moz ms o);
+                        max-width: 600px;
+                        margin-bottom: $small-font-size;
+                    }
+                    h2 {
+                        margin-bottom: 0;
+                    }
+                    p {
+                        margin-bottom: $desktop-margin;
+                        &:last-child {
+                            margin-bottom: 0;
                         }
+                    }
+
+                    @include media-query($on-palm) {
+                        margin-bottom: $desktop-margin;
                     }
                 }
 
-            }
-
-            #staff+.section-content .sub-section{
-
-                margin-bottom: 2*$desktop-margin;
-
-                img {
-                    @include prefix(order, -1, webkit moz ms o);
-                    max-width: 600px;
-                    margin-bottom: $small-font-size;
-                }
-                h2 {
-                    margin-bottom: 0;
-                }
-                p {
-                    margin-bottom: $desktop-margin;
-                }
-
-                @include media-query($on-palm) {
-                    margin-bottom: $desktop-margin;
-                }
             }
 
             #values+.section-content .sub-section{
@@ -448,14 +454,37 @@ h2 {
 
                     &:last-child{
                         padding-bottom: 2*$desktop-margin;
+                        margin-bottom: -2*$mobile-margin;
                     }
+                }
+            }
+            #wish-list+.section-content{
+                li::before{
+                    content: url("/uploads/lightningbolt.svg");
+                    display: block;
+                    width: 22px;
+                    margin-left: -40px;
+                    margin-right: 18px;
+                    vertical-align: middle;
+                    float: left;
+                }
+
+                li {
+                    text-transform: capitalize;
+                    margin-left: 45px;
+                    margin-bottom: 18px;
+                    margin-top: 18px;
+                    line-height: 1.5;
                 }
             }
         }
     }
 
-    #volunteer .post-section h1{
+    #volunteer .post-section h1, #sponsor .post-section h1{
         font-size: $h1-desktop*(2/3);
+         @include media-query($on-palm) {
+            font-size: $h1-mobile*(2/3);
+         }
     }
     #volunteer-job-descriptions {
         font-size: $h1-desktop*(2/3);

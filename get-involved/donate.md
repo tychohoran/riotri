@@ -1,6 +1,7 @@
 ---
 title: Donate
 position: 0
+Has Visible Header: true
 layout: page
 ---
 

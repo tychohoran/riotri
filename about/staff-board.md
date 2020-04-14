@@ -1,6 +1,7 @@
 ---
 title: Staff & Board
 position: 1
+Has Visible Header: true
 layout: page
 ---
 

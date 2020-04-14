@@ -1,6 +1,7 @@
 ---
 title: Subscribe
 position: 5
+Has Visible Header: true
 layout: page
 ---
 
