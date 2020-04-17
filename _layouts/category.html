@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign has_slideshow = page['Slideshow Images'] | compact | join: "" | strip_html %}
 {% unless has_slideshow == "" %}
 {% include slideshow.html %}
