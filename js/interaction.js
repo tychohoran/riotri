@@ -10,16 +10,28 @@ $(document).ready(function(){
 	// });
 
 	var slideIndex = 0;
+	var timer;
 	showSlides();
+
+	$(".dot").click(function() {
+		var num = $(".dot").index(this);
+		slideIndex = num;
+		clearTimeout(timer);
+		showSlides();
+	});
 
 	function showSlides() {
 	  var i;
-	  var slides = $(".slideshow").find("img");
+	  var slides = $(".slideshow-carousel").find("img");
 	  //var dots = document.getElementsByClassName("dot");
-	  $(".slideshow").css("transform","translateX("+(-slideIndex*100)+"%)");
+	  $(".slideshow-carousel").css("transform","translateX("+(-slideIndex*100)+"%)");
+	  slides.removeClass("focused");
+	  $(".slideshow-progress").find(".dot").removeClass("focused");
 	  slideIndex++;
+	  $(".slideshow-carousel").find("img:nth-child("+slideIndex+")").addClass("focused");
+	  $(".slideshow-progress").find(".dot:nth-child("+slideIndex+")").addClass("focused");
 	  if (slideIndex >= slides.length) {slideIndex = 0}
-	  setTimeout(showSlides, 4000); // Change image every 2 seconds
+	  timer = setTimeout(showSlides, 10000);
 	}
 
 	$(".nav-trigger").click(function(){
@@ -69,17 +81,25 @@ $(document).ready(function(){
 	$(".wrapper").mouseover( function(){
 		$(".site-header").css("width", "");
 	});
-	$(".page-link").mouseout(function(){
+	$(".link-group").mouseout(function(){
 		$(".site-header").css("width", "");
-		$(".subpages").css("opacity", "0");
-		$(this).parent().find(".page-link").each( function() {
+		$(".subpages").css({"opacity":"0", "pointer-events":"none"});
+		$(".page-link").each( function() {
 			$(this).css("opacity", "1");
 		});
 	});
-	$(".page-link").mouseover(function(){
-		$(".site-header").css("width", "500px");
-		$(this).next(".subpages").css("opacity", "1");
-		$(this).parent().find(".page-link").each( function() {
+	$(".link-group").mouseover(function(){
+		if(!$(this).hasClass("contact-group")){
+			$(".site-header").css("width", "550px");
+			$(this).find(".subpages").css({"opacity":"1", "pointer-events":"all"});
+		};
+		$(".link-group > .page-link").each( function() {
+			$(this).css("opacity", "0.4");
+		});
+		$(this).find(".page-link").first().css("opacity", "1");
+	});
+	$(".subpages .page-link").mouseover(function(){
+		$(".subpages .page-link").each( function() {
 			$(this).css("opacity", "0.4");
 		});
 		$(this).css("opacity", "1");

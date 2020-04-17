@@ -20,6 +20,7 @@ layout: default
 	{% capture class %}post-header{% unless subpage['Has Visible Header'] %} hidden{% endunless %}{% endcapture %}
 	<header class="{{class}}">
     	<h1 class="post-title">{{ subpage.title }}</h1>
+    	{% include arrow-icon.html %}
   	</header>
 
   <div class="post-content">

@@ -23,6 +23,11 @@ body {
     @include prefix(flex-flow, column nowrap, webkit moz ms o);
     @include prefix(align-content, flex-start, webkit moz ms o);
 }
+%flex-setup-row{
+    @include value-prefix(display, flex, webkit moz ms o);
+    @include prefix(flex-flow, row wrap, webkit moz ms o);
+    @include prefix(justify-content, space-between, webkit moz ms o);
+}
 
 .splash {
     @extend %absolute-reset;
@@ -89,13 +94,14 @@ h2 {
     z-index: 100;
     overflow: hidden;
 
-    @include prefix(transition, 0.125s ease, webkit moz mx o);
+    @include prefix(transition, width 0.125s ease, webkit moz mx o);
 
     @include media-query($on-palm) {
-        width: 100%;
+        width: 100% !important;
         height: $menu-height;
         @include prefix(flex-flow, row wrap, webkit moz ms o);
         @include prefix(justify-content, space-between, webkit moz ms o);
+        @include prefix(transition, height 0.125s ease, webkit moz mx o);
     }
 
     a {
@@ -155,27 +161,37 @@ h2 {
         }        
     }
     .site-nav {
+
+        @include media-query($on-palm){
+            width: 100% !important;
+        }
         .page-links{
             margin-left: $desktop-margin;
             margin-top: 18px;
-            @include value-prefix(display, flex, webkit moz ms o);
-            @include prefix(flex-flow, row wrap, webkit moz ms o);
+            @extend %flex-setup;
             width: 600px;
             opacity: 0;
             pointer-events: none;
             @include prefix(transition, opacity 0.125s ease, webkit moz mx o);
 
-            * {
+            > * {
                 max-height: 45px;
             }
 
             @include media-query($on-palm){
-                margin: 18px $mobile-margin;
+                margin: 0;
+                padding: 0 $small-font-size $small-font-size $small-font-size;
                 text-align: right;
                 @include prefix(align-items, flex-end, webkit moz ms o);
+                width: 100% !important;
             }
 
+            .link-group{
+                @include value-prefix(display, flex, webkit moz ms o);
+                @include prefix(flex-flow, row nowrap, webkit moz ms o);
+            }
             .page-link{
+                position: relative;
                 color: #fff;
                 white-space: nowrap;
                 font-size: $base-font-size;
@@ -194,13 +210,17 @@ h2 {
             }
 
             .subpages {
+                position: relative;
                 opacity: 0;
                 pointer-events: none;
+                @include media-query($on-palm){
+                    display: none;
+                }
             }
 
             .social-media {
-                @include value-prefix(display, flex, webkit moz ms o);
-                @include prefix(flex-flow, row wrap, webkit moz ms o);
+                @extend %flex-setup-row;
+                @include prefix(justify-content, flex-start, webkit moz ms o);
                 width: 100%;
                 .social-icon{
                     margin-right: 9px;
@@ -209,7 +229,14 @@ h2 {
                     vertical-align: text-top;
                 }
 
-                
+                @include media-query($on-palm){
+                    @include prefix(justify-content, flex-end, webkit moz ms o);
+                    .social-icon{
+                        margin-right: 0;
+                        margin-left: 9px;
+                    }
+
+                }
             }
         }
     }
@@ -240,18 +267,47 @@ h2 {
         }
     }
 }
-
 .slideshow {
-    position: relative;
-    @include value-prefix(display, flex, webkit moz ms o);
-    @include prefix(flex-flow, row nowrap, webkit moz ms o);
-    @include prefix(transition, transform 0.5s ease, webkit moz ms o);
-    max-height: 600px;
-    min-height: 450px;
+    .slideshow-carousel {
+        position: relative;
+        @include value-prefix(display, flex, webkit moz ms o);
+        @include prefix(flex-flow, row nowrap, webkit moz ms o);
+        @include prefix(transition, transform 0.5s ease, webkit moz ms o);
+        max-height: 600px;
+        min-height: 450px;
 
-    img {
-        min-width: 100%;
-        object-fit: cover;
+        img {
+            min-width: 100%;
+            object-fit: cover;
+            @include media-query($on-palm){
+                object-position: 15%;
+                @include prefix(transition, object-position 10s linear, webkit moz ms o);
+                &.focused{
+                    object-position: 85%;
+                }
+            }
+        }
+    }
+    .slideshow-progress {
+        position:relative;
+        top: -4*$mobile-margin;
+        height: 0;
+        z-index: 10;
+        text-align: center;
+        @include media-query($on-palm){
+            top: -3*$desktop-margin;
+        }
+        .dot {
+              height: 12px;
+              width: 12px;
+              background-color: #fff;
+              opacity: 0.4;
+              border-radius: 50%;
+              display: inline-block;
+              &.focused {
+                opacity: 1;
+              }
+        }
     }
 }
 
@@ -280,10 +336,25 @@ h2 {
 
     .post-header,.page-header {
         position: relative;
+        @extend %flex-setup-row;
+
         padding: $desktop-margin 4*$mobile-margin;
 
         @include media-query($on-palm) {
-            padding: $mobile-margin $desktop-margin;
+            padding: $mobile-margin;
+        }
+        .arrow-icon{
+            width: $desktop-margin;
+            overflow: visible;
+            @include media-query($on-palm) {
+                width: $mobile-margin;
+            }
+            .arrow {
+                fill:none;stroke:#000;stroke-width:5px;
+                @include media-query($on-palm) {
+                    stroke-width:4px;
+                }
+            }
         }
     }
 
@@ -325,8 +396,7 @@ h2 {
 
             section {
                 padding: $desktop-margin 4*$mobile-margin; 
-                @include value-prefix(display, flex, webkit moz ms o);
-                @include prefix(flex-flow, row wrap, webkit moz ms o);
+                @extend %flex-setup-row;
 
                 & > img {
                     margin: 0 4*(-$mobile-margin) $mobile-margin 4*(-$mobile-margin);
@@ -353,18 +423,18 @@ h2 {
 
                     & > *:not(img) {
                         width: 100%;
-                        padding: 0 $desktop-margin;
+                        padding: 0 $mobile-margin;
 
                     }
                     & > .section-content {
                         padding: 0;
 
                         & > * {
-                            padding: 0 $desktop-margin;
+                            padding: 0 $mobile-margin;
 
                             img {
-                                margin: 0 (-$desktop-margin);
-                                width: calc(100% + 2*#{$desktop-margin});
+                                margin: 0 (-$mobile-margin);
+                                width: calc(100% + 2*#{$mobile-margin});
                             }
                         }
                     }

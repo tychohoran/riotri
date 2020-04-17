@@ -1,5 +1,12 @@
 <div class="slideshow">
-{% for image in page['Slideshow Images'] %}
-	<img alt="" src="{{image}}">
-{% endfor %}
+	<div class="slideshow-carousel">
+		{% for image in page['Slideshow Images'] %}
+			<img alt="" src="{{image}}">
+		{% endfor %}
+	</div>
+	<div class="slideshow-progress">
+		{% for image in page['Slideshow Images'] %}
+			<a class="dot" href="javascript:void(0)" onclick="doingClick();"></a>
+		{% endfor %}
+	</div>
 </div>
