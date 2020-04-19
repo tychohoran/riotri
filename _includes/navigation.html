@@ -19,7 +19,9 @@
 			    	<div class="subpages">
 				    	{% for subpage in subpages %}
 				    		{% unless subpage.url == root_dir %}
-				    		<a class="page-link sub" href="{{subpage.url}}">{{subpage.title}}</a>
+				    		{% assign slug = subpage.title | slugify | prepend:"#" %}
+				    		{% assign final_path = link_page.url | append: slug %}
+				    		<a class="page-link sub" href="{{final_path}}">{{subpage.title}}</a>
 				    		{% endunless %}
 				    	{% endfor %}
 			    	</div>

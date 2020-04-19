@@ -42,7 +42,7 @@ $(document).ready(function(){
 	$(document).scroll(function(){
 		var scroll = $(document).scrollTop();
 		console.log($(document).innerWidth());
-		if($(document).innerWidth() >= 1100){
+		if($(document).innerWidth() >= 1152){
 			$(".post-section").each(function(){
 				var offset = $(this).offset();
 				var height = $(this).height();
@@ -103,5 +103,9 @@ $(document).ready(function(){
 			$(this).css("opacity", "0.4");
 		});
 		$(this).css("opacity", "1");
+	});
+	$(".page-link").click( function(){
+		$(".site-header").css("width", "");
+		$(".site-header").toggleClass("selected");-090
 	});
 });
