@@ -9,7 +9,7 @@ Slideshow Images:
 - "/uploads/gear-loan.jpg"
 - "/uploads/gear-loan-2.jpg"
 - "/uploads/gear-loan-3.jpg"
-- 
+- "/uploads/gear-loan-4.jpg"
 layout: page
 ---
 
