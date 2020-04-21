@@ -18,7 +18,6 @@ All participants and volunteers are welcome to borrow our music gear year-round 
 We currently have over 100 instruments loaned out in the community. Gear loan of any specific instrument is subject to availability. 
 
 Deposit rates are as follows:
-
 * Electric Guitar: $20
 * Electric Bass: $20
 * Acoustic Guitar: $20
