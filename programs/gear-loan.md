@@ -5,6 +5,11 @@ Has Visible Header: true
 Description: All participants and volunteers are welcome to borrow our music gear
   year-round for a small deposit, which they get back when the instrument is returned.
 Thumbnail Image: "/uploads/gear-loan.jpg"
+Slideshow Images:
+- "/uploads/gear-loan.jpg"
+- "/uploads/gear-loan-2.jpg"
+- "/uploads/gear-loan-3.jpg"
+- 
 layout: page
 ---
 
