@@ -6,6 +6,8 @@ Description: Band Booster is a program where bands can learn how to be bands! Ba
   get a weekly practice time at our space (gear included!) and learn how to practice
   effectively, record their music, book shows, and promote themselves.
 Thumbnail Image: "/uploads/band-booster.jpg"
+Slideshow Images:
+- "/uploads/band-booster.jpg"
 layout: page
 ---
 
