@@ -738,6 +738,7 @@ img {
                 &:hover {
                     outline: solid 9px $accent-color-2;
                     border: solid 9px $accent-color-2;
+                    background-blend-mode: multiply;
                     div.subpage-wrapper{
                         padding: 27px;
                     }
