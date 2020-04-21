@@ -22,7 +22,7 @@
   <section class="subpage-links post">
     {% for subpage in subpages %}
       {% if subpage.title and subpage.dir != subpage.url %}
-        <a class="subpage-link" id="{{subpage.title | slugify}}" style="background-image: linear-gradient(#fff 40%, #828282), url({{subpage['Thumbnail Image']}})" href="{{subpage.url}}">
+        <a class="subpage-link" id="{{subpage.title | slugify}}" style="background-image: url({{subpage['Thumbnail Image']}})" href="{{subpage.url}}">
           <div class="subpage-wrapper">
             <h1 class="subpage-title">
               {{subpage.title}}
