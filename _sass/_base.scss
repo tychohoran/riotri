@@ -38,6 +38,7 @@ body, html {
     @include prefix(font-variant-ligatures, common-ligatures, webkit);
     @include prefix(font-smoothing, antialiased, webkit);
     -moz-osx-font-smoothing: grayscale;
+    scroll-behavior: smooth;
 }
 
 /**

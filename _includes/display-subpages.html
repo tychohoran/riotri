@@ -1,0 +1,42 @@
+{% assign subpages = site.pages | sort:"position" | where: "dir", page.dir %}
+{% assign has_subpages = subpages | compact | join: "" | strip %}
+{% unless has_subpages == "" %}
+{% if page['Has Subpages Embedded'] %}
+  <!-- EMBEDED SUBPAGE CONTENT -->
+  {% for subpage in subpages %}
+    {% if subpage.title and subpage.dir != subpage.url %}
+      <article class="post subpage" id="{{subpage.title | slugify}}">
+        {% capture class %}post-header{% unless subpage['Has Visible Header'] %} hidden{% endunless %}{% endcapture %}
+
+        <header class="{{class}}">
+          <h1 class="post-title">{{ subpage.title }}</h1>
+        </header>
+          {% assign edited_content = subpage.content | markdownify | strip | replace: "<h1", "</div></section><section class='post-section'><h1 class='section-header'" | replace: "/h1>","/h1><div class='section-content'>" | replace: "<p><img", "<img" %}
+          {{ edited_content | replace: "></p>",">"}}
+
+      </article>
+    {% endif %}
+  {% endfor %}
+{% else %}
+  <!-- SUBPAGE LINKS -->
+  <section class="subpage-links post">
+    {% for subpage in subpages %}
+      {% if subpage.title and subpage.dir != subpage.url %}
+        <a class="subpage-link" id="{{subpage.title | slugify}}" style="background-image: linear-gradient(#fff 40%, #828282), url({{subpage['Thumbnail Image']}})" href="{{subpage.url}}">
+          <div class="subpage-wrapper">
+            <h1 class="subpage-title">
+              {{subpage.title}}
+            </h1>
+            {% assign has_desccription = subpage['Description'] | compact | join: "" | strip %}
+            {% unless has_desccription == "" %}
+            <div class="subpage-description">
+              {{subpage['Description'] | markdownify | strip | newline_to_br}}
+            </div>
+            {% endunless %}
+          </div>
+        </a>
+      {% endif %}
+    {% endfor %}
+  </section>
+{% endif %}
+{% endunless %}
