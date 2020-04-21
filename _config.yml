@@ -41,3 +41,8 @@ Twitter URL: https://twitter.com/girlsrockri
 baseurl: 
 url: http://riotri.org
 markdown: kramdown
+Social Media:
+  Facebook:
+    Link: https://www.facebook.com/girlsrockri/
+    Icon Image: "/uploads/facebook-icon.svg"
+Field name: 
