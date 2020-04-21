@@ -530,7 +530,7 @@ img {
         @include prefix(flex-flow, row nowrap, webkit moz ms o);
         @include prefix(transition, transform 0.5s ease, webkit moz ms o);
         max-height: 100%;
-        min-height: 270px;
+        min-height: 50%;
 
         img {
             min-width: 100%;
