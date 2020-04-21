@@ -41,7 +41,7 @@ At Rock Camp, we know how to have a good time. The camp day is interspersed with
 
 ## CHECK IT OUT!
 Want to see what happens at Ladies Rock Camp? Check out these photos and videos from the Spring 2017 session:
-–Behind the scenes photos
--More behind the scenes photos by Jaime Lowe
--Showcase concert photos by Lydia Mackela
--Showcase videos by Julia Liu
+* Behind the scenes photos
+* More behind the scenes photos by Jaime Lowe
+* Showcase concert photos by Lydia Mackela
+* Showcase videos by Julia Liu
