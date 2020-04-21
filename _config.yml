@@ -35,9 +35,22 @@ Menu Image: "/uploads/RIOT-menu-icon.svg"
 Site Logo: "/uploads/RIOT-Logo.svg"
 Site Vertical Logo: "/uploads/RIOT-Logo-Portrait.svg"
 Favicon Image: "/uploads/RIOT-Favicon.png"
-Instagram URL: https://www.instagram.com/girlsrockri
-Facebook URL: https://www.facebook.com/girlsrockri/
-Twitter URL: https://twitter.com/girlsrockri
 baseurl: 
 url: http://riotri.org
 markdown: kramdown
+Social Media:
+  Instagram:
+    URL: https://www.instagram.com/girlsrockri
+    Icon Image: "/uploads/instagram-icon.svg"
+  Facebook:
+    URL: https://www.facebook.com/girlsrockri/
+    Icon Image: "/uploads/facebook-icon.svg"
+  Twitter:
+    URL: https://twitter.com/girlsrockri
+    Icon Image: "/uploads/twitter-icon.svg"
+  Youtube:
+    URL: https://www.youtube.com/channel/UCELKEtVnMcIL3ptJojOwKtQ
+    Icon Image: "/uploads/youtube-icon.svg"
+  Flickr:
+    URL: https://www.flickr.com/photos/girlsrockri
+    Icon Image: "/uploads/flickr-icon.svg"
