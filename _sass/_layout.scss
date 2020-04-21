@@ -746,8 +746,8 @@ img {
                         color: $accent-color;
                     }
                     @include media-query(420px){
-                        outline: solid 9px $accent-color-2;
-                        border: solid 9px $accent-color-2;
+                        outline: solid 0px $accent-color-2;
+                        border: solid 0px $accent-color-2;
                     }
                 }
 
