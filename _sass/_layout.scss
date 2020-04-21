@@ -848,7 +848,15 @@ img {
                 margin-bottom: -2*$mobile-margin;
             }
         }
-        #wish-list+.section-content{
+    }
+
+    #staff-board > img{
+        @include media-query($on-laptop){
+            max-height: 500px;
+        }
+    }
+
+    #wish-list+.section-content, #gear-loan{
             li::before{
                 content: url("/uploads/lightningbolt.svg");
                 display: block;
@@ -867,13 +875,6 @@ img {
                 line-height: 1.5;
             }
         }
-    }
-
-    #staff-board > img{
-        @include media-query($on-laptop){
-            max-height: 500px;
-        }
-    }
 
     #volunteer .post-section h1, #sponsor .post-section h1{
         font-size: $h1-desktop*(2/3);
