@@ -6,6 +6,7 @@ layout: page
 ---
 
 # 2019 SPONSORS
+
 Thank you to our Girls Rock Camp 2019 sponsors and grants for supporting empowerment through music!
  
 # Food Donors

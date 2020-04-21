@@ -7,6 +7,7 @@ Slideshow Images:
 - "/uploads/RiotRI-Picture2.jpg"
 - "/uploads/RiotRI-Picture4.jpg"
 - "/uploads/RiotRI-Picture3.jpg"
-layout: category
+Has Subpages Embedded: true
+layout: hub
 ---
 

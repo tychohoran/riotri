@@ -2,49 +2,13 @@
 layout: default
 ---
 
-{% assign has_banner = site['Announcement Banner Text'] | compact | join: "" | strip %}
-{% unless has_slideshow == "" %}
-<!-- ANNOUNCEMENT BANNER -->
-{% include announcement.html %}
-{% endunless %}
-
-{% assign has_slideshow = page['Slideshow Images'] | compact | join: "" | strip %}
-{% unless has_slideshow == "" %}
-<!-- PHOTO CAROUSEL -->
-{% include slideshow.html %}
-{% endunless %}
-
-<!-- PAGE HEADER -->
-<header class="page-header">
-    	<h1 class="page-title">{{ page.title }}</h1>
-</header>
-{% assign stripped_content = content | compact | join: "" | strip %}
-{% unless stripped_content == "" %}
+<!-- PAGE CONTENT -->
+{% assign has_content = content | compact | join: "" | strip %}
+{% unless has_content == "" %}
 	<article class="post" id="{{page.title | slugify}}">
-		<div class="post-content">
-    {{ content | markdownify | prepend: "<section class='post-section'>" | replace: "<h1", "</section><section class='post-section'><h1" | replace: "/h1>", "/h1><div class='section-content'>" | replace: "p><img", "img" | replace: "<h2", "</aside><aside class='sub-section'><h2" | strip | replace: "<div class='section-content'><p>", "<div class='section-content'><aside class='sub-section'><p>" | remove: "<section class='post-section'></section>" }}
-  </div>
-	</article>
+      {% assign edited_content = content | markdownify | strip | replace: "<h1", "</div></section><section class='post-section'><h1 class='section-header'" | replace: "/h1>","/h1><div class='section-content'>" | replace: "<p><img", "<img" %}
+          {{ edited_content | replace: "></p>",">"}}
+  </article>
 {% endunless %}
-{% assign sorted_pages = site.pages | sort:"position" | where: "dir", page.dir %}
-{% for subpage in sorted_pages %}
 
-{% if subpage.title and subpage.dir != subpage.url %}
-
-<article class="post" id="{{subpage.title | slugify}}">
-
-	{% capture class %}post-header{% unless subpage['Has Visible Header'] %} hidden{% endunless %}{% endcapture %}
-	<header class="{{class}}">
-    	<h1 class="post-title">{{ subpage.title }}</h1>
-    	{% include arrow-icon.html %}
-  	</header>
-
-  <div class="post-content">
-    {{ subpage.content | markdownify | prepend: "<section class='post-section'>" | replace: "<h1", "</section><section class='post-section'><h1" | replace: "/h1>", "/h1><div class='section-content'>" | replace: "p><img", "img" | replace: "<h2", "</aside><aside class='sub-section'><h2" | strip | replace: "<div class='section-content'><p>", "<div class='section-content'><aside class='sub-section'><p>" | remove: "<section class='post-section'></section>" }}
-  </div>
-
-</article>
-
-{% endif %}
-
-{% endfor %}
+{% include display-subpages.html %}
