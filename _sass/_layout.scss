@@ -530,6 +530,10 @@ img {
         @include prefix(flex-flow, row nowrap, webkit moz ms o);
         @include prefix(transition, transform 0.5s ease, webkit moz ms o);
         max-height: 100%;
+        @include media-query($on-palm){
+            max-height: 60%;
+            min-height: 60%;
+        }
 
         img {
             min-width: 100%;
@@ -553,7 +557,7 @@ img {
             top: -8*$mobile-margin;
         }
         @include media-query($on-palm){
-            top: -3*$desktop-margin;
+            top: -4*$desktop-margin;
         }
         .dot {
               height: 12px;
@@ -741,6 +745,10 @@ img {
                     }
                     h1.subpage-title {
                         color: $accent-color;
+                    }
+                    @include media-query(420px){
+                        outline: solid 0px $accent-color-2;
+                        border: solid 0px $accent-color-2;
                     }
                 }
 
