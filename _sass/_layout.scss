@@ -744,6 +744,10 @@ img {
                     h1.subpage-title {
                         color: $accent-color;
                     }
+                    @include media-query(420px){
+                        outline: solid 9px $accent-color-2;
+                        border: solid 9px $accent-color-2;
+                    }
                 }
 
                 div.subpage-wrapper{
@@ -775,6 +779,9 @@ img {
                     overflow: hidden;
                     font-size: $small-font-size;
                     line-height: $mobile-margin;
+                    @include media-query(420px){
+                        display: none;
+                    }
                 }
             }
 
