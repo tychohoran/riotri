@@ -3,7 +3,9 @@ title: Youth Rock Camp
 position: 0
 Has Visible Header: true
 layout: page
-Description: Youth Rock Camp (previously called Girls Rock Camp) is an intensive one-week day camp offered to youth ages 10-18, where campers of all skill levels have the opportunity to learn guitar, bass, drums, vocals, or other instruments.
+Description: Youth Rock Camp (previously called Girls Rock Camp) is an intensive one-week
+  day camp offered to youth ages 10-18, where campers of all skill levels have the
+  opportunity to learn guitar, bass, drums, vocals, or other instruments.
 Thumbnail Image: "/uploads/youth-rock-camp.jpeg"
 Slideshow Images:
 - "/uploads/youth-rock-camp.jpeg"
