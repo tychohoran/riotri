@@ -175,8 +175,22 @@ body {
     @extend %flex-setup;
     @include prefix(justify-content, center, webkit moz ms o);
     @include prefix(align-items, center, webkit moz ms o);
+    overflow: hidden;
+    &.above {
+        z-index: 50;
+        background: #000;
+        mix-blend-mode: darken;
+        .site-logo {
+            width: calc(100% - #{4*$mobile-margin});
+        }
+    }
     * {
         margin: $spacing-unit/2 $spacing-unit;
+    }
+    video {
+        margin: 0;
+        min-width: 100%;
+        min-height: 100%;
     }
     .site-logo {
         width: $content-width;
