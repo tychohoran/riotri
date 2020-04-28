@@ -34,3 +34,24 @@ Denise (she/her) is a bilingual educator who fiercely advocates for youth. She h
 
 ## Courtney Brown 
 Professional Development Coordinator / Bonner Fellow (she/her)
+
+#YOUTH ADVISORY BOARD
+
+##Loud Youth Leadership Advisory Council
+
+LYLAC (Loud Youth Leadership Advisory Council) is a youth-led council formed to amplify the voices of young people within RIOT RI. As a youth-serving organization, RIOT RI recognizes the importance in having the input of the young people we serve.
+
+We believe in supporting the creation of leadership opportunities for girls, trans and nonbinary youth in our community. The goal of the youth advisory board is for its members to collaborate with each other, as well as staff and board, to acquire leadership skills and to have a space where they can express themselves affecting change within the organization and their community.
+
+Passing the mic to youth leaders allows RIOT RI to have a relevant perspective of the issues affecting the young people we serve through our programs and work as a collective to come up with innovative ideas.
+
+The 5 key components of the youth advisory board: youth-led,  consistent engagement, community agreements, creating a space for youth where youth can be themselves, taking active part in different organizational projects.
+
+LYLAC meets once every other week and their involvement has been key in moving the organization forward by taking part in different project such as:
+
+*New Name Initiative
+*Program Empowerment Evaluations
+*Rethinking Leadership
+*Curriculum Evaluation
+*Community Engagement
+
