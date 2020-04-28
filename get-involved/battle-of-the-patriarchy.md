@@ -6,7 +6,7 @@ layout: page
 ---
 
 # Showcase
-## June 27th, 2020
+## TBA
 Location: Dusk, 301 Harris Ave, Providence, RI 02909
 
 Deadline to Register:
