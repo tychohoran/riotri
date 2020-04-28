@@ -35,9 +35,11 @@ Denise (she/her) is a bilingual educator who fiercely advocates for youth. She h
 ## Courtney Brown 
 Professional Development Coordinator / Bonner Fellow (she/her)
 
-# LYLAC
+# YOUTH ADVISORY BOARD
 
 ![LYLAC.jpg](/uploads/LYLAC.jpg)
+
+## LYLAC
 
 The Loud Youth Leadership Advisory Council is a youth-led council formed to amplify the voices of young people within RIOT RI. As a youth-serving organization, RIOT RI recognizes the importance in having the input of the young people we serve.
 
