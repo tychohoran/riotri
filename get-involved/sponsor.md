@@ -3,6 +3,7 @@ title: Sponsor
 permalink: "/sponsor"
 position: 1
 Has Visible Header: true
+Thumbnail Image: "/uploads/sponsor.jpg"
 layout: page
 ---
 

@@ -1,10 +1,11 @@
-{% assign subpages = site.pages | sort:"position" | where: "dir", page.dir %}
+{% assign subpages = site.pages | sort:"position" %}
 {% assign has_subpages = subpages | compact | join: "" | strip %}
 {% unless has_subpages == "" %}
 {% if page['Has Subpages Embedded'] %}
   <!-- EMBEDED SUBPAGE CONTENT -->
   {% for subpage in subpages %}
-    {% if subpage.title and subpage.dir != subpage.url %}
+    {% assign subpage_dir = subpage.path | remove: subpage.name | prepend: "/" %}
+    {% if subpage_dir == page.dir %}
       <article class="post subpage" id="{{subpage.title | slugify}}">
         {% capture class %}post-header{% unless subpage['Has Visible Header'] %} hidden{% endunless %}{% endcapture %}
 
@@ -21,7 +22,8 @@
   <!-- SUBPAGE LINKS -->
   <section class="subpage-links post">
     {% for subpage in subpages %}
-      {% if subpage.title and subpage.dir != subpage.url %}
+      {% assign subpage_dir = subpage.path | remove: subpage.name | prepend: "/" %}
+      {% if subpage_dir == page.dir %}
         <a class="subpage-link" id="{{subpage.title | slugify}}" style="background-image: url({{subpage['Thumbnail Image']}})" href="{{subpage.url}}">
           <div class="subpage-wrapper">
             <h1 class="subpage-title">

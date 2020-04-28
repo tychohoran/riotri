@@ -705,6 +705,7 @@ img {
                 @extend %padding-first-last;
 
                 @extend %flex-setup-row;
+                @include prefix(align-items, flex-start, webkit moz ms o);
 
                 h1 {
                     width: 420px;
@@ -748,6 +749,9 @@ img {
         }
         h2:not(:last-child) {
             margin-bottom: 9px;
+            @include media-query($on-palm){
+                margin-bottom: 0;
+            }
         }
         p + h2, ul + h2, p + img {
             display: inline-block;
