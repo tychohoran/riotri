@@ -6,7 +6,7 @@ layout: page
 ---
 
 # MISSION
-Girls Rock! Rhode Island is a volunteer-based non-profit that uses music creation, critical thinking and collaborative relationships to foster collective empowerment and the development of healthy identities in girls, women, trans, and gender expansive youth and adults.
+RIOT RI is a volunteer-based non-profit that uses music creation, critical thinking and collaborative relationships to foster collective empowerment and the development of healthy identities in girls, women, trans, and gender-expansive youth and adults.
 
 # VISION
 We start from a basis of mutual respect. We envision a world in which our identities are assets, not limitations, and where we are able to actively claim and develop our own strengths and expertise to create a world of our own design.
