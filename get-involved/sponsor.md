@@ -9,7 +9,7 @@ layout: page
 
 # 2019 SPONSORS
 
-Thank you to our Girls Rock Camp 2019 sponsors and grants for supporting empowerment through music!
+Thank you to our Rock Camp 2019 sponsors and grants for supporting empowerment through music!
  
 # Food Donors
 * [Pizza J](http://www.pizzajprovidence.com/)
@@ -27,14 +27,14 @@ Thank you to our Girls Rock Camp 2019 sponsors and grants for supporting empower
 * [By Chloe](https://eatbychloe.com/menus/)
 
 # BECOME A SPONSOR
-Contact us at info@girlsrockri.org to inquire about how you can become a sponsor, too!  We’d love to tell our 5000+ social media followers, 2000+ friend email list, and 1000+ showcase attendees about how much you rock!
+Contact us at info@riotri.org to inquire about how you can become a sponsor, too!  We’d love to tell our 5000+ social media followers, 2000+ friend email list, and 1000+ showcase attendees about how much you rock!
 To become a 2020 sponsor, please fill out the form below!
  
 ## [SPONSORSHIP FORM](https://docs.google.com/forms/d/e/1FAIpQLSfO5a4o1xvKPzO4KMq8pXvx0RAnOGWGBi6ouUCGDpuYm_z8Rw/viewform?usp=sf_link)
 
 Payment can be made by sending a check to:
 RIOT RI
-769 Westminster St
+763R Westminster St
 Providence, RI 02903
 
 Or through Paypal using the link below:
