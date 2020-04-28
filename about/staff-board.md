@@ -37,6 +37,8 @@ Professional Development Coordinator / Bonner Fellow (she/her)
 
 # LYLAC
 
+![LYLAC.jpg](/uploads/LYLAC.jpg)
+
 The Loud Youth Leadership Advisory Council is a youth-led council formed to amplify the voices of young people within RIOT RI. As a youth-serving organization, RIOT RI recognizes the importance in having the input of the young people we serve.
 
 We believe in supporting the creation of leadership opportunities for girls, trans and nonbinary youth in our community. The goal of the youth advisory board is for its members to collaborate with each other, as well as staff and board, to acquire leadership skills and to have a space where they can express themselves affecting change within the organization and their community.
