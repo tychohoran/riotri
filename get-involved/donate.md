@@ -12,7 +12,7 @@ layout: page
 
 ## [DONATE TO RIOT](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island)
 
-Click the donation button above to give safely via [Mightycause](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island), one time or monthly. Checks can be sent to our mailing address (PO Box 3475, Providence, RI 02909). Donations are tax deductible, too! (If you are paying tuition for Youth Rock Camp, please visit our [Youth Rock Camp](http://riotri.org/programs/youth-rock-camp.html) page.)
+Click the donation button above to give safely via [Mightycause](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island), one time or monthly. Checks can be sent to our mailing address (PO Box 3475, Providence, RI 02909). Donations are tax-deductible, too! (If you are paying tuition for Youth Rock Camp, please visit our [Youth Rock Camp](http://riotri.org/programs/youth-rock-camp.html) page.)
 
 # TIME
 
@@ -22,7 +22,7 @@ Visit our [volunteer page](http://riotri.org/get-involved/volunteer.html) to lea
 
 # STUFF
 
-We can always use music gear, office equipment, and food donations (check out our wish list below)! All donations can be dropped off at the RIOT RI Headquarters located at 763 Westminster St Providence, RI 02903.  If you would like to schedule a time to drop off donations, please contact us at info@riotri.org.  All in-kind donations are tax-deductible, too!
+We can always use music gear, office equipment, and food donations (check out our wish list below)! All donations can be dropped off at the RIOT RI Headquarters located at 763R Westminster St Providence, RI 02903.  If you would like to schedule a time to drop off donations, please contact us at info@riotri.org.  All in-kind donations are tax-deductible, too!
 
 # WISH LIST
 
@@ -48,11 +48,11 @@ electronic drums
 ## Food
 * gift certificates to local restaurants or grocery stores (or other businesses– these are great for raffles!)
 * for camps: pizza, chili, sandwich stuff, oatmeal, fruit, granola bars, snacks, etc.– contact us if interested in making or buying food for camp! (vegan, vegetarian, and gluten-free options are great, too!)
-* year round: snacks (chips & salsa, pretzels, etc.), paper plates and other supplies
+* year-round: snacks (chips & salsa, pretzels, etc.), paper plates and other supplies
 
 
 ## Program and Office Supplies and Equipment
-* Macbooks (2012\+)
+* Macbooks (2013\+)
 * color laser printer
 * copy/printer paper
 * construction paper
