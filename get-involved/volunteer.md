@@ -52,7 +52,7 @@ TIME: Shifts available
 We could use your help to keep RIOT RI rocking year round (no musical experience necessary!)!  We need regular support with everything from tabling at events to graphic design!  If you’ve got a skill, we can probably use it!  Here’s a list of areas you can help: PR/marketing, outreach, data entry, fund development, event tabling, music gear coordination, food donations, event coordination, graphic design, accounting, legal affairs, and more!  If you are interested in helping out, please fill out our general volunteer application below!
 Only fill out this form if you CANNOT volunteer at our upcoming camp, but would like to volunteer year-round!
 
-##[GENERAL VOLUNTEER APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSegxsGeOuD87R7Rti-W8KNR2_rZVDpzUju3LUIphWB2amjIlQ/viewform?formkey=cnVqbFhWbzd2Wlc3VXJtb3YwVHBwSnc6MA..#gid=0)
+## [GENERAL VOLUNTEER APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSegxsGeOuD87R7Rti-W8KNR2_rZVDpzUju3LUIphWB2amjIlQ/viewform?formkey=cnVqbFhWbzd2Wlc3VXJtb3YwVHBwSnc6MA..#gid=0)
 
 
 
