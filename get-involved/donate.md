@@ -2,6 +2,9 @@
 title: Donate
 position: 0
 Has Visible Header: true
+Thumbnail Image: "/uploads/donate.jpg"
+Slideshow Images:
+- "/uploads/donate.jpg"
 layout: page
 ---
 

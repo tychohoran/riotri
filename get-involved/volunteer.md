@@ -2,6 +2,9 @@
 title: Volunteer
 position: 2
 Has Visible Header: true
+Thumbnail Image: "/uploads/volunteer.jpg"
+Slideshow Images:
+- "/uploads/volunteer.jpg"
 layout: page
 ---
 

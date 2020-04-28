@@ -15,10 +15,11 @@
 		    	{% endif %}
 		    	<div class="link-group {{link_page.title | slugify | append: '-group'}}">
 			    	<a class="page-link{{class}}" href="{{link_page.url}}">{{link_page.title}}</a>
-			    	{% assign subpages = site.pages | sort:"position" | where: "dir", root_dir %}
+			    	{% assign subpages = site.pages | sort:"position" | compact %}
 			    	<div class="subpages">
 				    	{% for subpage in subpages %}
-				    		{% unless subpage.url == root_dir %}
+				    		{% assign subpage_dir = subpage.path | remove: subpage.name | prepend: "/" %}
+				    		{% if subpage_dir == root_dir %}
 				    		{% assign slug = subpage.title | slugify | prepend:"#" %}
 				    		{% if link_page['Has Subpages Embedded'] %}
 					    		{% assign final_path = link_page.url | append: slug %}
@@ -26,7 +27,7 @@
 					    		{% assign final_path = subpage.url %}
 					    	{% endif %}
 				    		<a class="page-link sub" href="{{final_path}}">{{subpage.title}}</a>
-				    		{% endunless %}
+				    		{% endif %}
 				    	{% endfor %}
 			    	</div>
 			    </div>

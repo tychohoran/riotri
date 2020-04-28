@@ -8,6 +8,9 @@ Description: Band Booster is a program where bands can learn how to be bands! Ba
 Thumbnail Image: "/uploads/band-booster.jpg"
 Slideshow Images:
 - "/uploads/band-booster.jpg"
+- "/uploads/band-booster-2.jpg"
+- "/uploads/band-booster-3.jpg"
+- "/uploads/band-booster-4.jpg"
 layout: page
 ---
 

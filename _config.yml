@@ -17,6 +17,7 @@ defaults:
     Has Visible Header: true
     Has Subpages Embedded: false
     Description: 
+    Registration Link:
     Thumbnail Image: 
     Slideshow Images:
     - ''
@@ -35,6 +36,7 @@ Menu Image: "/uploads/RIOT-menu-icon.svg"
 Site Logo: "/uploads/RIOT-Logo.svg"
 Site Vertical Logo: "/uploads/RIOT-Logo-Portrait.svg"
 Favicon Image: "/uploads/RIOT-Favicon.png"
+Default Thumbnail Image: "/uploads/RiotRI-Picture.jpg"
 baseurl: 
 url: http://riotri.org
 markdown: kramdown
