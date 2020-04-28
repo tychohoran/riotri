@@ -4,4 +4,4 @@ position: 5
 layout: page
 ---
 
-## More Info Coming Soon!
+# More Info Coming Soon!
