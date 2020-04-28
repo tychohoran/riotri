@@ -6,9 +6,9 @@ layout: hub
 ---
 
 ## EMAIL
-* General Inquiries: [info@girlsrockri.org](mailto:info@girlsrockri.org)
-* Rikki Davis, Co-Executive Director: [rikki@girlsrockri.org](mailto:rikki@girlsrockri.org)
-* Denise Mathews-Reidpath, Co-Executive Director: [denise@girlsrockri.org](mailto:denise@girlsrockri.org)
+* General Inquiries: [info@riotri.org](mailto:info@riotri.org)
+* Rikki Davis, Co-Executive Director: [rikki@riotri.org](mailto:rikki@riotri.org)
+* Denise Mathews-Reidpath, Co-Executive Director: [denise@riotri.org](mailto:denise@riotri.org)
 
 ## PHONE
 * General inquiries: [(401) 443-2869](tel:4014432869)
@@ -19,7 +19,7 @@ layout: hub
 Providence, RI 02903
 
 ## REGISTRATION / PAYMENT
-Visit our registration page for information about program registration or payment.
+Visit our [program page](http://riotri.org/programs/) for information about program registration or payment.
 
 ## DONATE
-Visit our donate page to learn about donating to RIOT RI or make a credit card donation now.
+Visit our [donate page](http://riotri.org/get-involved/donate.html) to learn about donating to RIOT RI or make a credit card donation now.
