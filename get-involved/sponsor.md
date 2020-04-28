@@ -1,5 +1,6 @@
 ---
 title: Sponsor
+permalink: "/sponsor"
 position: 1
 Has Visible Header: true
 layout: page

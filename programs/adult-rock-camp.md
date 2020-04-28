@@ -8,6 +8,9 @@ Description: Adult Rock Camp (ARC) is a weekend day camp in Providence, RI that 
 Thumbnail Image: "/uploads/adult-rock-camp.jpg"
 Slideshow Images:
 - "/uploads/adult-rock-camp.jpg"
+- "/uploads/adult-rock-camp-2.jpg"
+- "/uploads/adult-rock-camp-3.jpg"
+- "/uploads/adult-rock-camp-4.jpg"
 layout: page
 ---
 

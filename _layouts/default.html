@@ -24,6 +24,12 @@
 		<!-- PAGE HEADER -->
 		<header class="page-header">
 		  <h1 class="page-title">{{ page.title }}</h1>
+		  {% assign has_registration = page['Registration Link'] | compact | join: "" | strip %}
+		  {% unless has_registration == "" %}
+		  <h2 class='register'>
+		  	<a class='register-link' href="{{page['Registration Link']}}">Register</a>
+		  </h2>
+		  {% endunless %}
 		</header>
 
     	{{ content }}

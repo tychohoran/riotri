@@ -68,7 +68,7 @@ body {
     }
 }
 %padding-first-last{
-&:first-child {
+&:first-child:not(header) {
         padding: 2*$desktop-margin 4*$mobile-margin $desktop-margin 4*$mobile-margin;
         @include media-query($on-laptop){
             padding: 2*$desktop-margin 2*$desktop-margin $desktop-margin 2*$desktop-margin;
@@ -78,6 +78,9 @@ body {
         }
         @include media-query($on-tiny) {
             padding: 2*$mobile-margin $mobile-margin $mobile-margin $mobile-margin;
+        }
+        &:not(:last-child):not(section):not(header){
+            padding-bottom:0;
         }
     }
     &:last-child {
@@ -90,6 +93,9 @@ body {
         }
         @include media-query($on-tiny) {
             padding: $mobile-margin $mobile-margin 2*$mobile-margin $mobile-margin;
+        }
+        &:not(:first-child):not(section):not(header){
+            padding-top:0;
         }
     }
 }
@@ -226,6 +232,13 @@ h1 {
         font-size: $h1-mobile;
         letter-spacing: 0;
     }
+
+    &.smaller-header {
+        font-size: $h1-desktop*(2/3);
+        @include media-query($on-palm) {
+            font-size: $h1-mobile*(2/3);
+        }
+    }
 }
 
 h2 {
@@ -238,11 +251,10 @@ h2 {
         line-height: 36px;
     }
 
-    a {
+    a, a:link, a:visited {
         display: block;
         background-color: $accent-color-3;
-        color: #fff !important;
-        margin-bottom: 18px;
+        color: #fff;
         text-align: center;
         min-width: 100%;
         letter-spacing: 0.5px;
@@ -547,7 +559,7 @@ img {
         max-height: 100%;
         @include media-query($on-palm){
             max-height: 60%;
-            min-height: 60%;
+            min-height: 300px;
         }
 
         img {
@@ -563,17 +575,10 @@ img {
         }
     }
     .slideshow-progress {
-        position:relative;
-        top: -4*$mobile-margin;
+        @extend %absolute-reset;
         height: 0;
         z-index: 75;
         text-align: center;
-        @include media-query(950px){
-            top: -8*$mobile-margin;
-        }
-        @include media-query($on-palm){
-            top: -4*$desktop-margin;
-        }
         .dot {
               height: 12px;
               width: 12px;
@@ -621,14 +626,58 @@ img {
         @extend %flex-setup-row;
         @include prefix(flex-flow, row nowrap, webkit moz ms o);
         @include prefix(align-items, center, webkit moz ms o);
-
-        @extend %padding-default;
+        h1 {
+            @extend %padding-default;
+        }
     }
 
     .page-header {
         background-color: #000;
         color: #fff;
         z-index: 50;
+
+        h1:not(:last-child){
+            padding-right: $mobile-margin;
+        }
+
+        .register{
+            @include prefix(align-self, flex-end, webkit moz ms o);
+            @include prefix(transform, translateY(-8px), webkit moz ms o);
+            @extend %padding-default;
+            padding-left: $mobile-margin;
+
+            .register-link{
+                color: #000;
+                background-color: $accent-color;
+
+                @include media-query($on-laptop){
+                    font-size: $h2-mobile;
+                }
+            }
+            .register-link:hover{
+                background-color: $accent-color-2;
+            }
+        }
+
+        @include media-query($on-palm){
+            @include prefix(flex-flow, column nowrap, webkit moz ms o);
+
+            h1{
+                padding-bottom: 0;
+            }
+
+            .register{
+                width: 100%;
+                top: 100%;
+                @include prefix(transform, translateY(0), webkit moz ms o);
+                padding:0;
+                padding-top: 18px;
+                 .register-link{
+                    color: #fff;
+                    background-color: $accent-color-3;
+                }
+            }
+        }
     }
 
     .slideshow+.page-header {
@@ -653,7 +702,7 @@ img {
 
             &.post-section{
                 @extend %padding-default;
-                @extend %padding-plus;
+                @extend %padding-first-last;
 
                 @extend %flex-setup-row;
 
@@ -696,6 +745,9 @@ img {
         article, section, header, h2 {
             margin-bottom: 0;
             width: 100%;
+        }
+        h2:not(:last-child) {
+            margin-bottom: 9px;
         }
         p + h2, ul + h2, p + img {
             display: inline-block;
@@ -900,14 +952,4 @@ img {
                 line-height: 1.5;
             }
         }
-
-    #volunteer .post-section h1, #sponsor .post-section h1{
-        font-size: $h1-desktop*(2/3);
-         @include media-query($on-palm) {
-            font-size: $h1-mobile*(2/3);
-         }
-    }
-    #volunteer-job-descriptions {
-        font-size: $h1-desktop*(2/3);
-    }
 }
