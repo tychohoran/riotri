@@ -4,7 +4,7 @@ $(document).ready(function(){
 		var progressOffset = $(".page-header").position().top + parseInt($(".page-title").css('padding-top')) -36;
 		console.log(progressOffset);
 		$(".slideshow-progress").css('top', progressOffset);
-	}
+	};
 
 	function showSlides() {
 	  var i;
@@ -18,14 +18,15 @@ $(document).ready(function(){
 	  $(".slideshow-progress").find(".dot:nth-child("+slideIndex+")").addClass("focused");
 	  if (slideIndex >= slides.length) {slideIndex = 0}
 	  timer = setTimeout(showSlides, 8000);
-	}
+	};
 
 	$(".post-section").each(function(){
 		$(this).find("h1").clone().addClass("header-clone").appendTo(".wrapper");
 	});
 
 	$("h1").each(function(){
-		if($(this)[0].scrollWidth != $(this)[0].offsetWidth && $(this)[0].scrollWidth > 550){
+		console.log($(this).text() + " " + $(this)[0].scrollWidth + " " +  $(this).next(".section-content").innerHeight());
+		if($(this)[0].scrollWidth != $(this)[0].offsetWidth && $(this)[0].scrollWidth > 700 || $(this).next(".section-content").innerHeight() < 150){
 			$(this).addClass("smaller-header");
 			var tempId = $(this).attr('id');
 			$(".header-clone").each(function(){
