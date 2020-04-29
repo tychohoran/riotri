@@ -2,6 +2,7 @@
 title: Subscribe
 position: 5
 Has Visible Header: true
+Thumbnail Image: "/uploads/adult-rock-camp-2.jpg"
 layout: page
 ---
 

@@ -1,7 +1,11 @@
 ---
 title: Donate
 position: 0
+permalink: "/donate"
 Has Visible Header: true
+Header Button:
+  Text: Donate to RIOT
+  URL: "https://www.mightycause.com/organization/Girls-Rock-Rhode-Island"
 Thumbnail Image: "/uploads/donate.jpg"
 Slideshow Images:
 - "/uploads/donate.jpg"
@@ -9,8 +13,6 @@ layout: page
 ---
 
 # MONEY
-
-## [DONATE TO RIOT](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island)
 
 Click the donation button above to give safely via [Mightycause](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island), one time or monthly. Checks can be sent to our mailing address (PO Box 3475, Providence, RI 02909). Donations are tax deductible, too! (If you are paying tuition for Girls Rock Camp, please visit our [registration page](http://girlsrockri.org/register-girlsrockcamp/))
 

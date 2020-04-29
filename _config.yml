@@ -11,13 +11,20 @@ collections:
 defaults:
 - scope:
     path: ''
+    type: posts
+  values:
+    layout: page
+- scope:
+    path: ''
     type: pages
   values:
     layout: page
     Has Visible Header: true
     Has Subpages Embedded: false
     Description: 
-    Header Link: 
+    Header Button: 
+      Text:
+      URL:
     Thumbnail Image: 
     Slideshow Images:
     - ''

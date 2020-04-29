@@ -172,6 +172,12 @@ body {
         margin-bottom: 0;
     }
 }
+%vertical-rhythm-top{
+    margin-top: $desktop-margin;
+    @include media-query($on-palm){
+        margin-top: $mobile-margin;
+    }
+}
 
 /*------Splash Page-------*/
 
@@ -259,10 +265,18 @@ h2 {
         min-width: 100%;
         letter-spacing: 0.5px;
         @extend %padding-button;
+        margin-bottom: $desktop-margin !important;
+        @include media-query($on-palm){
+            margin-bottom: $mobile-margin !important;
+        }
     }
 
     a:hover {
         background-color: $accent-color-2;
+    }
+
+    &:first-child a {
+        margin-top: 12px;
     }
 }
 
@@ -636,6 +650,10 @@ img {
         color: #fff;
         z-index: 50;
 
+        h2 a {
+            margin-bottom: 0 !important;
+        }
+
         h1:not(:last-child){
             padding-right: $mobile-margin;
         }
@@ -661,8 +679,9 @@ img {
 
         @include media-query($on-palm){
             @include prefix(flex-flow, column nowrap, webkit moz ms o);
+            @include prefix(align-items, flex-start, webkit moz ms o);
 
-            h1{
+            h1:not(.page-title){
                 padding-bottom: 0;
             }
 
@@ -671,7 +690,6 @@ img {
                 top: 100%;
                 @include prefix(transform, translateY(0), webkit moz ms o);
                 padding:0;
-                padding-top: 18px;
                  .register-link{
                     color: #fff;
                     background-color: $accent-color-3;
@@ -747,13 +765,12 @@ img {
             margin-bottom: 0;
             width: 100%;
         }
-        h2:not(:last-child) {
-            margin-bottom: 9px;
-            @include media-query($on-palm){
-                margin-bottom: 0;
-            }
+
+        h2 + h2 {
+            @extend %vertical-rhythm-top;
         }
-        p + h2, ul + h2, p + img {
+
+        p + img {
             display: inline-block;
             margin-top: $desktop-margin !important;
             @include media-query($on-palm){
@@ -761,8 +778,8 @@ img {
             }
         }
 
-        .post-header {
-            @extend %padding-default;
+        .post-header { 
+            padding:0;
             background-color: #000;
             color: $accent-color-2;
 

@@ -25,8 +25,8 @@ $(document).ready(function(){
 	});
 
 	$("h1").each(function(){
-		console.log($(this).text() + " " + $(this)[0].scrollWidth + " " +  $(this).next(".section-content").innerHeight());
-		if($(this)[0].scrollWidth != $(this)[0].offsetWidth && $(this)[0].scrollWidth > 700 || $(this).next(".section-content").innerHeight() < 150){
+		console.log($(this).text() + " " + $(this)[0].scrollWidth + " " +  $(this).next(".section-content").innerHeight() + " " +  $(this).innerHeight());
+		if($(this)[0].scrollWidth != $(this)[0].offsetWidth && $(this)[0].scrollWidth > 700 || $(this).next(".section-content").innerHeight() < 100 && $(this).innerHeight() > 150){
 			$(this).addClass("smaller-header");
 			var tempId = $(this).attr('id');
 			$(".header-clone").each(function(){
