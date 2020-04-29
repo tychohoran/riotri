@@ -12,7 +12,7 @@ Slideshow Images:
 layout: page
 ---
 
-You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons are taught by our experienced instructors at our space at 763 Rear Westminster Street in Providence. Classes run in the winter, spring and fall.  We are currently offering group lessons for youth and adults in vocals, guitar, bass, keyboard, drums, and ukulele for the Winter 2020 session. Classes start the week of February 3rd and run for 10 weeks. For more information and to register for winter group lessons go to the registration page here.
+You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons are taught by our experienced instructors at our space at 763R Westminster Street in Providence. Classes run in the winter/spring and in the fall.  We are currently offering group lessons for youth and adults in vocals, guitar, bass, keyboard, drums, and ukulele for the Winter 2020 session. Classes start the week of February 3rd and run for 10 weeks. 
 
 # Instructors
 

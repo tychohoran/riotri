@@ -20,11 +20,11 @@ Click the donation button above to give safely via [Mightycause](https://www.mig
 
 ## [Volunteer Info](/get-involved/#volunteer)
 
-Visit our [volunteer page](http://girlsrockri.org/volunteer/) to learn about our fun and important volunteer opportunities!
+Visit our [volunteer page](http://riotri.org/get-involved/volunteer.html) to learn about our fun and important volunteer opportunities!
 
 # STUFF
 
-We can always use music gear, office equipment, and food donations (check out our wish list below)! All donations can be dropped off at the RIOT RI Headquarters located at 763 Westminster St Providence, RI 02903.  If you would like to schedule a time to drop off donations, please contact us at info@girlsrockri.org.  All in-kind donations are tax-deductible, too!
+We can always use music gear, office equipment, and food donations (check out our wish list below)! All donations can be dropped off at the RIOT RI Headquarters located at 763R Westminster St Providence, RI 02903.  If you would like to schedule a time to drop off donations, please contact us at info@riotri.org.  All in-kind donations are tax-deductible, too!
 
 # WISH LIST
 
@@ -50,11 +50,11 @@ electronic drums
 ## Food
 * gift certificates to local restaurants or grocery stores (or other businesses– these are great for raffles!)
 * for camps: pizza, chili, sandwich stuff, oatmeal, fruit, granola bars, snacks, etc.– contact us if interested in making or buying food for camp! (vegan, vegetarian, and gluten-free options are great, too!)
-* year round: snacks (chips & salsa, pretzels, etc.), paper plates and other supplies
+* year-round: snacks (chips & salsa, pretzels, etc.), paper plates and other supplies
 
 
 ## Program and Office Supplies and Equipment
-* Macbooks (2012\+)
+* Macbooks (2013\+)
 * color laser printer
 * copy/printer paper
 * construction paper
