@@ -8,6 +8,7 @@ Description: You can rock out all year long with RIOT RI’s Group Lessons! Grou
 Thumbnail Image: "/uploads/group-lessons.jpg"
 Slideshow Images:
 - "/uploads/group-lessons.jpg"
+- "/uploads/group-lessons-2.jpg"
 layout: page
 ---
 
