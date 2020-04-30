@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2018: week two, day three"
-date: "2018-08-15"
+title: 'Girls Rock Camp 2018: week two, day three'
+date: 2018-08-15 00:00:00 Z
 ---
 
 Midweek at our HS edition of Girls Rock Camp has brought lots of colors and diversity. What do we mean? We mean a video screening about women in hip hop and our annual screen-printing workshop - just to name two elements. Why so much variety and why so many options? Campers who attend Girls Rock Camp through Girls Rock! RI come from different communities and backgrounds, have different interests and preferences, and have different ways they connect to music. Today was a great example:

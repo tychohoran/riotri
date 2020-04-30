@@ -1,6 +1,6 @@
 ---
-title: "Day one of week two, summer 2016"
-date: "2016-08-16"
+title: Day one of week two, summer 2016
+date: 2016-08-16 00:00:00 Z
 ---
 
 [![august camp 9986](/uploads/blogpost/august-camp-9986.jpg)](http://girlsrockri.org/wp-content/uploads/2016/08/august-camp-9988.jpg)

@@ -1,6 +1,6 @@
 ---
-title: "GRR! Music Gear Swap: Swap, Sell, or Donate!"
-date: "2015-09-16"
+title: 'GRR! Music Gear Swap: Swap, Sell, or Donate!'
+date: 2015-09-16 00:00:00 Z
 ---
 
 **BUY/SWAP OUR GEAR!** Girls Rock! Rhode Island is very lucky. We have a lot of awesome people donate music gear to us! YAY (and thanks!)!

@@ -1,6 +1,6 @@
 ---
-title: "Girls Camp 2017: day five week one, the showcase!"
-date: "2017-07-22"
+title: 'Girls Camp 2017: day five week one, the showcase!'
+date: 2017-07-22 00:00:00 Z
 ---
 
 [![](/uploads/blogpost/showcase-444-10810.jpg)](http://girlsrockri.org/wp-content/uploads/2017/07/showcase-444-10810.jpg)

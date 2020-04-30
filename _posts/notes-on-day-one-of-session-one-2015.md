@@ -1,6 +1,6 @@
 ---
-title: "Notes on day one of session one, 2015"
-date: "2015-07-14"
+title: Notes on day one of session one, 2015
+date: 2015-07-14 00:00:00 Z
 ---
 
 This year, Girls Rock! RI has twice the camp.

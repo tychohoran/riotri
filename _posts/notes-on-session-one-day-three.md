@@ -1,6 +1,6 @@
 ---
-title: "Notes on day three of session one"
-date: "2015-07-16"
+title: Notes on day three of session one
+date: 2015-07-16 00:00:00 Z
 ---
 
 Five women from Girls Rock Boston spent the day with us.

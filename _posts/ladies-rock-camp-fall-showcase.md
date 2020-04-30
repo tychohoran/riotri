@@ -1,6 +1,6 @@
 ---
-title: "Ladies Rock Camp Fall Showcase!"
-date: "2013-11-07"
+title: Ladies Rock Camp Fall Showcase!
+date: 2013-11-07 00:00:00 Z
 ---
 
 It's that time again... Ladies Rock Camp!

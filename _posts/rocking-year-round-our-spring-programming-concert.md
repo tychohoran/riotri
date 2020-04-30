@@ -1,6 +1,6 @@
 ---
-title: "Rocking Year-Round: Our Spring Programming Concert"
-date: "2016-05-14"
+title: 'Rocking Year-Round: Our Spring Programming Concert'
+date: 2016-05-14 00:00:00 Z
 ---
 
 Girls Rock rocks year-round! We had a great crowd at [AS220](http://as220.org/) on April 30 for our Spring Programming Community Concert, where participants from our youth and adult group lessons performed original songs composed and practiced over the 10-week spring session.

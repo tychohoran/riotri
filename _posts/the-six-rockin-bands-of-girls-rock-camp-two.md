@@ -1,6 +1,6 @@
 ---
-title: "The Six Rockin' Bands of Girls Rock Camp Two"
-date: "2015-08-19"
+title: The Six Rockin' Bands of Girls Rock Camp Two
+date: 2015-08-19 00:00:00 Z
 ---
 
 The Girls Rock Camp Two Final Showcase was, predictably, awesome. But don't take our word for it.

@@ -1,6 +1,6 @@
 ---
-title: "Day four of the 2016 Girls Rock Camps!"
-date: "2016-07-21"
+title: Day four of the 2016 Girls Rock Camps!
+date: 2016-07-21 00:00:00 Z
 ---
 
 [![Screen Shot 2016-07-21 at 5.56.26 PM](/uploads/blogpost/Screen-Shot-2016-07-21-at-5.56.26-PM-300x284.png)](http://girlsrockri.org/wp-content/uploads/2016/07/Screen-Shot-2016-07-21-at-5.56.26-PM.png)

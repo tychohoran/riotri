@@ -1,6 +1,6 @@
 ---
-title: "GRR! Spring Happenings!"
-date: "2015-04-29"
+title: GRR! Spring Happenings!
+date: 2015-04-29 00:00:00 Z
 ---
 
 **We are super excited for these awesome events and programs this Spring!**

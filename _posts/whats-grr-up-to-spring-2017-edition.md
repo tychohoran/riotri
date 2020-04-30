@@ -1,6 +1,6 @@
 ---
-title: "What's GRR! up to? Spring 2017 edition!"
-date: "2017-02-21"
+title: What's GRR! up to? Spring 2017 edition!
+date: 2017-02-21 00:00:00 Z
 ---
 
 **What's happening with GRR! this spring, you ask?**

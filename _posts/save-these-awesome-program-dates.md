@@ -1,6 +1,6 @@
 ---
-title: "Save These Awesome Program Dates!"
-date: "2013-12-13"
+title: Save These Awesome Program Dates!
+date: 2013-12-13 00:00:00 Z
 ---
 
 [![Save the date for rock](/uploads/blogpost/Save-the-date-for-rock-168x300.jpg)](http://girlsrockri.org/wp-content/uploads/2013/12/Save-the-date-for-rock.jpg)

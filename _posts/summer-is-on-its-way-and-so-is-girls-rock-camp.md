@@ -1,6 +1,6 @@
 ---
-title: "Summer is on its way and so is Girls Rock Camp!"
-date: "2014-03-20"
+title: Summer is on its way and so is Girls Rock Camp!
+date: 2014-03-20 00:00:00 Z
 ---
 
 We are getting SUPER excited for our 5th annual Girls Rock Camp!  Campers will learn guitar, bass, drums, vocals, or keyboards, join a band, write a song, and perform the song live in front of a super supportive audience... all in just five days!  Registration for campers and volunteers will begin on March 26th!

@@ -1,6 +1,6 @@
 ---
-title: "Glimpse the Magic: Girls Rock Session 2 is ON!!"
-date: "2017-08-16"
+title: 'Glimpse the Magic: Girls Rock Session 2 is ON!!'
+date: 2017-08-16 00:00:00 Z
 ---
 
 Have you heard of the 10 newest bands in RI??

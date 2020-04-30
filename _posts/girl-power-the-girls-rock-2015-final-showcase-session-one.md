@@ -1,6 +1,6 @@
 ---
-title: "Girl Power! The Girls Rock 2015 Final Showcase!"
-date: "2015-07-18"
+title: Girl Power! The Girls Rock 2015 Final Showcase!
+date: 2015-07-18 00:00:00 Z
 ---
 
 The bands rocked. The music rocked. The guitarists rocked. The drummers rocked. The vocalists rocked. The bassists rocked. The keyboardists rocked.

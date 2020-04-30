@@ -1,6 +1,6 @@
 ---
-title: "Notes from session two, day two"
-date: "2015-08-12"
+title: Notes from session two, day two
+date: 2015-08-12 00:00:00 Z
 ---
 
 > [![11885664_10153568457131079_4148238499535734918_o](/uploads/blogpost/11885664_10153568457131079_4148238499535734918_o.jpg)](http://girlsrockri.org/wp-content/uploads/2015/08/11885664_10153568457131079_4148238499535734918_o.jpg)

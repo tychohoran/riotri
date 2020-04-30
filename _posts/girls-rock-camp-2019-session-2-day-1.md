@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2019- Session 2 Day 1"
-date: "2019-08-13"
+title: Girls Rock Camp 2019- Session 2 Day 1
+date: 2019-08-13 00:00:00 Z
 ---
 
 Camp season isn't over yet! Session 2 is now in full swing and our High School-aged campers are here to rock!

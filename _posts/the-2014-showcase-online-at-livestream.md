@@ -1,6 +1,6 @@
 ---
-title: "The 2014 Showcase online"
-date: "2014-07-18"
+title: The 2014 Showcase online
+date: 2014-07-18 00:00:00 Z
 ---
 
 The Girls Rock Camp Showcase draws hundreds of friends, family and fans every year.

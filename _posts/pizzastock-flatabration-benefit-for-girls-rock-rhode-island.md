@@ -1,6 +1,6 @@
 ---
-title: "Pizzastock Flatabration! Benefit for Girls Rock! Rhode Island"
-date: "2014-07-29"
+title: Pizzastock Flatabration! Benefit for Girls Rock! Rhode Island
+date: 2014-07-29 00:00:00 Z
 ---
 
 Join us for a post-camp pizza party TONIGHT from 5pm-9pm at Flatbread Company in Providence to support Girls Rock! Rhode Island! Bring your family and friends, eat pizza, meet other GRR! supporters, and watch Girls Rock Campers perform (if you are a Girls Rock Camp alum, you can perform, too! Contact us at info@girlsrockri.org if you are interested!)

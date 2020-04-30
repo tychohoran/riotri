@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2019- Session 1 Day 4"
-date: "2019-07-19"
+title: Girls Rock Camp 2019- Session 1 Day 4
+date: 2019-07-19 00:00:00 Z
 ---
 
 Day four kicked off with an icebreaker to get the day started, followed by all campers going to instrument lessons. The drummers learned a new beat and a transition, the guitarists learned how to bend strings and do hammer-ons, keyboardists practiced the chords they are using for their bands’ songs and did some improvisation, the vocalists sang doe a deer and worked on writing their songs, and the bassists continued to hold it down.

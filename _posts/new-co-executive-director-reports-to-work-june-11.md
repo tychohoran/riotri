@@ -1,6 +1,6 @@
 ---
-title: "New Co-Executive Director reports to work, June 11,"
-date: "2018-06-11"
+title: New Co-Executive Director reports to work, June 11,
+date: 2018-06-11 00:00:00 Z
 ---
 
 _Girls Rock! Rhode Island launches tenth year of summer programming with new hire, two camps, and new workshops and clubs_

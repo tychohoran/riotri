@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2019- Session 2 Day 2"
-date: "2019-08-14"
+title: Girls Rock Camp 2019- Session 2 Day 2
+date: 2019-08-14 00:00:00 Z
 ---
 
 ![](/uploads/blogpost/48528433667_c97b0a2ccf_z.jpg)

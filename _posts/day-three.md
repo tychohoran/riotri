@@ -1,6 +1,6 @@
 ---
-title: "Day three of the 2016 Girls Rock Camps"
-date: "2016-07-20"
+title: Day three of the 2016 Girls Rock Camps
+date: 2016-07-20 00:00:00 Z
 ---
 
 [![day three 9978](/uploads/blogpost/day-three-9978.jpg)](http://girlsrockri.org/wp-content/uploads/2016/07/day-three-9978.jpg)

@@ -1,6 +1,6 @@
 ---
-title: "Join the Girls Rock! RI team this summer!"
-date: "2014-04-22"
+title: Join the Girls Rock! RI team this summer!
+date: 2014-04-22 00:00:00 Z
 ---
 
 Girls Rock! Rhode Island is now 5 years old! We have grown as an organization, and we hope you continue to grow with us! This summer, you have the opportunity to join us in helping girls empower themselves though music!  You can do so in a few ways, by applying to become:

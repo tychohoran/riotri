@@ -1,6 +1,6 @@
 ---
-title: "You Will Fall for Our Upcoming Fall Events!"
-date: "2014-08-20"
+title: You Will Fall for Our Upcoming Fall Events!
+date: 2014-08-20 00:00:00 Z
 ---
 
 We've had a great summer at GRR! headquarters and we are sad that it's almost over, but we can't be too sad... because we are SO excited about the slew of awesome events coming up this fall!

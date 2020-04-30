@@ -1,6 +1,6 @@
 ---
-title: "GRR! Fall Programming- Get Into It!"
-date: "2018-08-31"
+title: GRR! Fall Programming- Get Into It!
+date: 2018-08-31 00:00:00 Z
 ---
 
 What's happening at GRR! this fall, you ask? SO MUCH!

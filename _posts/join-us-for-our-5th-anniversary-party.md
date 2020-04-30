@@ -1,6 +1,6 @@
 ---
-title: "Join Us For Our 5th Anniversary Party!"
-date: "2014-09-26"
+title: Join Us For Our 5th Anniversary Party!
+date: 2014-09-26 00:00:00 Z
 ---
 
 [![take back the mic_poster](/uploads/blogpost/take-back-the-mic_poster.jpg)](http://girlsrockri.org/wp-content/uploads/2014/09/take-back-the-mic_poster.jpg) _Awesome poster by [Alison Nitkiewicz](http://www.alisonnitkiewicz.com/)!_

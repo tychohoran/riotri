@@ -1,6 +1,6 @@
 ---
-title: "Join Our Virtual Music Sessions and Learn an Instrument!"
-date: "2020-03-23"
+title: Join Our Virtual Music Sessions and Learn an Instrument!
+date: 2020-03-23 00:00:00 Z
 ---
 
 We want to keep the music alive and invite you to take part in our virtual music sessions which will be taking place via Instagram Livestream starting today. Follow us girlsrockri on Instagram and Facebook!

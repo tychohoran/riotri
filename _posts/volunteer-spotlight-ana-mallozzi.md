@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Ana Mallozzi"
-date: "2015-05-20"
+title: 'Volunteer Spotlight: Ana Mallozzi'
+date: 2015-05-20 00:00:00 Z
 ---
 
 **Name, Age & Hometown**

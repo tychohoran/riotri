@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2019- Session 1 Day 1!"
-date: "2019-07-16"
+title: Girls Rock Camp 2019- Session 1 Day 1!
+date: 2019-07-16 00:00:00 Z
 ---
 
 Session one of Girls Rock Camp 2019 is officially in motion! This blog will fill parents, (and the whole community!), in on the day-to-day activities that go on during the busy hours of camp, run by the Girls Rock Camp VITs (Volunteers-In-Training).

@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Laura Kaplan"
-date: "2015-01-21"
+title: 'Volunteer Spotlight: Laura Kaplan'
+date: 2015-01-21 00:00:00 Z
 ---
 
 **Name, Age & Hometown:**

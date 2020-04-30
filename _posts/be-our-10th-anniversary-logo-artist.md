@@ -1,6 +1,6 @@
 ---
-title: "Be Our 10th Anniversary Logo Artist!"
-date: "2018-09-18"
+title: Be Our 10th Anniversary Logo Artist!
+date: 2018-09-18 00:00:00 Z
 ---
 
 **CALL FOR ARTISTS: REQUEST FOR PROPOSALS**

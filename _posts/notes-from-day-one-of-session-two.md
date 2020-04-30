@@ -1,6 +1,6 @@
 ---
-title: "Notes from day one of session two"
-date: "2015-08-11"
+title: Notes from day one of session two
+date: 2015-08-11 00:00:00 Z
 ---
 
 This week, these girls will learn to be loud.

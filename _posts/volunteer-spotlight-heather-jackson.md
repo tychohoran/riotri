@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Heather Jackson"
-date: "2018-07-10"
+title: 'Volunteer Spotlight: Heather Jackson'
+date: 2018-07-10 00:00:00 Z
 ---
 
 **Name** Heather Jackson

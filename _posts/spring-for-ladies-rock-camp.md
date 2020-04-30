@@ -1,6 +1,6 @@
 ---
-title: "Spring for Ladies Rock Camp!"
-date: "2014-02-28"
+title: Spring for Ladies Rock Camp!
+date: 2014-02-28 00:00:00 Z
 ---
 
 [![IMG_9730](/uploads/blogpost/LRC-bass-lesson1-300x199.jpg)](http://girlsrockri.org/wp-content/uploads/2013/09/LRC-bass-lesson1.jpg)
