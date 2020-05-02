@@ -1,6 +1,6 @@
 ---
-title: "ON THE MIC with Melissa Batz"
-date: "2015-12-30"
+title: ON THE MIC with Melissa Batz
+date: 2015-12-30 00:00:00 Z
 ---
 
 [![20150716_AB58](images/20150716_AB58-1024x683.jpg)](http://girlsrockri.org/wp-content/uploads/2015/12/20150716_AB58.jpg)

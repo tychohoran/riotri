@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2019- Session 2 Day 3"
-date: "2019-08-15"
+title: Girls Rock Camp 2019- Session 2 Day 3
+date: 2019-08-15 00:00:00 Z
 ---
 
 Pizza Wednesday was a good day! - all bands have revealed their official names, everyone made a t-shirt with the logo of their band AND we got to enjoy some delicious ice cream in the middle of a fine Summer day.

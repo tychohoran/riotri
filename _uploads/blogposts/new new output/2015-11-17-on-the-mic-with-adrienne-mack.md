@@ -1,6 +1,6 @@
 ---
-title: "ON THE MIC with Adrienne Mack"
-date: "2015-11-17"
+title: ON THE MIC with Adrienne Mack
+date: 2015-11-17 00:00:00 Z
 ---
 
 **[![IMG_6240 (1)](images/IMG_6240-11-683x1024.jpg)](http://girlsrockri.org/wp-content/uploads/2015/11/IMG_6240-11.jpg)**

@@ -1,6 +1,6 @@
 ---
-title: "Notes on day four of session one"
-date: "2015-07-17"
+title: Notes on day four of session one
+date: 2015-07-17 00:00:00 Z
 ---
 
 The campers did a magnificent job today.

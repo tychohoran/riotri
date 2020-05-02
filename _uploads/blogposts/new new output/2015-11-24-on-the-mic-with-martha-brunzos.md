@@ -1,6 +1,6 @@
 ---
-title: "ON THE MIC with Martha Brunzos"
-date: "2015-11-24"
+title: ON THE MIC with Martha Brunzos
+date: 2015-11-24 00:00:00 Z
 ---
 
 [![20150716_AB211](images/20150716_AB211-683x1024.jpg)](http://girlsrockri.org/wp-content/uploads/2015/11/20150716_AB211.jpg)

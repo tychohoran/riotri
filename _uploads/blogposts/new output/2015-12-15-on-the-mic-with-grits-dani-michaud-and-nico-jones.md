@@ -1,6 +1,6 @@
 ---
-title: "ON THE MIC with GRITs* Dani Michaud and Nico Jones"
-date: "2015-12-15"
+title: ON THE MIC with GRITs* Dani Michaud and Nico Jones
+date: 2015-12-15 00:00:00 Z
 ---
 
 [![IMG_6185 (1)](http://girlsrockri.org/wp-content/uploads/2015/12/IMG_6185-1-1024x683.jpg)](http://girlsrockri.org/wp-content/uploads/2015/12/IMG_6185-1.jpg)[![IMG_6182 (2)](http://girlsrockri.org/wp-content/uploads/2015/12/IMG_6182-2-1024x683.jpg)](http://girlsrockri.org/wp-content/uploads/2015/12/IMG_6182-2.jpg)

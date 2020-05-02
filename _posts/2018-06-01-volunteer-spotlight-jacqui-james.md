@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Jacqui James"
-date: "2018-06-01"
+title: 'Volunteer Spotlight: Jacqui James'
+date: 2018-06-01 00:00:00 Z
 ---
 
 **Name** Jacqui James

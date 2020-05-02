@@ -1,6 +1,6 @@
 ---
-title: "ON THE MIC with Darlene Reina"
-date: "2015-12-22"
+title: ON THE MIC with Darlene Reina
+date: 2015-12-22 00:00:00 Z
 ---
 
 [![20150717_AB32](images/20150717_AB32-1024x683.jpg)](http://girlsrockri.org/wp-content/uploads/2015/12/20150717_AB32.jpg)

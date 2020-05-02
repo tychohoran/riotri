@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2019- Session 1 Day 2!"
-date: "2019-07-17"
+title: Girls Rock Camp 2019- Session 1 Day 2!
+date: 2019-07-17 00:00:00 Z
 ---
 
 Day two for session one campers started off with breakfast and an introduction, followed by some campers going to a workshop and others going to instrument lessons. In today’s morning workshop, the campers covered the topic of Gender Identity. It discussed the serious parts of gender identity while still managing to lighten it up with fun activities such as giving mythical creatures genders. This workshop is very helpful for all campers, since it is such a big part of everyone’s lives.

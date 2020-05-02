@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp Alliance Conference: 'Together We Make a Bigger Sound'"
-date: "2016-04-27"
+title: 'Girls Rock Camp Alliance Conference: ''Together We Make a Bigger Sound'''
+date: 2016-04-27 00:00:00 Z
 ---
 
 _"We can go solo but together we make a bigger sound."_

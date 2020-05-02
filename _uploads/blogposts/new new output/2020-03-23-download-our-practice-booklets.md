@@ -1,6 +1,6 @@
 ---
-title: "Download our Practice Booklets"
-date: "2020-03-23"
+title: Download our Practice Booklets
+date: 2020-03-23 00:00:00 Z
 ---
 
 You can access our practice booklets by clicking on the links:

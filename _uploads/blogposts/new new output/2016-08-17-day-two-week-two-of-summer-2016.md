@@ -1,6 +1,6 @@
 ---
-title: "Day two week two of summer 2016"
-date: "2016-08-17"
+title: Day two week two of summer 2016
+date: 2016-08-17 00:00:00 Z
 ---
 
 Alert: the band known as "Fuzzy Tacos" is now "Au", as in the symbol on the periodic table for gold, and the unnamed band is now "Thee Unnamed"

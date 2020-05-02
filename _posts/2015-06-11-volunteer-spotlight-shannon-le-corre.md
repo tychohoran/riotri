@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Shannon Le Corre"
-date: "2015-06-11"
+title: 'Volunteer Spotlight: Shannon Le Corre'
+date: 2015-06-11 00:00:00 Z
 ---
 
 **Name, Age, & Hometown**

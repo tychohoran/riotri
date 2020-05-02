@@ -1,6 +1,6 @@
 ---
-title: "Notes on day four of Girls Rock Camp 2014"
-date: "2014-07-18"
+title: Notes on day four of Girls Rock Camp 2014
+date: 2014-07-18 00:00:00 Z
 ---
 
 _Five girls who participated in last year’s Girls Rock Internship and Training program – GRITs – have returned this year._

@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Roz Raskin!"
-date: "2013-06-25"
+title: 'Volunteer Spotlight: Roz Raskin!'
+date: 2013-06-25 00:00:00 Z
 ---
 
 We're so happy to be bringing back our Volunteer Spotlight series, where we tell you all about all the awesome folks that make Girls Rock! Rhode Island's magic happen!  If you'd like to join our amazing volunteer team, you can visit our year-round volunteer page or Girls Rock Camp volunteer page (no musical experience necessary!) to learn more! With that, we'd like to start off this Volunteer Appreciation Week with the totally awesome Roz Raskin, of Roz Raskin and the Rice Cakes!

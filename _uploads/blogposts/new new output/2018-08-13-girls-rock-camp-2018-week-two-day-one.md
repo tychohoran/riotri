@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2018: week two, day one"
-date: "2018-08-13"
+title: 'Girls Rock Camp 2018: week two, day one'
+date: 2018-08-13 00:00:00 Z
 ---
 
 Are you ready to ROCK?! Today, was day one of Girls Rock Camp for our high school campers! Welcome, everyone! Campers came in this morning bright and early to meet each other and to start with some icebreakers. What did they do? Below are a few highlights:

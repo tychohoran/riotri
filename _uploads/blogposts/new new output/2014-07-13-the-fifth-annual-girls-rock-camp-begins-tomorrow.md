@@ -1,6 +1,6 @@
 ---
-title: "The fifth annual Girls Rock Camp begins tomorrow"
-date: "2014-07-13"
+title: The fifth annual Girls Rock Camp begins tomorrow
+date: 2014-07-13 00:00:00 Z
 ---
 
 _Sunday, July 13th_

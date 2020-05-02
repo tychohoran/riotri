@@ -1,6 +1,6 @@
 ---
-title: "Day four, week two, summer 2016"
-date: "2016-08-19"
+title: Day four, week two, summer 2016
+date: 2016-08-19 00:00:00 Z
 ---
 
 [![drummers 10061](images/drummers-100612.jpg)](http://girlsrockri.org/wp-content/uploads/2016/08/drummers-100612.jpg)

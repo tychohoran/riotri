@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2013"
-date: "2013-06-25"
+title: Girls Rock Camp 2013
+date: 2013-06-25 00:00:00 Z
 ---
 
 Our 4th Annual Girls Rock Camp starts tomorrow and we are SO excited!

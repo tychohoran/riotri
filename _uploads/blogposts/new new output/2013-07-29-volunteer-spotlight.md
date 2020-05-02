@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Rachel Blumberg"
-date: "2013-07-29"
+title: 'Volunteer Spotlight: Rachel Blumberg'
+date: 2013-07-29 00:00:00 Z
 ---
 
 **Name, Age & Hometown**

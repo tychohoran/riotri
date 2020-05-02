@@ -1,11 +1,11 @@
 ---
 title: Donate
-position: 0
 permalink: "/donate"
+position: 0
 Has Visible Header: true
 Header Button:
   Text: Donate to RIOT
-  URL: "https://www.mightycause.com/organization/Girls-Rock-Rhode-Island"
+  URL: https://www.mightycause.com/organization/Girls-Rock-Rhode-Island
 Thumbnail Image: "/uploads/donate.jpg"
 Slideshow Images:
 - "/uploads/donate.jpg"

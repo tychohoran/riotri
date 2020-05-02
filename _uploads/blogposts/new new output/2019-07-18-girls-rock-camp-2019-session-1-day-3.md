@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2019- Session 1 Day 3!"
-date: "2019-07-18"
+title: Girls Rock Camp 2019- Session 1 Day 3!
+date: 2019-07-18 00:00:00 Z
 ---
 
 Day three of session one Girls Rock camp was full of successes! Their first workshop today was one about healthy relationships, which could be a heavy topic for some campers but as always, the facilitators found a way to lighten it up while still being educational. The next part of their day was lessons up until lunch, and after that part of their day was band practice and t-shirt design!

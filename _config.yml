@@ -31,9 +31,9 @@ defaults:
     Has Visible Header: true
     Has Subpages Embedded: false
     Description: 
-    Header Button: 
-      Text:
-      URL:
+    Header Button:
+      Text: 
+      URL: 
     Thumbnail Image: 
     Slideshow Images:
     - ''

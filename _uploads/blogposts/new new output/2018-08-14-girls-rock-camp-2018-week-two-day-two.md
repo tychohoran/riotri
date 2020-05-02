@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2018: week two, day two"
-date: "2018-08-14"
+title: 'Girls Rock Camp 2018: week two, day two'
+date: 2018-08-14 00:00:00 Z
 ---
 
 So it’s day two at Girls Rock Camp (session 2), but what does that even mean? It means more music, more learning, and more fun! Today, campers honed right in on their musical craft with lessons for their chosen instrument. But Girls Rock RI! isn’t just about the music, which is why their next stop was a workshop to delve into the topic of power and privilege. Keep reading below, or check out the photos, for more highlights from day 2:

@@ -1,6 +1,6 @@
 ---
-title: "Ladies Rock Camp Showcase!"
-date: "2015-02-25"
+title: Ladies Rock Camp Showcase!
+date: 2015-02-25 00:00:00 Z
 ---
 
 Join Girls Rock! RI for our next Ladies Rock Camp Showcase happening March 8th at 7pm at Aurora (this is the old Black Rep/Roots Cafe building), 276 Westminster St. in downtown Providence! Twenty+ campers ages 18+ will be performing their newly-written songs on their newly-learned instruments with their newly-formed bands! All proceeds from Ladies Rock Camp and the Final Showcase go to support scholarships for Girls Rock Camp participants. Doors open at 6pm, the show starts at 7pm, and you can stick around for the after party with DJ Hannah Zo 8pm on!

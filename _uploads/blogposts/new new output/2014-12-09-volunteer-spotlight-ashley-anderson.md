@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Ashley Anderson"
-date: "2014-12-09"
+title: 'Volunteer Spotlight: Ashley Anderson'
+date: 2014-12-09 00:00:00 Z
 ---
 
 **Name** Ashley Anderson

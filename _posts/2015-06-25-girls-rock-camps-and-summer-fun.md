@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camps and Summer Fun!"
-date: "2015-06-25"
+title: Girls Rock Camps and Summer Fun!
+date: 2015-06-25 00:00:00 Z
 ---
 
 We are so excited to be holding not one, but TWO, Girls Rock Camps this summer! We hope you can join us as a volunteer, screaming audience member, or both!
