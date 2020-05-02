@@ -1,6 +1,6 @@
 ---
-title: "You Will Fall for Our Upcoming Fall Events!"
-date: "2014-08-20"
+title: You Will Fall for Our Upcoming Fall Events!
+date: 2014-08-20 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/Nitty-Gritty_hi-res.jpg"
 ---
 

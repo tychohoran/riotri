@@ -1,6 +1,6 @@
 ---
-title: "Girls Camp 2017: day three, week one"
-date: "2017-07-19"
+title: 'Girls Camp 2017: day three, week one'
+date: 2017-07-19 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/grrr-03-big-10779.jpg"
 ---
 

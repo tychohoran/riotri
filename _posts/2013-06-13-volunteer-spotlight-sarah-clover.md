@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Sarah Clover!"
-date: "2013-06-13"
+title: 'Volunteer Spotlight: Sarah Clover!'
+date: 2013-06-13 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/93.jpeg"
 ---
 

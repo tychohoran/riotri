@@ -1,6 +1,6 @@
 ---
-title: "Glimpse the Magic: Girls Rock Session 2 is ON!!"
-date: "2017-08-16"
+title: 'Glimpse the Magic: Girls Rock Session 2 is ON!!'
+date: 2017-08-16 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/Screen-Shot-2017-08-15-at-6.50.50-PM-e1502843259743.png"
 ---
 

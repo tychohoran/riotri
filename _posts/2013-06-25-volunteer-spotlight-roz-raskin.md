@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Roz Raskin!"
-date: "2013-06-25"
+title: 'Volunteer Spotlight: Roz Raskin!'
+date: 2013-06-25 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/92.jpeg"
 ---
 

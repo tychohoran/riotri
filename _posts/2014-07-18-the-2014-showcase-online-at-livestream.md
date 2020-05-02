@@ -1,6 +1,6 @@
 ---
-title: "The 2014 Showcase online"
-date: "2014-07-18"
+title: The 2014 Showcase online
+date: 2014-07-18 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/friday-7469.jpg"
 ---
 

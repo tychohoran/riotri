@@ -1,6 +1,6 @@
 ---
-title: "Girls Camp 2017: day five week one, the showcase!"
-date: "2017-07-22"
+title: 'Girls Camp 2017: day five week one, the showcase!'
+date: 2017-07-22 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/showcase-10797.jpg"
 ---
 

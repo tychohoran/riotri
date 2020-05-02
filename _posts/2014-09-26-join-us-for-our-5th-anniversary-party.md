@@ -1,6 +1,6 @@
 ---
-title: "Join Us For Our 5th Anniversary Party!"
-date: "2014-09-26"
+title: Join Us For Our 5th Anniversary Party!
+date: 2014-09-26 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/take-back-the-mic_poster.jpg"
 ---
 

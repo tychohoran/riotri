@@ -1,6 +1,6 @@
 ---
-title: "Download our Practice Booklets"
-date: "2020-03-23"
+title: Download our Practice Booklets
+date: 2020-03-23 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/Screen-Shot-2020-03-23-at-2.50.46-PM.png"
 ---
 

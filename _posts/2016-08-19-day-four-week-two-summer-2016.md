@@ -1,6 +1,6 @@
 ---
-title: "Day four, week two, summer 2016"
-date: "2016-08-19"
+title: Day four, week two, summer 2016
+date: 2016-08-19 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/drummers-100654.jpg"
 ---
 

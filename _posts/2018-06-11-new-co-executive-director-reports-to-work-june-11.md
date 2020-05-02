@@ -1,6 +1,6 @@
 ---
-title: "New Co-Executive Director reports to work, June 11,"
-date: "2018-06-11"
+title: New Co-Executive Director reports to work, June 11,
+date: 2018-06-11 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/reza-banner.jpg"
 ---
 

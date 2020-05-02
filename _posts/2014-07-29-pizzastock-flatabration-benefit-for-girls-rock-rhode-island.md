@@ -1,6 +1,6 @@
 ---
-title: "Pizzastock Flatabration! Benefit for Girls Rock! Rhode Island"
-date: "2014-07-29"
+title: Pizzastock Flatabration! Benefit for Girls Rock! Rhode Island
+date: 2014-07-29 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/showcase-Jaime-Lowe.jpg"
 ---
 

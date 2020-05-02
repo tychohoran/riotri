@@ -1,6 +1,6 @@
 ---
-title: "Join Our Virtual Music Sessions and Learn an Instrument!"
-date: "2020-03-23"
+title: Join Our Virtual Music Sessions and Learn an Instrument!
+date: 2020-03-23 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/Screen-Shot-2020-03-23-at-2.39.39-PM-2.png"
 ---
 

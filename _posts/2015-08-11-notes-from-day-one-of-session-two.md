@@ -1,6 +1,6 @@
 ---
-title: "Notes from day one of session two"
-date: "2015-08-11"
+title: Notes from day one of session two
+date: 2015-08-11 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/Screen-Shot-2015-08-10-at-8.19.24-PM.png"
 ---
 

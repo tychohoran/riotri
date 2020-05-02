@@ -1,6 +1,6 @@
 ---
-title: "Meet our new Program & Operations Coordinator + upcoming events!"
-date: "2014-06-16"
+title: Meet our new Program & Operations Coordinator + upcoming events!
+date: 2014-06-16 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/YAC-pic-bigger.jpg"
 ---
 

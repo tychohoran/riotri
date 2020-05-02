@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Katie Krafft"
-date: "2018-06-18"
+title: 'Volunteer Spotlight: Katie Krafft'
+date: 2018-06-18 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/Katie-Krafft.jpg"
 ---
 
