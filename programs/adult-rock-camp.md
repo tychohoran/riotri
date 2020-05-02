@@ -5,6 +5,9 @@ Has Visible Header: true
 Description: Adult Rock Camp (ARC) is a weekend day camp in Providence, RI that provides
   an opportunity for women, trans, and non-binary individuals 18+ to let loose for
   a long weekend and play music together.
+Header Button:
+  Text: Register
+  URL: "/programs/adult-rock-camp/register"
 Thumbnail Image: "/uploads/adult-rock-camp.jpg"
 Slideshow Images:
 - "/uploads/adult-rock-camp.jpg"
@@ -15,10 +18,10 @@ layout: page
 ---
 
 ## WHAT IS ADULT ROCK CAMP AND WHY?
-Adult Rock Camp (ARC) is a weekend day camp in Providence, RI that provides an opportunity for women, trans, and non-binary individuals 18+ to let loose for a long weekend and play music together. Adult Rock Camp was formerly called “Ladies Rock Camp”, but the name was changed to better reflect its participants. It is an intensive, three-day music and mentoring program for women, trans, and non-binary adults. The “grown-up” version of the summer camp for youth, the program brings together folks from different walks of life and all levels of musical experience for a long weekend of instrument lessons, songwriting, band practice, and workshops, all culminating in a showcase concert at a professional music venue. NO PRIOR MUSICAL EXPERIENCE IS NECESSARY!! 
+Adult Rock Camp (ARC) is a weekend day camp in Providence, RI that provides an opportunity for women, trans, and non-binary individuals 18+ to let loose for a long weekend and play music together. Adult Rock Camp was formerly called “Ladies Rock Camp”, but the name was changed to better reflect its participants. It is an intensive, three-day music and mentoring program for women, trans, and non-binary adults. The “grown-up” version of the summer camp for youth, the program brings together folks from different walks of life and all levels of musical experience for a long weekend of instrument lessons, songwriting, band practice, and workshops, all culminating in a showcase concert at a professional music venue. ***NO PRIOR MUSICAL EXPERIENCE IS NECESSARY!!***
 
 ## REGISTRATION and PAYMENT
-Keep an eye out for registration for Adult Rock Camp in November 2020, for the March 2020 camp! Capacity is limited to the first 30 participants. Flexible payment plans are available and a limited number of need-based scholarships are available on a first-come, first served basis for those who qualify.
+Next Adult Rock Camp is happening March 13th-15th, 2020 and [registration is open NOW!](/programs/adult-rock-camp/register) Capacity is limited to the first 30 participants. Flexible payment plans are available and a limited number of need-based scholarships are available on a first-come, first served basis for those who qualify.
 
 ## LESSONS
 Participants choose one instrument to focus on for the weekend–drums, bass, guitar, vocals, or keyboards. All instruction happens in small group lessons and is led by experienced and enthusiastic women, trans, or gender-expansive musicians.
@@ -38,13 +41,16 @@ At the end of the camp week, camper bands perform their original songs at a show
 ## FUN ACTIVITIES
 At Rock Camp, we know how to have a good time. The camp day is interspersed with fun stuff, from warm-up games to making buttons with your band name.
 
-“I haven’t written or played music since high school, and after camp yesterday I went home and wrote songs until 3am.” – Adult Rock Camper
-
-“Loved every minute of it. Perfect introduction to drumming and playing as part of a band” – Adult Rock Camper
+*“I haven’t written or played music since high school, and after camp yesterday I went home and wrote songs until 3am.”* – Adult Rock Camper  
+*“Loved every minute of it. Perfect introduction to drumming and playing as part of a band”* – Adult Rock Camper
 
 ## CHECK IT OUT!
 Want to see what happens at Adult Rock Camp? Check out these photos and videos from the Spring 2017 session:
-* Behind the scenes photos
-* More behind the scenes photos by Jaime Lowe
-* Showcase concert photos by Lydia Mackela
-* Showcase videos by Julia Liu
+* [Behind the scenes](https://www.flickr.com/photos/girlsrockri/albums/72157682347672886) photos
+* More behind the scenes [photos by Jaime Lowe](https://www.flickr.com/photos/girlsrockri/albums/72157679740745432)
+* Showcase concert [photos by Lydia Mackela](https://www.flickr.com/photos/girlsrockri/albums/72157678432176333)
+* Showcase [videos by Julia Liu](https://youtu.be/k_MzTIpXx1A)
+
+## [Frequently Asked Questions](/programs/adult-rock-camp/register.html#frequently-asked-questions)
+
+## [Register for Adult Rock Camp](/programs/adult-rock-camp/register)

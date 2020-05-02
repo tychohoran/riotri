@@ -14,13 +14,13 @@ layout: page
 
 # MONEY
 
-Click the donation button above to give safely via [Mightycause](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island), one time or monthly. Checks can be sent to our mailing address (PO Box 3475, Providence, RI 02909). Donations are tax deductible, too! (If you are paying tuition for Girls Rock Camp, please visit our [registration page](http://girlsrockri.org/register-girlsrockcamp/))
+Click the donation button above to give safely via [Mightycause](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island), one time or monthly. Checks can be sent to our mailing address (PO Box 3475, Providence, RI 02909). Donations are tax deductible, too! **(If you are paying tuition for Youth Rock Camp, please visit our [registration page](/programs/youth-rock-camp/register.html))**
 
 # TIME
 
-## [Volunteer Info](/get-involved/#volunteer)
+## [Volunteer Info](/get-involved/volunteer.html)
 
-Visit our [volunteer page](http://riotri.org/get-involved/volunteer.html) to learn about our fun and important volunteer opportunities!
+Visit our [volunteer page](/get-involved/volunteer.html) to learn about our fun and important volunteer opportunities!
 
 # STUFF
 
@@ -29,7 +29,7 @@ We can always use music gear, office equipment, and food donations (check out ou
 # WISH LIST
 
 ## Music Gear
-We would love your decent quality, working:
+We would love your **decent quality, working:**
 * bass guitars (especially short scale!)
 * keyboards
 * keyboard power supplies

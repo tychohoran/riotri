@@ -8,7 +8,9 @@
 		 	{% assign dir_trim = link_page.dir | split: "/" %}
 		 	{% assign root_dir = dir_trim[1] | prepend:"/" | append:"/" %}
 		    {% if link_page.url == root_dir and link_page.title %}
-		    	{% if root_dir == page.dir %}
+		    	{% assign page_trim = page.path | split: "/" %}
+		    	{% assign page_dir = page_trim[0] | prepend:"/" | append:"/" %}
+		    	{% if root_dir == page_dir or root_dir == page.dir %}
 		    		{% assign class = " current" %}
 		    	{% else %}
 		    		{% assign class = "" %}
@@ -20,13 +22,20 @@
 				    	{% for subpage in subpages %}
 				    		{% assign subpage_dir = subpage.path | remove: subpage.name | prepend: "/" %}
 				    		{% if subpage_dir == root_dir %}
+
+				    		{% if subpage.url == page.url %}
+					    		{% assign subclass = " current" %}
+					    	{% else %}
+					    		{% assign subclass = "" %}
+					    	{% endif %}
+
 				    		{% assign slug = subpage.title | slugify | prepend:"#" %}
 				    		{% if link_page['Has Subpages Embedded'] %}
 					    		{% assign final_path = link_page.url | append: slug %}
 					    	{% else %}
 					    		{% assign final_path = subpage.url %}
 					    	{% endif %}
-				    		<a class="page-link sub" href="{{final_path}}">{{subpage.title}}</a>
+				    		<a class="page-link sub{{subclass}}" href="{{final_path}}">{{subpage.title}}</a>
 				    		{% endif %}
 				    	{% endfor %}
 			    	</div>

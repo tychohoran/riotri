@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+  	<!-- NAVIGATION -->
+    {% include header.html %}
+
+    <main class="wrapper home">
+    	{% assign has_banner = site['Announcement Banner Text'] | compact | join: "" | strip %}
+		{% unless has_banner == "" %}
+		<!-- ANNOUNCEMENT BANNER -->
+		{% include announcement.html %}
+		{% endunless %}
+
+		<!-- Video Intro -->
+		<div class="slideshow">
+			{% include arrow-icon.html %}
+			<div class="splash above">
+			  <img class="site-logo" alt="RIOT RI" src="{{site['Site Logo']}}">
+			</div>
+			<div class="splash vid">
+				<video muted autoplay loop>
+					<source src="/uploads/riotrivideo4.mp4" type="video/mp4">
+				</video>
+			</div>
+		</div>
+
+    	<!-- PAGE CONTENT -->
+		{% assign has_content = content | compact | join: "" | strip %}
+		{% unless has_content == "" %}
+			<article class="post" id="{{page.title | slugify}}">
+		      {% assign edited_content = content | markdownify | strip | replace: "<h1", "</div></section><section class='post-section'><h1 class='section-header'" | replace: "/h1>","/h1><div class='section-content'>" | replace: "<p><img", "<img" | replace_first: "</div></section>","</section>" %}
+		          {{ edited_content | replace: "></p>",">"}}
+		          <section class="subpage-links post news">
+		          {% for subpage in site.posts limit:4 %}
+			        <a class="subpage-link" id="{{subpage.title | slugify}}" style="background-image: url({{subpage['Thumbnail Image']}})" href="{{subpage.url}}">
+			          <div class="subpage-wrapper">
+			            <h1 class="subpage-date">{{subpage.date | date: "%m/%d" }}</h1>
+			            <h2 class="subpage-title">
+			              {{subpage.title}}
+			            </h2>
+			            {% assign has_desccription = subpage['Description'] | compact | join: "" | strip %}
+			            {% unless has_desccription == "" %}
+			            <div class="subpage-description">
+			              {{subpage['Description'] | markdownify | strip | newline_to_br}}
+			            </div>
+			            {% else %}
+			            <div class="subpage-description">
+			              <p>
+			              {{subpage.content | markdownify | strip_html | strip | truncate: 290 }}
+			            </p>
+			            </div>
+			            {% endunless %}
+			          </div>
+			        </a>
+			    {% endfor %}
+			    <h2 class="link" id="news" style="padding: 18px 0 0 0"><a href="/news">More News</a></h2>
+			</section>
+
+		  </article>
+		{% endunless %}
+
+    	{% include footer.html %}
+	</main>
+
+  </body>
+
+</html>

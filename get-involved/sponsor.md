@@ -3,7 +3,11 @@ title: Sponsor
 permalink: "/sponsor"
 position: 1
 Has Visible Header: true
+Header Button:
+  Text: Sign Up
+  URL: https://docs.google.com/forms/d/e/1FAIpQLSfO5a4o1xvKPzO4KMq8pXvx0RAnOGWGBi6ouUCGDpuYm_z8Rw/viewform?usp=sf_link
 Thumbnail Image: "/uploads/sponsor.jpg"
+Has Photo Banner: false
 layout: page
 ---
 
