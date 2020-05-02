@@ -134,9 +134,9 @@ body {
 }
 
 %padding-button{
-    padding: 18px;
+    padding: 12px;
     @include media-query($on-palm) {
-        padding: 9px 18px;
+        padding: 9px 12px;
     }
 }
 
@@ -195,8 +195,13 @@ body {
         background: #000;
         mix-blend-mode: darken;
         .site-logo {
-            width: calc(100% - #{4*$mobile-margin});
-            max-width: 100vmin;
+            width: calc(100% - 145px);
+            max-height: calc(100% - #{4*$mobile-margin});
+            object-fit: contain;
+            @include media-query($on-palm){
+                width: calc(100% - 72px);
+                max-height: 100%;
+            }
         }
     }
     * {
@@ -205,7 +210,7 @@ body {
     video {
         margin: 0;
         min-width: 100%;
-        min-height: 100%;
+        min-height: 40vw;
     }
     .site-logo {
         width: $content-width;
@@ -222,6 +227,42 @@ body {
     margin: $desktop-margin 0 0 4*$mobile-margin;
     display: none;
     max-width: 400px;
+}
+
+.home .subpage-links.post.news {
+    padding-top: 18px;
+}
+
+.nav-buttons {
+    @extend %flex-setup-row;
+    margin: -9px !important;
+
+    h2{
+        margin: 9px !important;
+        padding: 0 !important;
+        @include prefix(flex, 1 0 20%, webkit moz ms o);
+        &#contact {
+            flex: 1 0 12%;
+        }
+        &#programs {
+            flex: 1 0 15%;
+        }
+
+        @include media-query($on-laptop){
+            @include prefix(flex, 1 0 40% !important, webkit moz ms o);
+        }
+        @include media-query($on-palm){
+            font-size: 18px;
+        }
+    }
+
+    h2.link a {
+        margin: 0 !important; padding: 12px; min-width: auto; background-color: #000;
+
+        &:hover {
+            background-color: $accent-color-3;
+        }
+    }
 }
 
 /*------Universal Styles-------*/
@@ -662,6 +703,12 @@ img {
         display: none;
     }
 
+    &.home .slideshow {
+        @include media-query($on-palm){
+            max-height: 70vw;
+        }
+    }
+
 /*------Header Styles-------*/
 
     .post-header,.page-header {
@@ -690,7 +737,7 @@ img {
         .register{
             @include prefix(align-self, flex-end, webkit moz ms o);
             @include prefix(transform, translateY(-8px), webkit moz ms o);
-            @include prefix(flex, 0, webkit moz ms o);
+            @include prefix(flex, 0 1 32%, webkit moz ms o);
             @extend %padding-default;
             padding-left: $mobile-margin;
 
@@ -761,6 +808,10 @@ img {
 /*------Post Styles-------*/
 
     .post {
+
+        h2 a {
+            font-size: 27px;
+        }
 
         img{
             @include media-query($on-palm){
@@ -863,7 +914,7 @@ img {
         &.subpage-links {
             position: relative;
             @extend %flex-setup-row;
-            @extend %padding-basic;
+            padding: $desktop-margin;
             @include media-query(420px){
                 padding:0;
             }
