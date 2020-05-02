@@ -1,12 +1,6 @@
 ---
 title: RIOT RI
 timezone: UTC
-gems: [jekyll-paginate]
-plugins_dir:
-  - jekyll-paginate
-  - jekyll-feed
-paginate: 8
-paginate_path: "/news/:num/"
 collections:
   posts:
     title: Posts
@@ -37,6 +31,13 @@ defaults:
     Thumbnail Image: 
     Slideshow Images:
     - ''
+gems:
+- jekyll-paginate
+plugins_dir:
+- jekyll-paginate
+- jekyll-feed
+paginate: 8
+paginate_path: "/news/:num/"
 description: RIOT Rhode Island is a volunteer-based non-profit that uses music creation
   and critical thinking to foster empowerment, collaborative relationships, and the
   development of healthy identities in girls, women, trans, and gender non-conforming

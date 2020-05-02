@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2018: week one, day one"
-date: "2018-07-17"
+title: 'Girls Rock Camp 2018: week one, day one'
+date: 2018-07-17 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/notes-23057.jpg"
 ---
 

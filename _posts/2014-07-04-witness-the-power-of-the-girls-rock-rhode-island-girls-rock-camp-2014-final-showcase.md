@@ -1,6 +1,7 @@
 ---
-title: "Witness the Power of the Girls Rock! Rhode Island's Girls Rock Camp 2014 Final Showcase!"
-date: "2014-07-04"
+title: Witness the Power of the Girls Rock! Rhode Island's Girls Rock Camp 2014 Final
+  Showcase!
+date: 2014-07-04 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/GRC-showcase-boot-2013.jpg"
 ---
 

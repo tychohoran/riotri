@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2018: week one, day five"
-date: "2018-07-21"
+title: 'Girls Rock Camp 2018: week one, day five'
+date: 2018-07-21 00:00:00 Z
 ---
 
 [![](/uploads/blogposts/IMG_4200-1024x768.jpg)](http://girlsrockri.org/wp-content/uploads/2018/07/IMG_4200.jpg)

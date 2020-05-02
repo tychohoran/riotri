@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp: session two, day four"
-date: "2017-08-18"
+title: 'Girls Rock Camp: session two, day four'
+date: 2017-08-18 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/jhanna-10811.jpg"
 ---
 

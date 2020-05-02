@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Courtney Denelle"
-date: "2018-07-13"
+title: 'Volunteer Spotlight: Courtney Denelle'
+date: 2018-07-13 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/Courtney.jpg"
 ---
 

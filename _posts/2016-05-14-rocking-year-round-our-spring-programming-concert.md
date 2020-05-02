@@ -1,6 +1,6 @@
 ---
-title: "Rocking Year-Round: Our Spring Programming Concert"
-date: "2016-05-14"
+title: 'Rocking Year-Round: Our Spring Programming Concert'
+date: 2016-05-14 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/IMG_0088.jpg"
 ---
 

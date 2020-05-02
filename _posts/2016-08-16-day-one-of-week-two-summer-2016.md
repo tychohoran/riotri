@@ -1,6 +1,6 @@
 ---
-title: "Day one of week two, summer 2016"
-date: "2016-08-16"
+title: Day one of week two, summer 2016
+date: 2016-08-16 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/august-camp-10013.jpg"
 ---
 

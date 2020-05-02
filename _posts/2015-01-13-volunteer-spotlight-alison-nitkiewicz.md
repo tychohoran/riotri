@@ -1,6 +1,6 @@
 ---
-title: "Volunteer Spotlight: Alison Nitkiewicz"
-date: "2015-01-13"
+title: 'Volunteer Spotlight: Alison Nitkiewicz'
+date: 2015-01-13 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/Alison_volunteer-spotlight.jpg"
 ---
 

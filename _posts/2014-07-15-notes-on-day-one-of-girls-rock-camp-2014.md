@@ -1,6 +1,6 @@
 ---
-title: "Notes on day one of Girls Rock Camp 2014"
-date: "2014-07-15"
+title: Notes on day one of Girls Rock Camp 2014
+date: 2014-07-15 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/fresh-slide-7357.jpg"
 ---
 

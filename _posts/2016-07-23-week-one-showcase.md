@@ -1,6 +1,6 @@
 ---
-title: "2016 week one showcase"
-date: "2016-07-23"
+title: 2016 week one showcase
+date: 2016-07-23 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/showcase-big-9986.jpg"
 ---
 

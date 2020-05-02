@@ -1,6 +1,6 @@
 ---
-title: "Week one, day one of the 2016 Girls Rock Camps!"
-date: "2016-07-19"
+title: Week one, day one of the 2016 Girls Rock Camps!
+date: 2016-07-19 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/day-one-9980.jpg"
 ---
 

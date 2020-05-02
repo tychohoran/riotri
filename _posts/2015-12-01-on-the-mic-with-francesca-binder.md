@@ -1,6 +1,6 @@
 ---
-title: "ON THE MIC with Francesca Binder"
-date: "2015-12-01"
+title: ON THE MIC with Francesca Binder
+date: 2015-12-01 00:00:00 Z
 ---
 
 [![20150716_AB16](/uploads/blogposts/20150716_AB16-1024x683.jpg)](http://girlsrockri.org/wp-content/uploads/2015/11/20150716_AB16.jpg)

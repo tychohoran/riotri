@@ -1,6 +1,6 @@
 ---
-title: "Girl Power! The Girls Rock 2015 Final Showcase!"
-date: "2015-07-18"
+title: Girl Power! The Girls Rock 2015 Final Showcase!
+date: 2015-07-18 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/FullSizeRender-4-e1437182138531.jpg"
 ---
 

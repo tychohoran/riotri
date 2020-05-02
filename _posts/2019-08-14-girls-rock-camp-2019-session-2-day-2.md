@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Camp 2019- Session 2 Day 2"
-date: "2019-08-14"
+title: Girls Rock Camp 2019- Session 2 Day 2
+date: 2019-08-14 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/48528445992_de98e09aaa_z.jpg"
 ---
 

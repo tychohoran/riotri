@@ -1,6 +1,6 @@
 ---
-title: "ON THE MIC with Harper Rhodes"
-date: "2015-12-08"
+title: ON THE MIC with Harper Rhodes
+date: 2015-12-08 00:00:00 Z
 ---
 
 [![20150722_AB35](/uploads/blogposts/20150722_AB35-683x1024.jpg)](http://girlsrockri.org/wp-content/uploads/2015/12/20150722_AB35.jpg)

@@ -1,6 +1,6 @@
 ---
-title: "Girls Rock Final Showcase, Here We Come!"
-date: "2015-08-13"
+title: Girls Rock Final Showcase, Here We Come!
+date: 2015-08-13 00:00:00 Z
 ---
 
 So it's T minus ONE DAY until the [Girls Rock Camp Two Final Showcase](https://www.facebook.com/events/1459973014317415/)! Six new bands will be rocking out at the Columbus Theatre on Friday beginning at 6 p.m.

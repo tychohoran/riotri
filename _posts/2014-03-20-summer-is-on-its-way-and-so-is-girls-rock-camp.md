@@ -1,6 +1,6 @@
 ---
-title: "Summer is on its way and so is Girls Rock Camp!"
-date: "2014-03-20"
+title: Summer is on its way and so is Girls Rock Camp!
+date: 2014-03-20 00:00:00 Z
 Thumbnail Image: "/uploads/blogposts/girls-rock-camp-poster_2014_smaller.jpg"
 ---
 
