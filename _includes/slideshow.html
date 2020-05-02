@@ -1,8 +1,18 @@
+{% assign has_slideshow = page['Slideshow Images'] | compact | join: "" | strip %}
+{% assign has_thumbnail = page['Thumbnail Image'] | strip | join: "" | strip %}
+{% if page['Has Photo Banner'] %}
+{% if has_slideshow != "" or has_thumbnail != "" %}
+<!-- PHOTO CAROUSEL -->
 <div class="slideshow">
+	{% include arrow-icon.html %}
 	<div class="slideshow-carousel">
-		{% for image in page['Slideshow Images'] %}
-			<img alt="" src="{{image}}">
-		{% endfor %}
+		{% if has_slideshow != "" %}
+			{% for image in page['Slideshow Images'] %}
+				<img alt="" src="{{image}}">
+			{% endfor %}
+		{% else if has_thumbnail != "" %}
+			<img alt="" src="{{page['Thumbnail Image']}}">
+		{% endif %}
 	</div>
 	{% if page['Slideshow Images'].size > 1 %}
 	<div class="slideshow-progress">
@@ -12,3 +22,5 @@
 	</div>
 	{% endif %}
 </div>
+{% endif %}
+{% endif %}

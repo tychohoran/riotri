@@ -143,3 +143,7 @@ blockquote:after,blockquote:before,q:after,q:before{
 input{
     @include prefix(appearance, none, webkit moz);
 }
+
+hr {
+    border: none;
+}

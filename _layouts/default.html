@@ -8,18 +8,22 @@
   	<!-- NAVIGATION -->
     {% include header.html %}
 
-    <main class="wrapper">
+    {% assign path_split = page.path | split: "/" %}
+    {% assign is_post = path_split[0] | strip %}
+    {% if is_post == "_posts" %}
+    	{% assign class = " blog-post" %}
+    {% else %}
+    	{% assign class = "" %}
+    {% endif %}
+
+    <main class="wrapper{{class}}">
     	{% assign has_banner = site['Announcement Banner Text'] | compact | join: "" | strip %}
-		{% unless has_slideshow == "" %}
+		{% unless has_banner == "" %}
 		<!-- ANNOUNCEMENT BANNER -->
 		{% include announcement.html %}
 		{% endunless %}
 
-		{% assign has_slideshow = page['Slideshow Images'] | compact | join: "" | strip %}
-		{% unless has_slideshow == "" %}
-		<!-- PHOTO CAROUSEL -->
 		{% include slideshow.html %}
-		{% endunless %}
 
 		<!-- PAGE HEADER -->
 		<header class="page-header">
@@ -31,6 +35,11 @@
 		  	<a class='register-link' href="{{headerbutton['URL']}}">{{headerbutton['Text']}}</a>
 		  </h2>
 		  {% endunless %}
+		  {% if is_post == "_posts" %}
+		  <div class="post-date">
+			{{page.date | date: "%b %d, %Y"}}
+			</div>
+			{% endif %}
 		</header>
 
     	{{ content }}

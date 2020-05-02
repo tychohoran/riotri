@@ -1,6 +1,12 @@
 ---
 title: RIOT RI
 timezone: UTC
+gems: [jekyll-paginate]
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-feed
+paginate: 8
+paginate_path: "/news/:num/"
 collections:
   posts:
     title: Posts
@@ -14,11 +20,14 @@ defaults:
     type: posts
   values:
     layout: page
+    Has Photo Banner: true
+    Thumbnail Image: "/uploads/RiotRI-Picture2.jpg"
 - scope:
     path: ''
     type: pages
   values:
     layout: page
+    Has Photo Banner: true
     Has Visible Header: true
     Has Subpages Embedded: false
     Description: 
@@ -46,7 +55,6 @@ Favicon Image: "/uploads/RIOT-Favicon.png"
 Default Thumbnail Image: "/uploads/RiotRI-Picture.jpg"
 baseurl: 
 url: http://riotri.org
-markdown: kramdown
 Social Media:
   Instagram:
     URL: https://www.instagram.com/girlsrockri

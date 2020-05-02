@@ -39,3 +39,11 @@ $font-weight: 400, $font-style: normal) {
   // Output standard non-prefixed declaration
   #{$property}: $value;
 }
+
+// Add animations
+@mixin simple-animation($name, $attribute, $from, $to) {
+  @keyframes #{$name} {
+    0% {#{$attribute}: #{$from}}
+    100% {#{$attribute}: #{$to}}
+  }
+}

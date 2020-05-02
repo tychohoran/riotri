@@ -1,5 +1,7 @@
 @include font-face("Antarctican Headline", "/fonts/AntarcticanHeadline-Medium");
 
+@include simple-animation(bob, transform, translateY(0), translateY(3px));
+
 body {
     background-color: $background-color;
 }
@@ -550,9 +552,35 @@ img {
 
     @include media-query($on-palm){
         font-size: $small-font-size;
-        padding-top: 18px;
-        padding-left: 18px;
-        padding-right: 18px;
+        padding: 12px 18px 15px 18px;
+    }
+}
+
+/*------Scroll Arrow-------*/
+
+.scroll-arrow {
+    @extend %absolute-reset;
+    left: auto;
+    bottom: auto;
+    @extend %padding-default;
+    z-index: 200;
+    @include prefix(transition, opacity 0.5s ease, webkit moz ms o);
+
+    @include media-query($on-palm) {
+        display: none;
+    }
+    .arrow-icon{
+        width: 60px;
+        height: auto;
+        polyline {
+            @include prefix(animation, bob 0.5s ease-in-out infinite alternate, webkit moz ms o);
+        }
+        circle {
+            display: none;
+        }
+        .cls-1 {
+            stroke: $accent-color;
+        }
     }
 }
 
@@ -560,20 +588,19 @@ img {
 
 .slideshow {
 
+    position: relative;
     background-color: #000;
-    padding-bottom: 90px;
+    padding-bottom: 72px;
     @include media-query($on-palm){
-        padding-bottom: 45px;
+        padding-bottom: 36px;
     }
     .slideshow-carousel {
         position: relative;
         @include value-prefix(display, flex, webkit moz ms o);
         @include prefix(flex-flow, row nowrap, webkit moz ms o);
         @include prefix(transition, transform 0.5s ease, webkit moz ms o);
-        max-height: 100%;
         @include media-query($on-palm){
-            max-height: 60%;
-            min-height: 300px;
+            min-height: 50vh;
         }
 
         img {
@@ -620,6 +647,8 @@ img {
     background-color: $accent-color;
     overflow-x: hidden;
     -ms-overflow-style: none;
+    overflow-y: scroll; /* has to be scroll, not auto */
+    -webkit-overflow-scrolling: touch;
 
     @include media-query($on-palm) {
         left: 0;
@@ -661,6 +690,7 @@ img {
         .register{
             @include prefix(align-self, flex-end, webkit moz ms o);
             @include prefix(transform, translateY(-8px), webkit moz ms o);
+            @include prefix(flex, 0, webkit moz ms o);
             @extend %padding-default;
             padding-left: $mobile-margin;
 
@@ -674,6 +704,29 @@ img {
             }
             .register-link:hover{
                 background-color: $accent-color-2;
+            }
+        }
+        .page-title {
+            @include prefix(flex, 1, webkit moz ms o);
+        }
+        .post-date {
+            @extend %padding-default;
+            padding-left: 0;
+            color: $accent-color;
+            @include prefix(align-self, flex-end, webkit moz ms o);
+            @include prefix(flex, 0 200px, webkit moz ms o);
+            text-align: right;
+            @include media-query($on-laptop){
+                text-align: left;
+                padding-left: 2*$desktop-margin;
+                padding-top:0;
+                @include prefix(flex, 1 0 100%, webkit moz ms o);
+            }
+            @include media-query($on-palm){
+                padding-left: $desktop-margin;
+            }
+            @include media-query($on-tiny){
+                padding-left: $mobile-margin;
             }
         }
 
@@ -770,23 +823,41 @@ img {
             @extend %vertical-rhythm-top;
         }
 
-        p + img {
+        *:not(img):not(header) + img {
             display: inline-block;
-            margin-top: $desktop-margin !important;
+            padding-top: $desktop-margin;
             @include media-query($on-palm){
-                margin-top: $mobile-margin !important;
+                padding-top: $mobile-margin;
+            }
+        }
+
+        img + *:not(img):not(h2) {
+            display: inline-block;
+            padding-top: $desktop-margin;
+            @include media-query($on-palm){
+                padding-top: $mobile-margin;
             }
         }
 
         .post-header { 
             padding:0;
-            background-color: #000;
-            color: $accent-color-2;
+            background-color: $accent-color-2;
 
             &.hidden {
                 display: none;
             }
         }
+
+        .pagination {
+            width: 100%;
+            text-align: center;
+            padding-top: 18px !important;
+            font-size: $h2-mobile;
+            .arrow {
+                font-size: 36px;
+            }
+        }
+
 /*------Subpage Links Styles-------*/
 
         &.subpage-links {
@@ -831,7 +902,7 @@ img {
                     div.subpage-wrapper{
                         padding: 27px;
                     }
-                    h1.subpage-title {
+                    .subpage-date {
                         color: $accent-color;
                     }
                     @include media-query(420px){
@@ -879,75 +950,104 @@ img {
 
 /*------Section Specific Styles-------*/
 
-        #values+.section-content h2, #volunteer-job-descriptions+.section-content h2:not(:last-child){
-            letter-spacing: 0.01em;
-            background-color: $accent-color-2;
-            @extend %padding-button;
-            margin-bottom: 18px;
-            @extend %extend-right;
-            @extend %padding-breakout-mobile;
-
-            @include media-query($on-laptop){
-                padding-left: 2*$desktop-margin;
+        #values+.section-content, #volunteer-job-descriptions+.section-content, #frequently-asked-questions+.section-content, #group-lessons-schedule+.section-content{
+            a, a:link {
+                color: $accent-color;
             }
-            @include media-query($on-palm){
-                padding-left: $desktop-margin;
+            a:hover {
+                color: $accent-color-2;
             }
-            @include media-query($on-tiny){
-                padding-left: $mobile-margin;
+            strong {
+                color: $accent-color;
             }
-        }
-        #staff+.section-content img {
-            max-height: 400px;
-            min-height: 270px;
-            object-position: 50% 15%;
-        }
+            & > * {
+                letter-spacing: 0.01em;
+                background-color: #000;
+                color: #fff;
+                padding: $desktop-margin;
+                @extend %padding-button;
+                width: auto;
+                @extend %padding-breakout-mobile;
+                @include media-query($on-laptop){
+                    margin-right: 0;
+                    margin-left: 0;
+                    min-width: auto;
+                    margin-bottom: $desktop-margin;
+                }
+                @include media-query($on-palm){
+                    padding: $mobile-margin $desktop-margin;
+                    margin-bottom: 0;
+                    margin-right: -$desktop-margin;
+                    margin-left: -$desktop-margin;
 
-
-        #values+.section-content .sub-section, #volunteer-job-descriptions+.section-content .sub-section{
-            padding: $desktop-margin;
-            margin-right: -$desktop-margin;
-            margin-bottom: $desktop-margin;
-            background-color: $text-color;
-            color: #fff;
-
-            &:last-child {
+                    &:last-child {
+                        padding-bottom: 2*$mobile-margin;
+                    }
+                }
+                @include media-query($on-tiny){
+                    padding-left: $mobile-margin;
+                    margin-left: -$mobile-margin;
+                    margin-right: -$mobile-margin;
+                }
+            }
+            *:not(h2) + *:not(h2) {
+                padding-top: 0;
                 margin-bottom: 0;
             }
-
-            h2{
+            & > h2 {
                 color: $accent-color-2;
-                a {
-                    margin: -36px;
+                margin-bottom: 0;
+                padding-bottom: 18px;
 
-                    @include media-query($on-palm) {
-                        margin: 0;
+                a, a:link, a:visited, a:hover {
+                    color: #fff;
+                }
+
+                & + *:not(h2) {
+                    padding-top: 0;
+                    margin-bottom: 0;
+                }
+
+                & + h2 a{
+                    margin-bottom: $desktop-margin;
+                    margin-top: $desktop-margin;
+                }
+
+                &:not(:first-child) {
+                    margin-top: $desktop-margin;
+                    @include media-query($on-palm){
+                        margin-top: 0;
+                    }
+                }
+
+                a {
+                    margin: -$desktop-margin !important;
+                    @include media-query($on-palm){
+                        margin: 0 !important;
                     }
                 }
             }
-
-            @include media-query($on-laptop) {
-                margin-right: 0;
-                &:first-child {
-                    margin-top: 18px;
-                }        
-            }
-            @include media-query($on-palm) {
+            *:last-child {
                 margin-bottom: 0;
             }
-            @include media-query(350px) {
-                padding: $desktop-margin $mobile-margin;
-            }
+        }
+        #staff+.section-content img, #instructors+.section-content img {
+            max-height: 400px;
+            min-height: 270px;
+        }
+        #instructors+.section-content img {
+            object-position: 50% 25%;
+        }
+        #staff+.section-content img {
+            object-position: 50% 15%;
         }
 
-        #values+.section-content .sub-section:last-child{
-            @include media-query($on-palm) {
-                padding-bottom: 2*$desktop-margin;
-                margin-bottom: -2*$mobile-margin;
-            }
+    }
+    @include media-query($on-palm){
+        #mission-vision-values > section:last-child {
+            padding-bottom: 0;
         }
     }
-
     #staff-board > img{
         @include media-query($on-laptop){
             max-height: 500px;
@@ -973,4 +1073,80 @@ img {
                 line-height: 1.5;
             }
         }
+
+    .news.post.subpage-links {
+        .subpage-link {
+            @include prefix(flex, 1 0 100%, webkit moz ms o);
+            margin: 18px 0;
+            @include media-query(420px){
+                margin: 0;
+                margin-top: 4.5px;
+            }
+            .subpage-wrapper {
+                @include value-prefix(display, flex, webkit moz ms o);
+                @include prefix(flex-flow, row wrap, webkit moz ms o);
+                max-height: 100%;
+                word-break: break-word;
+
+                .subpage-date {
+                    margin-right: $desktop-margin;
+                    margin-bottom: 0;
+                    font-size: 104px;
+                    @include media-query(420px){
+                        font-size: 81px;
+                    }
+                    @include media-query(420px){
+                        font-size: 72px;
+                        @include prefix(flex, 1 0 100%, webkit moz ms o);
+                    }
+                }
+                .subpage-title {
+                    overflow: hidden;
+                    max-height: 180px;
+                    @include prefix(flex, 1, webkit moz ms o);
+                    @include media-query(420px){
+                        max-height: 81px;
+                        font-size: 22.5px;
+                        line-height: 27px;
+                    }
+                }
+                .subpage-description {
+                    @include prefix(flex, 1 0 100%, webkit moz ms o);
+                }
+            }
+        }
+    }
+    &.blog-post {
+
+        .scroll-arrow {
+            display: none;
+        }
+
+        .page-header {
+            @include prefix(flex-flow, row wrap, webkit moz ms o);
+            h1{
+                font-size: 90px;
+                @include media-query($on-palm){
+                    font-size: $h1-mobile;
+                }
+            }
+        }
+        .slideshow-carousel {
+            max-height: 300px;
+        }
+
+        @include media-query(420px){
+            .page-title {
+                font-size: $h2-mobile;
+                font-family: $base-font-family;
+                font-weight: 700;
+                line-height: 30px;
+            }
+        }
+    }
+
+    .cls-1 {
+        stroke-width: 2px;
+    }
+
 }

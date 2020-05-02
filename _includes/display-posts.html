@@ -1,0 +1,82 @@
+<section class="subpage-links post news">
+  {% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="arrow" href="{{ paginator.previous_page_path | relative_url }}">&laquo;</a>
+  {% else %}
+    <span class="arrow">&laquo;</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% assign max = paginator.page | plus: 3 %}
+    {% assign min = paginator.page | minus: 3 %}
+    {% if page <= max and page >= min %}
+    {% if page == paginator.page %}
+      <strong>{{ page }}</strong>
+    {% elsif page == 1 %}
+      <a href="{{ site.paginate_path | relative_url | remove: '/:num'}}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="arrow" href="{{ paginator.next_page_path | relative_url }}">&raquo;</a>
+  {% else %}
+    <span class="arrow">&raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+    {% for subpage in paginator.posts %}
+        <a class="subpage-link" id="{{subpage.title | slugify}}" style="background-image: url({{subpage['Thumbnail Image']}})" href="{{subpage.url}}">
+          <div class="subpage-wrapper">
+            <h1 class="subpage-date">{{subpage.date | date: "%m/%d" }}</h1>
+            <h2 class="subpage-title">
+              {{subpage.title}}
+            </h2>
+            {% assign has_desccription = subpage['Description'] | compact | join: "" | strip %}
+            {% unless has_desccription == "" %}
+            <div class="subpage-description">
+              {{subpage['Description'] | markdownify | strip | newline_to_br}}
+            </div>
+            {% else %}
+            <div class="subpage-description">
+              <p>
+              {{subpage.content | markdownify | strip_html | strip | truncate: 290 }}
+            </p>
+            </div>
+            {% endunless %}
+          </div>
+        </a>
+    {% endfor %}
+    {% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="arrow" href="{{ paginator.previous_page_path | relative_url }}">&laquo;</a>
+  {% else %}
+    <span class="arrow">&laquo;</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% assign max = paginator.page | plus: 3 %}
+    {% assign min = paginator.page | minus: 3 %}
+    {% if page <= max and page >= min %}
+    {% if page == paginator.page %}
+      <strong>{{ page }}</strong>
+    {% elsif page == 1 %}
+      <a href="{{ site.paginate_path | relative_url | remove: '/:num'}}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="arrow" href="{{ paginator.next_page_path | relative_url }}">&raquo;</a>
+  {% else %}
+    <span class="arrow">&raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+  </section>
