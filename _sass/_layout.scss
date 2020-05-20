@@ -402,14 +402,17 @@ img {
                 color: $accent-color;
                 font-size: $small-font-size;
                 line-height: 0.8;
-                opacity: 0;
+                opacity: 1;
                 max-width: 132px;
                 @include media-query($on-palm){
                     display: none;
                 }
             }
             svg{
-                @include prefix(transition, 0.25s ease, webkit moz mx o);
+                @include prefix(transform, translateY(-$mobile-margin),webkit moz mx o);
+                @include media-query($on-palm){
+                    @include prefix(transform, translateY(0),webkit moz mx o);
+                }
                 path {
                     fill: #000;
                     @include prefix(transition, fill 0.25s ease, webkit moz mx o);
@@ -417,16 +420,9 @@ img {
             }
         }
         &.heart:hover {
-            .heart-text {
-                opacity: 1;
-            }
             svg {
-                @include prefix(transform, translateY(-$mobile-margin),webkit moz mx o);
                 path {
                     fill: $accent-color;
-                }
-                @include media-query($on-palm){
-                     @include prefix(transform, translateY(0),webkit moz mx o);
                 }
             }
         }

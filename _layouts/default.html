@@ -32,7 +32,7 @@
 		  {% assign has_headerbutton = headerbutton['Text'] | compact | join: "" | strip %}
 		  {% unless has_headerbutton == "" %}
 		  <h2 class='register'>
-		  	<a class='register-link' href="{{headerbutton['URL']}}">{{headerbutton['Text']}}</a>
+		  	<a class='register-link' href="{{headerbutton['URL']}}" target="_BLANK">{{headerbutton['Text']}}</a>
 		  </h2>
 		  {% endunless %}
 		  {% if is_post == "_posts" %}
