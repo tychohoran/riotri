@@ -1,6 +1,7 @@
 ---
 title: Name Change
 date: 2020-06-25 16:51:00 Z
+position: 1
 ---
 
 <h1>Name Change: Girls Rock! RI to RIOT RI</h1>

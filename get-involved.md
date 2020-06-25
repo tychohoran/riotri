@@ -1,7 +1,7 @@
 ---
 title: Get Involved
 permalink: "/get-involved/"
-position: 1
+position: 2
 Has Subpages Embedded: false
 layout: hub
 ---
