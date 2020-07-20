@@ -15,7 +15,7 @@ layout: page
 Thank you to our 2020 sponsors and grants for supporting empowerment through music!
 
 ![Sponsors-2018-logo_level-1-9d386a.jpg](/uploads/Sponsors-2018-logo_level-1-9d386a.jpg)
-![Sponsors-2018-logo_level-1_2-287c53.jpg](/uploads/Sponsors-2018-logo_level-1_2-287c53.jpg)(https://risca.online/)
+![[Sponsors-2018-logo_level-1_2-287c53.jpg](/uploads/Sponsors-2018-logo_level-1_2-287c53.jpg)](https://risca.online/)
 ![Untitled-design-2-768x148-384bc8.png](/uploads/Untitled-design-2-768x148-384bc8.png)
  
 # Food Donors
