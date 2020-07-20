@@ -2,18 +2,22 @@
 title: Sponsor
 permalink: "/sponsor"
 position: 1
+Has Photo Banner: false
 Has Visible Header: true
 Header Button:
   Text: Sign Up
   URL: https://docs.google.com/forms/d/e/1FAIpQLSfO5a4o1xvKPzO4KMq8pXvx0RAnOGWGBi6ouUCGDpuYm_z8Rw/viewform?usp=sf_link
 Thumbnail Image: "/uploads/sponsor.jpg"
-Has Photo Banner: false
 layout: page
 ---
 
-# 2019 SPONSORS
+# 2020 SPONSORS
 
-Thank you to our Rock Camp 2019 sponsors and grants for supporting empowerment through music!
+![Untitled-design-2-768x148-384bc8.png](/uploads/Untitled-design-2-768x148-384bc8.png)
+![Untitled-design-1-768x148-fbc985.png](/uploads/Untitled-design-1-768x148-fbc985.png)
+Thank you to our 2020 sponsors and grants for supporting empowerment through music!
+![Sponsors-2018-logo_level-1-9d386a.jpg](/uploads/Sponsors-2018-logo_level-1-9d386a.jpg)
+![Sponsors-2018-logo_level-1_2-287c53.jpg](/uploads/Sponsors-2018-logo_level-1_2-287c53.jpg)
  
 # Food Donors
 * [Pizza J](http://www.pizzajprovidence.com/)
