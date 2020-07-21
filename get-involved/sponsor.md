@@ -2,18 +2,28 @@
 title: Sponsor
 permalink: "/sponsor"
 position: 1
+Has Photo Banner: false
 Has Visible Header: true
 Header Button:
   Text: Sign Up
   URL: https://docs.google.com/forms/d/e/1FAIpQLSfO5a4o1xvKPzO4KMq8pXvx0RAnOGWGBi6ouUCGDpuYm_z8Rw/viewform?usp=sf_link
 Thumbnail Image: "/uploads/sponsor.jpg"
-Has Photo Banner: false
 layout: page
 ---
 
-# 2019 SPONSORS
+# 2020 SPONSORS
+Thank you to our 2020 sponsors and grants for supporting empowerment through music!
 
-Thank you to our Rock Camp 2019 sponsors and grants for supporting empowerment through music!
+![Untitled design-fff05b.png](/uploads/Untitled%20design-fff05b.png)
+
+* [RISCA](http://risca.online.com/)
+* [Rhode Island Foundation](https://rifoundation.org/)
+* [Dexter Donation Fund](https://www.providenceri.gov/dexter-donation/)
+* [Providence Shelter](http://www.providenceshelter.org/)
+* [Newport Festivals Foundation](https://www.newportfestivals.org/)
+* [Empire Guitars](https://www.empireguitarsri.com/)
+* [Whole Foods](https://www.wholefoodsmarket.com/company-info/donate)
+
  
 # Food Donors
 * [Pizza J](http://www.pizzajprovidence.com/)
