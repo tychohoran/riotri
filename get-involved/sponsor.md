@@ -14,9 +14,15 @@ layout: page
 # 2020 SPONSORS
 Thank you to our 2020 sponsors and grants for supporting empowerment through music!
 
-![[Sponsors-2018-logo_level-1-9d386a.jpg](/uploads/Sponsors-2018-logo_level-1-9d386a.jpg)](https://risca.online/)
-![Sponsors-2018-logo_level-1_2-287c53.jpg](/uploads/Sponsors-2018-logo_level-1_2-287c53.jpg)
-![Untitled-design-2-768x148-384bc8.png](/uploads/Untitled-design-2-768x148-384bc8.png)
+![Untitled design.png](/uploads/Untitled%20design.png)
+* [RISCA](http://risca.online.com/)
+* [Rhode Island Foundation](https://rifoundation.org/)
+* [Dexter Donation Fund](https://www.providenceri.gov/dexter-donation/)
+* [Providence Shelter](http://www.providenceshelter.org/)
+* [Newport Festivals Foundation](https://www.newportfestivals.org/)
+* [Empire Guitars](https://www.empireguitarsri.com/)
+* [Whole Foods](https://www.wholefoodsmarket.com/company-info/donate)
+
  
 # Food Donors
 * [Pizza J](http://www.pizzajprovidence.com/)
