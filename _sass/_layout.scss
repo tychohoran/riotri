@@ -290,7 +290,18 @@ h1 {
     }
 }
 
-h2 {
+#mc_embed_signup .sub_button {
+    text-transform: uppercase;
+    font-size: $h2-desktop;
+    font-weight: 700;
+    line-height: 45px;
+    @include media-query($on-palm) {
+        font-size: $h2-mobile;
+        line-height: 36px;
+    }
+}
+
+h2, #mc_embed_signup .sub_div {
     text-transform: uppercase;
     font-size: $h2-desktop;
     font-weight: 700;
@@ -300,7 +311,7 @@ h2 {
         line-height: 36px;
     }
 
-    a, a:link, a:visited {
+    a, a:link, a:visited, .sub_button {
         display: block;
         background-color: $accent-color-3;
         color: #fff;
@@ -314,7 +325,7 @@ h2 {
         }
     }
 
-    a:hover {
+    a:hover, .sub_button:hover {
         background-color: $accent-color-2;
     }
 
