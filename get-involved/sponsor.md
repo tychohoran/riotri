@@ -14,7 +14,8 @@ layout: page
 # 2020 SPONSORS
 Thank you to our 2020 sponsors and grants for supporting empowerment through music!
 
-![Untitled design.png](/uploads/Untitled%20design.png)
+![Untitled design-fff05b.png](/uploads/Untitled%20design-fff05b.png)
+
 * [RISCA](http://risca.online.com/)
 * [Rhode Island Foundation](https://rifoundation.org/)
 * [Dexter Donation Fund](https://www.providenceri.gov/dexter-donation/)
