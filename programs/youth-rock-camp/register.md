@@ -14,7 +14,7 @@ Camp this year takes place over the course of 6 weeks, October 13 - November 18 
 ## [VIRTUAL ROCK CAMP APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLScjh4aLZ6M456QPRqhVEhBjRYq-ILTqesR3X1Ra-a6tTSfAcg/viewform?usp=sf_link)
 
  
-**Please note:** If your camper is not with you when you complete your registration, you may still submit the form. The camper’s section (About Music & More!) does **not** have to be completed to register. A link to this section will be included in your application confirmation email, and the camper may complete it by the May 1 registration deadline (the sooner, the better!).
+Please note: If your camper is not with you when you complete your registration, you may still submit the form. The camper’s section (About Music & More!) does **not** have to be completed to register. A link to this section will be included in your application confirmation email, and the camper may complete it by the May 1 registration deadline (the sooner, the better!).
 
 # TUITION PAYMENT
 
@@ -28,23 +28,23 @@ Once you have filled out a camp application, please click the “APPLICATION FEE
 
 # ABOUT VIRTUAL ROCK CAMP
 
-##When and How Will Camp Take Place?
+## When and How Will Camp Take Place?
 
 The session will run from 10/13/2020 - 11/18/2020 on Tuesdays, Wednesdays, and Thursdays from 5:30-6:30 PM via Zoom
 
-##Who is Eligible to Register?
+## Who is Eligible to Register?
 
-Campers ages 11 - 18 yrs old are eligable to join. This camp is only for youth who identify as girls, trans, or nonbinary.
+Campers ages 11 - 18 yrs old are eligible to join. This camp is only for youth who identify as girls, trans, or nonbinary.
 
-##What Does a Virtual Camp Entail?
+## What Does a Virtual Camp Entail?
 
 Each camper will receive instrument instruction via Zoom in either Guitar or Keyboards (they will be provided with an instrument and a learning kit, along with virtual instruction). They will participate in weekly workshops on songwriting, media literacy, and anti-racism. They will also work collaboratively week in the songwriting process with the guidence of a coach. 
 
 Camp will culminate in a Livestreamed Virtual concert for friends, family, and fans!
 
-** Instruments available for gear loan and instruction: Guitar or Keyboard. Note: if you have an instrument at home you feel super comfortable playing without much instruction, we are psyched to have you use it to write your original song, but know that for this camp we are only able to offer instruction for guitar and keyboards.
+Instruments available for gear loan and instruction: Guitar or Keyboard. Note: if you have an instrument at home you feel super comfortable playing without much instruction, we are psyched to have you use it to write your original song, but know that for this camp we are only able to offer instruction for guitar and keyboards.
 
-##How Much Does it Cost?
+## How Much Does it Cost?
 
 The base cost to attend camp is $200. This includes use of an instrument** and learning package which will be delivered to you (delivery scheduling to follow), three weekly hour-long sessions, and at-home video learning materials. 
 
@@ -68,7 +68,7 @@ Camp will be run entirely via Zoom.
 
 ## How much does camp cost?
 
-Tuition for the 5 weeks of camp is $200 plus a $10 application fee. Please note, application fees and tuition are not considered donations, and therefore are not tax deductible. If you would like to sponsor another camper who cannot afford full tuition you can separately make a donation to our scholarship fund [here](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island).
+Tuition for the 5 weeks of camp is $200 plus a $10 application fee. Please note, application fees and tuition are not considered donations and therefore are not tax-deductible. If you would like to sponsor another camper who cannot afford full tuition you can separately make a donation to our scholarship fund [here](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island).
 
 ## Is financial aid available?
 
