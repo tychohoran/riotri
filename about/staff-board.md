@@ -8,15 +8,16 @@ layout: page
 ![riorri-board.jpg](/uploads/riorri-board.jpg)
 
 # BOARD
-* Katie Krafft
+* Katie Krafft, Co-Chair
 * Lipou Laliemthavisay
 * Reba Mitchell
-* Roz Raskin, Secretary
-* Darlene Reina, Chair
+* Roz Raskin, Co-Chair
+* Darlene Reina
 * Meredith Stern
 * Carly Stearnbourne
 * Abeer Khatana
 * Kyla Falcon
+* Aloe Russell
 
 # STAFF
 
@@ -24,7 +25,7 @@ layout: page
 ## Rikki Davis
 Co-Executive Director
 
-Rikki Davis (they/them) was a vocal instructor and band coach with RIOT RI for two years before joining the administrative team. They have made use of their bachelor’s degree from McGill University in Art History and Gender Studies working for music festivals, campaigns, art galleries, and museums in Boston and Maine before their most recent position as program director at Slater Mill. Rikki trained in classical voice for 10 years before leaving the opera world in favor of Rock, Jazz, and Pop. They are currently the vocalist and bassist in the band Top Sugar. As a professional, Rikki is passionate about collaborative leadership, and approaching administration and programming through an anti-oppression lens. In their free time, Rikki is a skater with Providence Roller Derby under the alter ego, RetroRocket.
+Rikki Davis (they/them) was a vocal instructor and band coach with RIOT RI for two years before joining the administrative team. They have worked for music festivals, political campaigns, art galleries, and museums before finding their niche in the non-profit world. Rikki trained in classical voice for 10 years before leaving the opera world in favor of less strictly policed forms of musical expression. They are currently the vocalist and bassist in the queercore band Tenderhooks. As a director, Rikki is passionate about collaborative leadership, dismantling oppression from its root causes, and valuing community over professionalism. In their free time, Rikki is a skater with Providence Roller Derby under the alter ego, RetroRocket.
 
 ![denise-mathews-reidpath.jpg](/uploads/denise-mathews-reidpath.jpg)
 ## Denise Mathews-Reidpath
