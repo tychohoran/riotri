@@ -51,4 +51,4 @@ Crikkett Young (they/them) has been a musician and educator in the Providence ar
 ![Luna Hinojosa](uploads/Natalie%20Hinojosa.jpg)
 ## Luna Hinojosa
 **Guitar**  
-Natalie (they/them) is a musician and producer based in RI. They have dedicated their time to teaching youth of all ages in play based learning in various organizations throughout the state. Last year they created a found sound EP for the Providence Children’s Museum that captures the essence of six exhibit featured in the museum. Their passions include sound production and strengthening their local community through education and direct action.
+Luna (they/them) is a musician and producer based in RI. They have dedicated their time to teaching youth of all ages in play based learning in various organizations throughout the state. Last year they created a found sound EP for the Providence Children’s Museum that captures the essence of six exhibit featured in the museum. Their passions include sound production and strengthening their local community through education and direct action.
