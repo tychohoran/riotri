@@ -11,7 +11,7 @@ layout: page
 
 RIOT RI is an organization that serves girls, women, trans and non-binary youth and adults from the greater Providence area. RIOT’s mission is to create spaces where participants use music, collaboration, and critical thinking as tools to foster collective empowerment and achieve goals of their own design. This year RIOT is extending its reach beyond gender equity, towards a more intersectional framework--in other words, exploring the places where identities complicate and compound each other. 
  
-RIOT Is looking to hire music instructors and band coaches for our fall after-school rock camp. We are looking for Guitar and Keyboard instructors and Band Coaches who value creative expression over classical theory and perfectionism and center the spirit of collaborative learning in their work. Instruction will occur weekly over the course of the six-week session.  Classes will contain between 5-10 students of varying skill level.  
+RIOT Is looking to hire music instructors and band coaches for our fall after-school rock camp. We are looking for **Guitar and Keyboard instructors and Band Coaches** who value creative expression over classical theory and perfectionism and center the spirit of collaborative learning in their work. Instruction will occur weekly over the course of the six-week session.  Classes will contain between 5-10 students of varying skill level.  
  
 Due to COVID-19, the entirety of this program will be held via Zoom. Instructors must be comfortable teaching music lessons/facilitating groups virtually.
  
