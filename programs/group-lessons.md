@@ -24,7 +24,8 @@ You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons are
 **Guitar**  
 Rosie (she/her) is a Canadian musician and artist currently residing in Providence, Rhode Island. Her creative pursuits lie at the intersections of punk-rock feminism, D.I.Y, social justice and living everyday with joie de vivre. As an instructor she seeks help her students develop a great breadth of tools to use to express their musical selves. She instructs music in an inclusive, friendly,  and comfortable atmosphere to students from all walks of life, focusing on each student’s individual goals and creative visions.
 
-## Jasmina Gill-Deleon
+![Jasmina De Leon Gill](/uploads/Jasmina%20De%20Leon%20Gill.jpg)
+## Jasmina De Leon Gill
 **Voice**  
 Jasmina Victoria de Leon Gill (they/them) has been living and working in Providence since 2017, and started working with Girls Rock in the summer of 2019 as a band coach and vocal instructor. They are a trained classical singer, but currently prefer screaming in bratty punk bands such as their band Drooly. Jasmina's goal within music education is to open space to explore vulnerability through vocalization. They work to make music education accessible to people from diverse backgrounds and identities by rejecting western modes of teaching that emphasize theory and discipline, and by instead incorporating conversation, playfulness, and fun. They hope that their classes will help people with marginalized identities become comfortable with using their voices however they want, and move past the shame we are taught to feel around vocal expression.
 
