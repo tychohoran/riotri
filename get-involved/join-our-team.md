@@ -35,37 +35,24 @@ RIOT believes that lived experience is equally if not more important than instit
  
 ## Description of responsibilities:
 
--For Band Coaches, run virtual songwriting classes Songwriting for high school age youth.
-
--For Instructors, run virtual Guitar or Keyboard lessons for high-school-age youth with up to 3 years experience on their instrument.
-
--Must attend final showcase, date TBA
--Prepare a curriculum for classes with the support of RIOT! staff
-
--Comfort using Zoom for virtual teaching/facilitation. 
-
--Research and feature women, trans, non-binary and POC musicians during class 
-
--Attend post-class check-ins with other instructors and RIOT co-directors each week.
-
--Provide socio-emotional support for students ages 14-18 in the classroom environment
-
--All GRR! Staff, Contractors, and Volunteers who work with youth under the age of 18 accept the responsibility to be mandated reporters 
-
--Must sign and abide by RIOT’s standard code of conduct
+- For Band Coaches, run virtual songwriting classes Songwriting for high school age youth.
+- For Instructors, run virtual Guitar or Keyboard lessons for high-school-age youth with up to 3 years experience on their instrument.
+- Must attend final showcase, date TBA
+- Prepare a curriculum for classes with the support of RIOT! staff
+- Comfort using Zoom for virtual teaching/facilitation. 
+- Research and feature women, trans, non-binary and POC musicians during class 
+- Attend post-class check-ins with other instructors and RIOT co-directors each week.
+- Provide socio-emotional support for students ages 14-18 in the classroom environment
+- All GRR! Staff, Contractors, and Volunteers who work with youth under the age of 18 accept the responsibility to be mandated reporters 
+- Must sign and abide by RIOT’s standard code of conduct
 
 ## Qualifications:
--For Band coaches, experience in songwriting, either individually or with a band
-
--For instructors, the ability to teach either Guitar or Keys to students with  years 3+ of experience
-
--Formal OR informal experience working with youth ages 14-18 (teaching classes, camp counselor, younger siblings/cousins, volunteering, etc.)
-
--Availability during program times 5:30 - 6:30 PM, Tuesday-Thursday
-
--Completion of BCI check (please contact us if this is an issue for you)
-
--Knowledge or willingness to learn about curriculum design
+- For Band coaches, experience in songwriting, either individually or with a band
+- For instructors, the ability to teach either Guitar or Keys to students with  years 3+ of experience
+- Formal OR informal experience working with youth ages 14-18 (teaching classes, camp counselor, younger siblings/cousins, volunteering, etc.)
+- Availability during program times 5:30 - 6:30 PM, Tuesday-Thursday
+- Completion of BCI check (please contact us if this is an issue for you)
+- Knowledge or willingness to learn about curriculum design
 
 ## How to Apply 
 Please provide a cover letter, a resume OR description of relevant experience, and contact information to Co-Executive Director, Rikki Davis, at rikki@girlsrockri.org
