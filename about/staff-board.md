@@ -48,7 +48,7 @@ Meredith Stern (she/her) works with soil, clay, drums, and paper. She is a membe
 ## Rikki Davis
 Co-Executive Director
 
-Rikki Davis (they/them) was a vocal instructor and band coach with RIOT RI for two years before joining the administrative team. They have worked for music festivals, political campaigns, art galleries, and museums before finding their niche in the non-profit world. Rikki trained in classical voice for 10 years before leaving the opera world in favor of less strictly policed forms of musical expression. They are currently the vocalist and bassist in the queercore band Tenderhooks. As a director, Rikki is passionate about collaborative leadership, dismantling oppression from its root causes, and valuing community over professionalism. In their free time, Rikki is a skater with Providence Roller Derby under the alter ego, RetroRocket.
+Rikki Davis (they/them) was a vocal instructor and band coach with RIOT RI before joining the administrative team. They worked for music festivals, political campaigns, art galleries, and museums before finding their niche in the non-profit world. Rikki trained in classical voice for 10 years before leaving the opera world in favor of less strictly policed forms of musical expression. They are currently the vocalist and bassist in the queercore band Tenderhooks. As a director, Rikki is passionate about collaborative leadership, dismantling oppression from its root causes, and valuing community over professionalism. In their free time, Rikki is a skater with Providence Roller Derby under the alter ego, RetroRocket.
 
 ![denise-mathews-reidpath.jpg](/uploads/denise-mathews-reidpath.jpg)
 ## Denise Mathews-Reidpath
