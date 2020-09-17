@@ -33,14 +33,24 @@ Lipou [lee-pu, she/her/hers] was born and raised in Providence, RI. While growin
 
 ![roz%20raskin%20_%20head%20shot.JPG](/uploads/roz%20raskin%20_%20head%20shot.JPG)
 ## Roz Raskin
+Co-Chair
 
-Roz Raskin is a writer, musician, community organizer, and teacher based in her hometown of Providence, Rhode Island.  They currently serve as a board member and keyboard instructor at RIOT. Roz toured for over ten years with their critically acclaimed art rock band, Roz and the Rice Cakes, and can more recently be seen touring in their cosmic pop project, NOVA ONE. Roz also curates safer musicians show spaces under the name SELF LUV and teaches songwriting and piano locally.
+Roz Raskin (they/them) is a writer, musician, community organizer, and teacher based in their hometown of Providence, Rhode Island.  They currently serve as a board member and keyboard instructor at RIOT. Roz toured for over ten years with their critically acclaimed art rock band, Roz and the Rice Cakes, and can more recently be seen touring in their cosmic pop project, NOVA ONE. Roz also curates safer musicians show spaces under the name SELF LUV and teaches songwriting and piano locally.
 
 ![Meredith%20Stern.jpg](/uploads/Meredith%20Stern.jpg)
 ## Meredith Stern
 
 Meredith Stern (she/her) works with soil, clay, drums, and paper. She is a member of the Justseeds Artists Cooperative.
 
+![Kyla%20Falcon.jpeg](/uploads/Kyla%20Falcon.jpeg)
+## Kyla Falcon
+
+Kyla Falcon (she/her) is originally from Rhode Island but currently living in New Bedford, MA and working as a school counselor in a public charter school in Fall River, MA. She has experience working with youth across ages, focused on supporting youth living in poverty, disability advocacy, and trauma-informed practices. Some of her biggest passions are integrating social-emotional learning within creative expression, body acceptance and body image, and dismantling oppressive practices in the education system. In her downtime, Kyla enjoys creating graphic art, playing Dungeons and Dragons, and going on spontaneous road trips.
+
+![Aloe%20Russell.JPG](/uploads/Aloe%20Russell.JPG)
+## Aloe Russell
+
+Aloe (she/her) has been working with RIOT! RI since 2016, first as a volunteer and then also teaching lessons. She's a musician, music teacher, community college student, and she does IT for AS220. Aloe is new to the board in 2020 and super psyched about deepening her relationship with this awesome organization!
 
 # STAFF
 
