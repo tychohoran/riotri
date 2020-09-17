@@ -31,7 +31,7 @@ Katie Krafft (she/her) is currently co-chair of the Board. She has been voluntee
 
 Lipou [lee-pu, she/her/hers] was born and raised in Providence, RI. While growing up, she always thought she would be an ambassador and allow all visa applications that came in. However, life took a different path. Coming from an immigrant family, she had a deep desire to work with and for marginalized communities, which then grew into a passion for indigent defense. Aside from being a public defender, she is a proud parent of two pitbulls, Kenya & Penny, and teaches criminal law & procedure part-time. She loves going on walks/hikes with the dogs and listening to music to de-stress. She is glad she was invited to join the board in December 2018, though regretful she did not join the organization sooner. She recently began taking virtual drum classes @  RIOT and looks forward to bangin' out Rage Against the Machine's Bulls on Parade!  
 
-![roz%20raskin%20_%20head%20shot.JPG](/uploads/roz%20raskin%20_%20head%20shot.JPG)
+![rozraskin.JPG](/uploads/rozraskin.JPG)
 ## Roz Raskin
 Co-Chair
 
