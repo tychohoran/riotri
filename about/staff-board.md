@@ -19,6 +19,24 @@ layout: page
 * Kyla Falcon
 * Aloe Russell
 
+![Krafft_BoardPic.jpg](/uploads/Krafft_BoardPic.jpg)
+## Katie Krafft
+Co-Chair
+
+Katie Krafft (she/her) is currently co-chair of the Board. She has been volunteering variously as a band counselor, training and workshop facilitator, and GRIT co-coordinator since 2013, and has been on the Board since 2017. She's finally getting used to identifying as a person who makes music (after doing Adult Rock Camp and taking keyboard + songwriting lessons with the other Board co-chair Roz Raskin!). She is an Assistant Professor of Crime and Justice Studies at the University of Massachusetts and she is always interested in talking about education, transformative justice, and the future.
+
+
+![Lipou.jpg](/uploads/Lipou.jpg)
+## Lipou Laliemthavisay
+
+Lipou [lee-pu, she/her/hers] was born and raised in Providence, RI. While growing up, she always thought she would be an ambassador and allow all visa applications that came in. However, life took a different path. Coming from an immigrant family, she had a deep desire to work with and for marginalized communities, which then grew into a passion for indigent defense. Aside from being a public defender, she is a proud parent of two pitbulls, Kenya & Penny, and teaches criminal law & procedure part-time. She loves going on walks/hikes with the dogs and listening to music to de-stress. She is glad she was invited to join the board in December 2018, though regretful she did not join the organization sooner. She recently began taking virtual drum classes @  RIOT and looks forward to bangin' out Rage Against the Machine's Bulls on Parade!  
+
+![Meredith%20Stern.jpg](/uploads/Meredith%20Stern.jpg)
+## Meredith Stern
+
+Meredith Stern (she/her) works with soil, clay, drums, and paper. She is a member of the Justseeds Artists Cooperative.
+
+
 # STAFF
 
 ![rikki-davis.jpg](/uploads/rikki-davis.jpg)
