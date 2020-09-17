@@ -47,6 +47,11 @@ Meredith Stern (she/her) works with soil, clay, drums, and paper. She is a membe
 
 Kyla Falcon (she/her) is originally from Rhode Island but currently living in New Bedford, MA and working as a school counselor in a public charter school in Fall River, MA. She has experience working with youth across ages, focused on supporting youth living in poverty, disability advocacy, and trauma-informed practices. Some of her biggest passions are integrating social-emotional learning within creative expression, body acceptance and body image, and dismantling oppressive practices in the education system. In her downtime, Kyla enjoys creating graphic art, playing Dungeons and Dragons, and going on spontaneous road trips.
 
+![Aloe%20Russell.JPG](/uploads/Aloe%20Russell.JPG)
+## Aloe Russell
+
+Aloe (she/her) has been working with RIOT! RI since 2016, first as a volunteer and then also teaching lessons. She's a musician, music teacher, community college student, and she does IT for AS220. Aloe is new to the board in 2020 and super psyched about deepening her relationship with this awesome organization!
+
 # STAFF
 
 ![rikki-davis.jpg](/uploads/rikki-davis.jpg)
