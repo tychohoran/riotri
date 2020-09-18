@@ -42,6 +42,11 @@ Roz Raskin (they/them) is a writer, musician, community organizer, and teacher b
 
 Meredith Stern (she/her) works with soil, clay, drums, and paper. She is a member of the Justseeds Artists Cooperative.
 
+![Carly.jpg](/uploads/Carly.jpg)
+## Carly Stearnbourne
+
+Carly Stearnbourne (she/her/hers) worked for two decades in marketing and communications for various organizations before recently changing careers to become a high school English teacher in Rhode Island, inspired by her work with youth at organizations like Girls Rock Campaign Boston and RIOT RI. Carly has been a volunteer instructor and band coach at RIOT RI’s adult and youth camps, and recently participated in the organization’s first-ever Battle of the Patriarchy with her band, Hope & Fury. Carly has been particularly inspired by RIOT’s anti-oppression work which continues to inform her work as an educator, and as a new parent. 
+
 ![Kyla%20Falcon.jpeg](/uploads/Kyla%20Falcon.jpeg)
 ## Kyla Falcon
 
