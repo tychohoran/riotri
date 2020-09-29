@@ -37,6 +37,12 @@ Co-Chair
 
 Roz Raskin (they/them) is a writer, musician, community organizer, and teacher based in their hometown of Providence, Rhode Island.  They currently serve as a board member and keyboard instructor at RIOT. Roz toured for over ten years with their critically acclaimed art rock band, Roz and the Rice Cakes, and can more recently be seen touring in their cosmic pop project, NOVA ONE. Roz also curates safer musicians show spaces under the name SELF LUV and teaches songwriting and piano locally.
 
+
+![Darlene.jpg](/uploads/Darlene.jpg)
+## Darlene Reina
+
+Darlene Reina (she/her/hers), born in Central Falls, has volunteered with RIOT RI since 2015, first as an instructor, workshop presenter, and now as a Board Member. Now living in Massachusetts, she works at a local college as a Systems Analyst. She’s also currently a member of the Caucus Advisory Council for the Girls Rock Camp Alliance, trying to further the movement by connecting with camps across the nation and around the world. 
+
 ![Meredith%20Stern.jpg](/uploads/Meredith%20Stern.jpg)
 ## Meredith Stern
 
@@ -46,6 +52,12 @@ Meredith Stern (she/her) works with soil, clay, drums, and paper. She is a membe
 ## Carly Stearnbourne
 
 Carly Stearnbourne (she/her/hers) worked for two decades in marketing and communications for various organizations before recently changing careers to become a high school English teacher in Rhode Island, inspired by her work with youth at organizations like Girls Rock Campaign Boston and RIOT RI. Carly has been a volunteer instructor and band coach at RIOT RI’s adult and youth camps, and recently participated in the organization’s first-ever Battle of the Patriarchy with her band, Hope & Fury. Carly has been particularly inspired by RIOT’s anti-oppression work which continues to inform her work as an educator, and as a new parent. 
+
+![Abeer.jpg](/uploads/Abeer.jpg)
+## Abeer Khatana
+
+Abeer Khatana (she/her) joined the RIOT RI board in 2019 and currently serves as the chair of the Anti-Oppression Committee. She has volunteered as a workshop facilitator and has been a (very enthusiastic!!!) participant in RiotRI's drum lessons for beginners. She has a background in community organizing, development, facilitation, and policy analysis. Abeer is deeply committed to genuine, intentional relationship building. Her superpower is connecting every conversation to the evils of capitalism.
+
 
 ![Kyla%20Falcon.jpeg](/uploads/Kyla%20Falcon.jpeg)
 ## Kyla Falcon
