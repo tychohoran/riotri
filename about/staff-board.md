@@ -8,28 +8,26 @@ layout: page
 ![riorri-board.jpg](/uploads/riorri-board.jpg)
 
 # BOARD
-* Katie Krafft, Co-Chair
 * Lipou Laliemthavisay
 * Reba Mitchell
 * Roz Raskin, Co-Chair
 * Darlene Reina
+* Katie Krafft, Co-Chair
 * Meredith Stern
 * Carly Stearnbourne
 * Abeer Khatana
 * Kyla Falcon
 * Aloe Russell
 
-![Krafft_BoardPic.jpg](/uploads/Krafft_BoardPic.jpg)
-## Katie Krafft
-Co-Chair
-
-Katie Krafft (she/her) is currently co-chair of the Board. She has been volunteering variously as a band counselor, training and workshop facilitator, and GRIT co-coordinator since 2013, and has been on the Board since 2017. She's finally getting used to identifying as a person who makes music (after doing Adult Rock Camp and taking keyboard + songwriting lessons with the other Board co-chair Roz Raskin!). She is an Assistant Professor of Crime and Justice Studies at the University of Massachusetts and she is always interested in talking about education, transformative justice, and the future.
-
-
 ![Lipou.jpg](/uploads/Lipou.jpg)
 ## Lipou Laliemthavisay
 
 Lipou [lee-pu, she/her/hers] was born and raised in Providence, RI. While growing up, she always thought she would be an ambassador and allow all visa applications that came in. However, life took a different path. Coming from an immigrant family, she had a deep desire to work with and for marginalized communities, which then grew into a passion for indigent defense. Aside from being a public defender, she is a proud parent of two pitbulls, Kenya & Penny, and teaches criminal law & procedure part-time. She loves going on walks/hikes with the dogs and listening to music to de-stress. She is glad she was invited to join the board in December 2018, though regretful she did not join the organization sooner. She recently began taking virtual drum classes @  RIOT and looks forward to bangin' out Rage Against the Machine's Bulls on Parade!  
+
+![RebaPic.jpg](/uploads/RebaPic.jpg)
+## Reba Mitchell
+
+Reba Mitchell is a current board member who has volunteered since 2009 as a vocal instructor, band coach, workshop leader, and GRIT coordinator. She spends most of her time in a 3x5 iso booth as an audiobook narrator (having recorded over 200 titles and receiving a coveted Earphones Award), and, in order to escape the box and remain part of society, at Flipp Salon as a hairdresser. She holds degrees in Women's Studies and Cosmetology. Yes, her hairstyle is specifically engineered to accommodate wearing headphones six hour a day. 
 
 ![rozraskin.JPG](/uploads/rozraskin.JPG)
 ## Roz Raskin
@@ -42,6 +40,12 @@ Roz Raskin (they/them) is a writer, musician, community organizer, and teacher b
 ## Darlene Reina
 
 Darlene Reina (she/her/hers), born in Central Falls, has volunteered with RIOT RI since 2015, first as an instructor, workshop presenter, and now as a Board Member. Now living in Massachusetts, she works at a local college as a Systems Analyst. She’s also currently a member of the Caucus Advisory Council for the Girls Rock Camp Alliance, trying to further the movement by connecting with camps across the nation and around the world. 
+
+![Krafft_BoardPic.jpg](/uploads/Krafft_BoardPic.jpg)
+## Katie Krafft
+Co-Chair
+
+Katie Krafft (she/her) is currently co-chair of the Board. She has been volunteering variously as a band counselor, training and workshop facilitator, and GRIT co-coordinator since 2013, and has been on the Board since 2017. She's finally getting used to identifying as a person who makes music (after doing Adult Rock Camp and taking keyboard + songwriting lessons with the other Board co-chair Roz Raskin!). She is an Assistant Professor of Crime and Justice Studies at the University of Massachusetts and she is always interested in talking about education, transformative justice, and the future.
 
 ![Meredith%20Stern.jpg](/uploads/Meredith%20Stern.jpg)
 ## Meredith Stern
