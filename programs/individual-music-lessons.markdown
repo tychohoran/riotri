@@ -10,7 +10,7 @@ In lessons, students will learn to play an instrument (guitar, bass, drums, ukul
 
 At RIOT RI, we believe that self expression > perfection. Our instructors help students overcome the fear of making a mistake, and encourage them to use what they've learned to make their voices heard. 
 
-Eight Youth participants will also have the opportunity to be paired with a Music Mentor at no additional cost. Click here for more information!
+Eight youth participants will also have the opportunity to be paired with a Music Mentor at no additional cost. Click here for more information!
 
 **Needs-based financial aid is available for Individual Music Lessons. No participant is turned away for lack of funds.**
 
