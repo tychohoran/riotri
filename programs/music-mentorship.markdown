@@ -59,6 +59,6 @@ In the meantime, all mentorship will take place via Zoom until the vaccine is wi
 
 ## Student Portal
 
-To access the student portal, follow this link
+To access the student portal, follow this [link](<script type='text/javascript' src='https://app.mymusicstaff.com/Widget/v2/Login.ashx'></script>)
 
 ## [Register for Music Mentorship](https://docs.google.com/forms/d/e/1FAIpQLSc-EzFdN2jsoRq9cOIrVRTHS2wHqnEM4tZO0-weRgv-su0OQg/viewform?usp=sf_link)
