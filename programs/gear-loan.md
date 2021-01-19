@@ -1,6 +1,6 @@
 ---
 title: Gear Loan
-position: 5
+position: 6
 Has Visible Header: true
 Description: All participants and volunteers are welcome to borrow our music gear
   year-round for a small deposit, which they get back when the instrument is returned.
