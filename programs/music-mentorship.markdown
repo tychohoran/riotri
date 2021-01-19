@@ -28,6 +28,10 @@ It's a choose your own adventure mentorship where you get to say what you want t
 * Want to learn what it's like to be a professional musician and how to become one yourself?
 * Your mentorship can be anything you want it to be! We'll hear what you need, and match you accordingly!
 
+## Our Mentors
+
+More info coming soon on mentors!
+
 ## Some things we want you to know
 
 ->Registration opens 1/22/21 and ends for 2/24/21
@@ -46,3 +50,18 @@ It's a choose your own adventure mentorship where you get to say what you want t
 
 ->A panel will be held at the end of the program for participants interested in learning more about choosing music or art as a career
 
+
+## Our Instructors
+
+More info coming soon on available instructors! 
+
+
+## Instruction during the Pandemic
+
+All mentorship will take place via Zoom until the vaccine is widespread and the spread of COVID-19 is under control. Once it is safe, music mentorship will transition to an in-person program. 
+
+## Student Portal
+
+To access the student portal, follow this link
+
+## [Register for Music Mentorship](_______________- enter link here)
