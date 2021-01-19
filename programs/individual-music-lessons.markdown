@@ -29,27 +29,19 @@ More info coming soon on available instructors!
 Rates are determined on a sliding scale based on self-reported household income. To apply for a scholarship, simply indicate so on the registration form. 
 
 Base cost:
-
 30 mins - $25
-
 1 hr - $50
 
 20% Scholarship:
-
 30 mins - $20
-
 1 hr - $40
 
 50% Scholarship:
-
 30 mins - $12
-
 1 hr - $25
 
 80% Scholarship:
-
 30 mins - $5
-
 1 hr - $10
 				
 
