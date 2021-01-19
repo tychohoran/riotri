@@ -8,7 +8,7 @@ RIOT RI offers one-on-one individual music lessons for youth ages 10-17 and adul
 
 In lessons, students will learn to play an instrument (guitar, bass, drums, ukulele, vocals, or keyboard), and use that instrument to write an original song with the guidance of an experienced instructor. 
 
-At RIOT RI, we believe that self expression > perfection. Our instructors help students overcome the fear of making a mistake, and encourage them to use what they've to make their voices heard. 
+At RIOT RI, we believe that self expression > perfection. Our instructors help students overcome the fear of making a mistake, and encourage them to use what they've learned to make their voices heard. 
 
 Eight Youth participants will also have the opportunity to be paired with a Music Mentor at no additional cost. Click here for more information!
 
