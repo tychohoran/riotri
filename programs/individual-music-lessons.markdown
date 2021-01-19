@@ -51,6 +51,10 @@ All lessons will take place via Zoom until the vaccine is widespread and the spr
 
 ## Student Portal
 
-To access the student portal, follow this link
+To access the student portal, log in below:
+## Student Portal
+
+To access the student portal, Log in below:
+<script type='text/javascript' src='https://app.mymusicstaff.com/Widget/v2/Login.ashx'></script>
 
 ## [Register for Individual Music Lessons](_______________- enter link here)
