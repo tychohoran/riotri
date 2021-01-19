@@ -2,6 +2,7 @@
 title: Individual Music Lessons
 date: 2021-01-19 20:56:00 Z
 position: 0
+Thumbnail Image: "/uploads/32545636017_b03c40102f_k.jpg"
 ---
 
 RIOT RI offers one-on-one individual music lessons for youth ages 10-17 and adults!
