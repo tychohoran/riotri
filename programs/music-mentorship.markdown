@@ -2,6 +2,9 @@
 title: Music Mentorship
 date: 2021-01-19 23:03:00 Z
 position: 1
+Header Button:
+  Text: Register
+  URL: https://docs.google.com/forms/d/e/1FAIpQLSc-EzFdN2jsoRq9cOIrVRTHS2wHqnEM4tZO0-weRgv-su0OQg/viewform?usp=sf_link
 Thumbnail Image: "/uploads/28495744173_22e4c497ad_k.jpg"
 Slideshow Images:
 - "/uploads/28495744173_22e4c497ad_k.jpg"
@@ -42,21 +45,20 @@ More info coming soon on mentors!
 ->A panel will be held at the end of the program for participants interested in learning more about choosing music or art as a career
 
 
-## Our Instructors
+## Our Mentors
 
 More info coming soon on available instructors! 
 
 
-## Instruction during the Pandemic
+## Mentorship during the Pandemic
 
 The RIOT Music Mentorship Program will kick off as a virtual one on one offering but our goal is to have you back in the RIOT space (indoors or outdoors) as soon as it is safe and viable to do so, because it's your space, we just help run it!
 
 In the meantime, all mentorship will take place via Zoom until the vaccine is widespread and the spread of COVID-19 is under control.
 
 
-
 ## Student Portal
 
 To access the student portal, follow this link
 
-## [Register for Music Mentorship](_______________- enter link here)
+## [Register for Music Mentorship](https://docs.google.com/forms/d/e/1FAIpQLSc-EzFdN2jsoRq9cOIrVRTHS2wHqnEM4tZO0-weRgv-su0OQg/viewform?usp=sf_link)
