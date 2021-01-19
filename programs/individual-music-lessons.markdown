@@ -2,7 +2,11 @@
 title: Individual Music Lessons
 date: 2021-01-19 20:56:00 Z
 position: 0
+Header Button:
+  Text: Register!
 Thumbnail Image: "/uploads/32545636017_b03c40102f_k.jpg"
+Slideshow Images:
+- "/uploads/32545636017_b03c40102f_k.jpg"
 ---
 
 RIOT RI offers one-on-one individual music lessons for youth ages 10-17 and adults!
@@ -25,27 +29,19 @@ More info coming soon on available instructors!
 Rates are determined on a sliding scale based on self-reported household income. To apply for a scholarship, simply indicate so on the registration form. 
 
 Base cost:
-
 30 mins - $25
-
 1 hr - $50
 
 20% Scholarship:
-
 30 mins - $20
-
 1 hr - $40
 
 50% Scholarship:
-
 30 mins - $12
-
 1 hr - $25
 
 80% Scholarship:
-
 30 mins - $5
-
 1 hr - $10
 				
 
