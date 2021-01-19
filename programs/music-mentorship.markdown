@@ -2,6 +2,9 @@
 title: Music Mentorship
 date: 2021-01-19 23:03:00 Z
 position: 1
+Thumbnail Image: "/uploads/28495744173_22e4c497ad_k.jpg"
+Slideshow Images:
+- "/uploads/28495744173_22e4c497ad_k.jpg"
 ---
 
 The RIOT Music Mentorship Program will kick off as a virtual one on one offering but our goal is to have you back in the RIOT space (indoors or outdoors) as soon as it is safe and viable to do so, because it's your space, we just help run it!
@@ -42,3 +45,4 @@ It's a choose your own adventure mentorship where you get to say what you want t
 ->No musical experience is necessary to get something out of the program!
 
 ->A panel will be held at the end of the program for participants interested in learning more about choosing music or art as a career
+
