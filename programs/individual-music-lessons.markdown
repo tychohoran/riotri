@@ -44,5 +44,8 @@ Base cost:
 
 All lessons will take place via Zoom until the vaccine is widespread and the spread of COVID-19 is under control.
 
+## Student Portal
+
+To access the student portal, follow this link
 
 ## [Register for Individual Music Lessons](_______________- enter link here)
