@@ -50,10 +50,10 @@ Base cost:
 
 All lessons will take place via Zoom until the vaccine is widespread and the spread of COVID-19 is under control.
 
+## [Register for Individual Music Lessons](https://docs.google.com/forms/d/e/1FAIpQLSelEvM44VdJMreVoLJtm73SJ4gOcvgiRcolp3KZS32fwGKrkQ/viewform?usp=sf_link)
+
 ## Student Portal
 
 To access the student portal, Log in below:
 
 <script type='text/javascript' src='https://app.mymusicstaff.com/Widget/v2/Login.ashx'></script>
-
-## [Register for Individual Music Lessons](https://docs.google.com/forms/d/e/1FAIpQLSelEvM44VdJMreVoLJtm73SJ4gOcvgiRcolp3KZS32fwGKrkQ/viewform?usp=sf_link)
