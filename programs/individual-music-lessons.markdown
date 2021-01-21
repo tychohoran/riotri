@@ -4,6 +4,7 @@ date: 2021-01-19 20:56:00 Z
 position: 0
 Header Button:
   Text: Register!
+  URL: https://docs.google.com/forms/d/e/1FAIpQLSelEvM44VdJMreVoLJtm73SJ4gOcvgiRcolp3KZS32fwGKrkQ/viewform?usp=sf_link
 Thumbnail Image: "/uploads/32545636017_b03c40102f_k.jpg"
 Slideshow Images:
 - "/uploads/32545636017_b03c40102f_k.jpg"
@@ -55,4 +56,4 @@ To access the student portal, Log in below:
 
 <script type='text/javascript' src='https://app.mymusicstaff.com/Widget/v2/Login.ashx'></script>
 
-## [Register for Individual Music Lessons](_______________- enter link here)
+## [Register for Individual Music Lessons](https://docs.google.com/forms/d/e/1FAIpQLSelEvM44VdJMreVoLJtm73SJ4gOcvgiRcolp3KZS32fwGKrkQ/viewform?usp=sf_link)
