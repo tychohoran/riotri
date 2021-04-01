@@ -11,10 +11,8 @@ layout: page
 * Lipou Laliemthavisay
 * Reba Mitchell
 * Roz Raskin, Co-Chair
-* Darlene Reina
 * Katie Krafft, Co-Chair
 * Meredith Stern
-* Carly Stearnbourne
 * Abeer Khatana
 * Kyla Falcon
 * Aloe Russell
@@ -36,11 +34,6 @@ Co-Chair
 Roz Raskin (they/them) is a writer, musician, community organizer, and teacher based in their hometown of Providence, Rhode Island.  They currently serve as a board member and keyboard instructor at RIOT. Roz toured for over ten years with their critically acclaimed art rock band, Roz and the Rice Cakes, and can more recently be seen touring in their cosmic pop project, NOVA ONE. Roz also curates safer musicians show spaces under the name SELF LUV and teaches songwriting and piano locally.
 
 
-![Darlene.jpg](/uploads/Darlene.jpg)
-## Darlene Reina
-
-Darlene Reina (she/her/hers), born in Central Falls, has volunteered with RIOT RI since 2015, first as an instructor, workshop presenter, and now as a Board Member. Now living in Massachusetts, she works at a local college as a Systems Analyst. She’s also currently a member of the Caucus Advisory Council for the Girls Rock Camp Alliance, trying to further the movement by connecting with camps across the nation and around the world. 
-
 ![Krafft_BoardPic.jpg](/uploads/Krafft_BoardPic.jpg)
 ## Katie Krafft
 Co-Chair
@@ -52,10 +45,6 @@ Katie Krafft (she/her) is currently co-chair of the Board. She has been voluntee
 
 Meredith Stern (she/her) works with soil, clay, drums, and paper. She is a member of the Justseeds Artists Cooperative.
 
-![Carly.jpg](/uploads/Carly.jpg)
-## Carly Stearnbourne
-
-Carly Stearnbourne (she/her/hers) worked for two decades in marketing and communications for various organizations before recently changing careers to become a high school English teacher in Rhode Island, inspired by her work with youth at organizations like Girls Rock Campaign Boston and RIOT RI. Carly has been a volunteer instructor and band coach at RIOT RI’s adult and youth camps, and recently participated in the organization’s first-ever Battle of the Patriarchy with her band, Hope & Fury. Carly has been particularly inspired by RIOT’s anti-oppression work which continues to inform her work as an educator, and as a new parent. 
 
 ![Abeer.jpg](/uploads/Abeer.jpg)
 ## Abeer Khatana
@@ -90,6 +79,18 @@ Denise (she/her) is a bilingual educator who fiercely advocates for youth. She h
 ![CourtneyBrown.jpg](/uploads/CourtneyBrown.jpg)
 ## Courtney Brown 
 Professional Development Coordinator / Bonner Fellow (she/her)
+
+![Screen%20Shot%202021-04-01%20at%202.21.56%20PM.png](/uploads/Screen%20Shot%202021-04-01%20at%202.21.56%20PM.png)
+## Aileen Feliz
+Social Media Coordinator
+(they/them)
+
+![20181021_111252-e1545258780433-768x1024.jpg](/uploads/20181021_111252-e1545258780433-768x1024.jpg)
+## Jacqueline James 
+Gear Coordinator
+(she/her)
+
+
 
 # YOUTH ADVISORY BOARD
 
