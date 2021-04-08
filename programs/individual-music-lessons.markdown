@@ -43,7 +43,7 @@ Lucy Coykendall (she/her) began drumming the very first time she participated in
 ![0009813310_10.jpg](/uploads/0009813310_10.jpg)
 ## Aloe Russell: Guitar, Bass, Beginner Keyboard
 
-Aloe (she/her) is multi-instrumentalist, composer and music educator living and working in Providence since 2016. She is involved in several local projects including the What Cheer? Brigade, Martha Martha Martha and Wolf’s Milk. She began volunteering with Girls Rock! at the first drop-in sessions in 2016, then at the camps, and finally began teaching group bass guitar lessons. She is excited to have the opportunity to help people express themselves. As an instructor, she tries to make the most positive and nonjudgemental environment possible.
+Aloe (she/her) is multi-instrumentalist, composer and music educator living and working in Providence since 2016. She is involved in several local projects including the What Cheer? Brigade, Martha Martha Martha and Wolf’s Milk. She began volunteering with RIOT RI at the first drop-in sessions in 2016, then at the camps, and finally began teaching group bass guitar lessons and individual lessons as a part of the RIOT RI staff. She is also an active member for the RIOT RI board. She is excited to have the opportunity to help people express themselves. As an instructor, she tries to make the most positive and nonjudgemental environment possible.
 
 ## Rates
 
