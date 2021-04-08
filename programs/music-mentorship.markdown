@@ -81,9 +81,6 @@ When they aren’t making work - one can find them practicing make-up, or spendi
 ->A panel will be held at the end of the program for participants interested in learning more about choosing music or art as a career
 
 
-## Our Mentors
-
-More info coming soon on available instructors! 
 
 
 ## Mentorship during the Pandemic
