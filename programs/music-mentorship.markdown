@@ -52,6 +52,23 @@ Morgan Johnston (she/her/hers) is a Rhode Island indie folk singer-songwriter st
 
 I'm excited to be a mentor so that I can be the person I needed when I was younger for someone else. Like many young girls growing up in our patriarchal society, I was shy and insecure. Music, as much as the mentors who taught me about it, is what gave me the confidence, community, and career that I have today. I'm so grateful for the opportunity to support someone else in finding their voice as a musician, female/transgender/gender expansive individual, and whole person. I can't wait to see what we'll learn from each other along the way!
 
+![image5.jpg](/uploads/image5.jpg)
+## Z
+
+Z (they/them) has been drumming since 2000. In addition to drumming, over the last decade they have been active as a composer, producer, and live performer of experimental and electronic music. Z enjoys listening to many different genres of music, and they also like hearing the sounds of birds, crickets, and a good set of wind chimes gently moving in the breeze. They like to carve spoons, bake, read, and meditate. 
+
+
+![image6.png](/uploads/image6.png)
+## Phoenix
+
+Phoenix (she/ her), is a local artist/ musician, capoeirista, and dancer who's artist name travels across her creative interests. However, she identifies mostly as a singer-songwriter who's a jack of all trades but a master of none. She wants to inspire, and help others through her music, her energy and future creative works. Phoenix believes in the power of music and art as a channel to lift spirits, relate, heal, and fight injustice. She wants to leave a mark in this world by sharing Love, Peace and Light which are three words that embody what she stands for as an artist. 
+
+![image4.jpg](/uploads/image4.jpg)
+## Willy Kubas
+
+Willy Kubas (they/them) is a sound and visual artist. Their work revolves around exploring the location and dislocation of the voice in sound, and the relationship between the voice and gender.
+
+When they aren’t making work - one can find them practicing make-up, or spending too much time on eBay.
 
 
 ## Some things we want you to know
