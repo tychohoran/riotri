@@ -23,7 +23,27 @@ Eight youth participants will also have the opportunity to be paired with a Musi
 
 ## Our Instructors
 
-More info coming soon on available instructors! 
+![image4.jpg](/uploads/image4.jpg)
+## Willy Kubas: Vocals
+
+Willy Kubas (they/them) is a sound and visual artist. Their work revolves around exploring the location and dislocation of the voice in sound, and the relationship between the voice and gender.
+
+When they aren’t making work - one can find them practicing make-up, or spending too much time on eBay.
+
+![Crikkett%20RWP.webp](/uploads/Crikkett%20RWP.webp)
+## Crikkett Young: Bass and Ukulele
+
+Crikkett Young (they/them) has been a musician and educator in the Providence area since 2004. They have been coaching bands and teaching lessons with RIOT RI since 2013; in addition, Crikkett is the founding principal oboist of the Narragansett Bay Symphony Community Orchestra, a member of the RI Philharmonic Music School applied music faculty, and an alto saxophonist in Providence’s Extraordinary Rendition Band. Through professional and volunteer work they are constantly working to increase equity and belonging for people of all identities, especially in music and technology programs. They have taught music, math, and other STEAM topics in classroom settings and through nonprofit programs in Rhode Island for over 15 years, and they love encouraging youth and adults to grow their own confidence and self-expression through music!
+
+![lucy.jpeg](/uploads/lucy.jpeg)
+## Lucy Coykendall: Drums, Ukulele, and Beginner Guitar
+
+Lucy Coykendall (she/her) began drumming the very first time she participated in Youth Rock Camp and has now come full circle to become an instructor for the individual music lesson program! She is a multi-instrumentalist and songwriter, but her primary instrument is drums. She believes that drumming opens up new pathways to understanding music, and acts as a gateway to learning other instruments as well.  She hopes to aid her students in developing their skills, and guiding them with her personal experience to become fully-fledged drummers.
+
+![0009813310_10.jpg](/uploads/0009813310_10.jpg)
+## Aloe Russell: Guitar, Bass, Beginner Keyboard
+
+Aloe (she/her) is multi-instrumentalist, composer and music educator living and working in Providence since 2016. She is involved in several local projects including the What Cheer? Brigade, Martha Martha Martha and Wolf’s Milk. She began volunteering with Girls Rock! at the first drop-in sessions in 2016, then at the camps, and finally began teaching group bass guitar lessons. She is excited to have the opportunity to help people express themselves. As an instructor, she tries to make the most positive and nonjudgemental environment possible.
 
 ## Rates
 
