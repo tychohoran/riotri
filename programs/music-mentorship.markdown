@@ -33,7 +33,26 @@ Registration opens 1/22/21 and ends 2/24/21. Mentees will be selected by 3/1/202
 
 ## Our Mentors
 
-More info coming soon on mentors!
+![image2.png](/uploads/image2.png)
+## Cynthia Munrayos
+
+I was born in Guatemala, but raised in Rhode Island. I am a singer, lyricist, poet, and part-time freelance writer. I enjoy everything and all things creative and look to support it in any way possible. I am the lead singer in a band called grizzlies. I am excited to be a mentor because I love hearing about people’s stories and dreams and how I can help guide them with the experiences I have had lived through. 
+
+![image1.jpg](/uploads/image1.jpg)
+## Monserrath Segura
+
+I am originally from Santa Ana, California and I am currently finishing graduate school in Multicultural Education. I am currently in two Spanish-language hardcore punk bands called Tozcos and Ausencia. I am a self-taught singer, bass player, and aspiring keyboard player. The music community that I have been a part of since I was a teenager has been DIY-orientated and serves as a space where QTPOC musicians and artists can flourish. I am constantly in awe and inspired by the members within this DIY punk community. Through my participation in music, I have been fortunate to tour places like Mexico, Japan and many states throughout the US. I am so thrilled to be given the opportunity to work alongside the inspiring creatives at RIOT RI! 
+
+As an Educator that really values critical and radical pedagogy, working alongside youth has always been such a positive and rewarding experience for me. I hope to be a source of support and kindness to my mentee. I am looking forward to observing (and to help nurture!) the creativity of my mentee. I am also excited to say that I am new to Rhode Island! This opportunity will help me build and serve my community in this new place that I call home. 
+
+![image3.jpg](/uploads/image3.jpg)
+## Morgan Johnston
+
+Morgan Johnston (she/her/hers) is a Rhode Island indie folk singer-songwriter stomping, strumming, speaking, and singing her way to empowering herself and her listeners. Her lyrics are inspired by the natural landscapes of places as much as by the emotional landscapes of human experiences. She is passionate about experimenting in her music with new instruments and new guitar tunings as well as using her body as an instrument. With her journey of becoming a singer-songwriter as proof of the healing power of music, she aims to bring the benefits of music to those of all ages and abilities regardless of musical background in her work as a music therapist with a master's degree in clinical mental counseling. Her belief is that everyone has the ability to be the instrument, musical or otherwise, of their own healing. Outside of being a singer-songwriter and music therapist, Morgan enjoys running, practicing yoga... and a good pun. :)
+
+I'm excited to be a mentor so that I can be the person I needed when I was younger for someone else. Like many young girls growing up in our patriarchal society, I was shy and insecure. Music, as much as the mentors who taught me about it, is what gave me the confidence, community, and career that I have today. I'm so grateful for the opportunity to support someone else in finding their voice as a musician, female/transgender/gender expansive individual, and whole person. I can't wait to see what we'll learn from each other along the way!
+
+
 
 ## Some things we want you to know
 
