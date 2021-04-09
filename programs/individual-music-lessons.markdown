@@ -45,6 +45,12 @@ Lucy Coykendall (she/her) began drumming the very first time she participated in
 
 Aloe (she/her) is multi-instrumentalist, composer and music educator living and working in Providence since 2016. She is involved in several local projects including the What Cheer? Brigade, Martha Martha Martha and Wolf’s Milk. She began volunteering with RIOT RI at the first drop-in sessions in 2016, then at the camps, and finally began teaching group bass guitar lessons and individual lessons as a part of the RIOT RI staff. She is also an active member for the RIOT RI board. She is excited to have the opportunity to help people express themselves. As an instructor, she tries to make the most positive and nonjudgemental environment possible.
 
+![Singer_056.jpg](/uploads/Singer_056.jpg)
+## Singer Joy: Beginner Keyboard
+
+Singer Joy (she/her) is a queer musician and writer originally hailing from Big Rapids, Michigan. She makes flowery theatre and spiritual music with Water House Collective, where she runs a (currently virtual) campfire sing each full moon. She’s a zinester, a cat person, and a Gemini.
+
+
 ## Rates
 
 Rates are determined on a sliding scale based on self-reported household income. To apply for a scholarship, simply indicate so on the registration form. 
