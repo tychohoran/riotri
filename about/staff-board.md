@@ -80,16 +80,19 @@ Denise (she/her) is a bilingual educator who fiercely advocates for youth. She h
 ## Courtney Brown 
 Professional Development Coordinator / Bonner Fellow (she/her)
 
-![Screen%20Shot%202021-04-01%20at%202.21.56%20PM.png](/uploads/Screen%20Shot%202021-04-01%20at%202.21.56%20PM.png)
-## Aileen Feliz
-Social Media Coordinator
-(they/them)
-
 ![20181021_111252-e1545258780433-768x1024.jpg](/uploads/20181021_111252-e1545258780433-768x1024.jpg)
 ## Jacqueline James 
 Gear Coordinator
 (she/her)
 
+
+## Aileen Feliz
+Events Coordinator
+(they/them)
+
+## Ace Neves
+Design Intern
+(they/them)
 
 
 # YOUTH ADVISORY BOARD
