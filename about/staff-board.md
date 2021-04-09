@@ -71,7 +71,7 @@ Co-Executive Director
 Rikki Davis (they/them) was a vocal instructor and band coach with RIOT RI before joining the administrative team. They worked for music festivals, political campaigns, art galleries, and museums before finding their niche in the non-profit world. Rikki trained in classical voice for 10 years before leaving the opera world in favor of less strictly policed forms of musical expression. They are currently the vocalist and bassist in the queercore band Tenderhooks. As a director, Rikki is passionate about collaborative leadership, dismantling oppression from its root causes, and valuing community over professionalism. In their free time, Rikki is a skater with Providence Roller Derby under the alter ego, RetroRocket.
 
 ![denise-mathews-reidpath.jpg](/uploads/denise-mathews-reidpath.jpg)
-## Denise Mathews-Reidpath
+## Denise Meza-Reidpath
 Co-Executive Director
 
 Denise (she/her) is a bilingual educator who fiercely advocates for youth. She has a strong administrative background and experience as a Spanish interpreter/translator and has used her skills in roles within schools in Providence and Central Falls, the RI Disability Law Center, and the Institute for the Study and Practice of Nonviolence. Denise is also a community yoga instructor who has volunteered teaching yoga and participating in body image workshops at Girls Rock Camps and Ladies Rock Camps with a focus on intersectionality, body positivity and restorative healing practices. Denise is a Latinx feminista who loves tacos and flan. She is a self-taught vocalist who dabbles in the harmonica and ukulele with her band Tall and has diverse musical influences from Selena and Buffy Sainte Marie to the Grateful Dead.
