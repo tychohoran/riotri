@@ -1,6 +1,6 @@
 ---
 title: Join Our Team
-position: 4
+position: 5
 Has Photo Banner: false
 Has Visible Header: true
 Thumbnail Image: "/uploads/join-our-team.jpg"
