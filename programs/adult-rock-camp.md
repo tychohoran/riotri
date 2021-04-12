@@ -21,7 +21,7 @@ layout: page
 Adult Rock Camp (ARC) is a weekend day camp in Providence, RI that provides an opportunity for women, trans, and non-binary individuals 18+ to let loose for a long weekend and play music together. Adult Rock Camp was formerly called “Ladies Rock Camp”, but the name was changed to better reflect its participants. It is an intensive, three-day music and mentoring program for women, trans, and non-binary adults. The “grown-up” version of the summer camp for youth, the program brings together folks from different walks of life and all levels of musical experience for a long weekend of instrument lessons, songwriting, band practice, and workshops, all culminating in a showcase concert at a professional music venue. ***NO PRIOR MUSICAL EXPERIENCE IS NECESSARY!!***
 
 ## REGISTRATION and PAYMENT
-Next Adult Rock Camp is happening March 13th-15th, 2020 and [registration is open NOW!](/programs/adult-rock-camp/register) Capacity is limited to the first 30 participants. Flexible payment plans are available and a limited number of need-based scholarships are available on a first-come, first served basis for those who qualify.
+Next Adult Rock Camp is TBA! Capacity is limited to the first 30 participants. Flexible payment plans are available and a limited number of need-based scholarships are available on a first-come, first served basis for those who qualify.
 
 ## LESSONS
 Participants choose one instrument to focus on for the weekend–drums, bass, guitar, vocals, or keyboards. All instruction happens in small group lessons and is led by experienced and enthusiastic women, trans, or gender-expansive musicians.
@@ -30,7 +30,7 @@ Participants choose one instrument to focus on for the weekend–drums, bass, gu
 On the first day, everyone forms bands in a way that is fun, not scary. The bands have band practice every day. During band practice, band members work together to write a song, and practice playing as an ensemble. Band coaches help bands with the writing process, facilitate the rehearsals, and answer questions as necessary.
 
 ## WORKSHOPS
-Throughout the weekend, workshops are held on a variety of topics, from Screenprinting/Making Band Art to Songwriting (it’s not as hard as you might think)! Other topics may include: History of Womxn Who Rock, Relational Aggression, Yoga, or Kickboxing. The camp day is also interspersed with fun stuff, from warm-up games to making buttons with your band name.
+Throughout the weekend, workshops are held on a variety of topics, from Screen printing/Making Band Art to Songwriting (it’s not as hard as you might think)! Other topics may include: Queer Rock History, Relational Aggression, Yoga, Kickboxing, and many others. The camp day is also interspersed with fun stuff, from warm-up games to making buttons with your band name.
 
 ## LUNCHTIME PERFORMANCES
 Each day, one to two visiting artist/bands play a live set, then they stick around to take questions from the group. Past performers have included national acts like Mary Lou Lord, prominent local musicians such as Roz and the Ricecakes, alumni bands from previous camps, and talented camp volunteers.
@@ -53,4 +53,4 @@ Want to see what happens at Adult Rock Camp? Check out these photos and videos f
 
 ## [Frequently Asked Questions](/programs/adult-rock-camp/register.html#frequently-asked-questions)
 
-## [Register for Adult Rock Camp](/programs/adult-rock-camp/register)
+## [Register for Adult Rock Camp 2020](/programs/adult-rock-camp/register)
