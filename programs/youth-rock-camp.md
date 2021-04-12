@@ -27,6 +27,8 @@ Check out tons of pictures, videos, and blog entries by our Girls Rock Internshi
  
 ## Youth Rock Camp 2020:
 
+**2020 & 2021 Youth Rock Camps have been cancelled due to COVID-19. Camps will resume once the COVID-19 vaccine is widespread. See our Virtual and Outdoor programming for Summer 2021!**
+
 * **SESSION 1:** July 6th-11th, 2020 for campers ages 10-13 (in or entering middle school age, 5th-8th grade) at the Rhode Island Philharmonic in East Providence, capacity of 40
 * **SESSION 2:** August 10th-15th, 2020 for campers ages 14-18 (in or entering high school age, 9th-12th grade) at JamStage in Pawtucket, capacity of 30
  
