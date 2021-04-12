@@ -68,7 +68,7 @@ Aloe (she/her) has been working with RIOT! RI since 2016, first as a volunteer a
 ## Rikki Davis
 Co-Executive Director
 
-Rikki Davis (they/them) was a vocal instructor and band coach with RIOT RI before joining the administrative team. They worked for music festivals, political campaigns, art galleries, and museums before finding their niche in the non-profit world. Rikki trained in classical voice for 10 years before leaving the opera world in favor of less strictly policed forms of musical expression. They are currently the vocalist and bassist in the queercore band Tenderhooks. As a director, Rikki is passionate about collaborative leadership, dismantling oppression from its root causes, and valuing community over professionalism. In their free time, Rikki is a skater with Providence Roller Derby under the alter ego, RetroRocket.
+Rikki Davis (they/them) was a vocal instructor and band coach with RIOT RI before joining the administrative team. They worked for music festivals, political campaigns, art galleries, and museums before finding their niche in the non-profit world. Rikki trained in classical voice for 10 years before leaving the opera world in favor of less strictly policed forms of musical expression. They are currently the vocalist and bassist in the queercore band Tenderhooks. As a director, Rikki is passionate about collaborative leadership, dismantling oppression from its root causes, and valuing community building over professionalism. In their free time, Rikki is a skater with Providence Roller Derby under the alter ego, RetroRocket.
 
 ![denise-mathews-reidpath.jpg](/uploads/denise-mathews-reidpath.jpg)
 ## Denise Meza-Reidpath
@@ -93,6 +93,14 @@ Events Coordinator
 ## Ace Neves
 Design Intern
 (they/them)
+
+![billie.jpg](/uploads/billie.jpg)
+## Billie Grant
+Evaluation Consultant
+
+Billie (she/her) is a contextually radical, queer, faith aware, Black woman rumored to “run on giggles and glitter.” Living and organizing in the Hudson Valley (on land stolen from the Lenape, Mohican, and Wappinger people), she works as a cultural consultant both locally and internationally and has been engaged in organizing and activism for nearly two decades.
+Her likes include baking elaborate (ideally miniature) desserts and singing impromptu jingles about her more mundane tasks.  Her dislikes include willful ignorance and being “nice.”  Billie's nights are often spent writing postcards to pals, cuddling with Winston Caldwell (her pup), or reading young adult fiction with a lukewarm cup of tea.
+Billie is an established fixture of our Rock Camp community having volunteered with 20+ camps translationally, holding multiple paid and unpaid positions. She has intentionally sought out the opportunity to work with Rock Camps looking to center our margins and is excited to work with RIOT!
 
 
 # YOUTH ADVISORY BOARD
