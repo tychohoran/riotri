@@ -68,6 +68,13 @@ Phoenix (she/ her), is a local artist/ musician, capoeirista, and dancer who's a
 
 Willy Kubas (they/them) is a sound and visual artist. Their work revolves around exploring the location and dislocation of the voice in sound, and the relationship between the voice and gender.
 
+![0.jpg](/uploads/0.jpg)
+## Sierra Sanchez
+
+Based in Providence, Rhode Island, Sierra Sanchez (they/them/theirs) is a multidisciplinary artist who creates surreal, large-scale oil paintings, experimental films and electronic music inspired by stories from their life and Filipino/Japanese family heritage. Hailing from the San Francisco Bay Area, and Dallas, Texas, Sanchez moved to Providence in 2016 to pursue a BFA with a focus in painting at Rhode Island School of Design. Now a recent graduate, Sierra works on their visual arts practice (@sierrasanchezart) at their studio in Pawtucket, produces electropop music as a solo act called Ox. Sanchez (@ox.sanchez.music), and otherwise works as a freelance cinematographer and web designer. You can find their portfolio at http://www.sierrasanchez.com
+
+I came out as non-binary last year and want to support trans youth and adults who are also into music. In the past, I've struggled to claim music as a serious discipline despite my consistent interest and dedication to the practice. Having music mentors in my life not only helped me gain technical skills in recording and mixing, but also build confidence as a musician, producer, and mixing engineer. Now it's my turn to do the same for others.
+
 When they aren’t making work - one can find them practicing make-up, or spending too much time on eBay.
 
 
