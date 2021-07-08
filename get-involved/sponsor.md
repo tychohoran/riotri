@@ -53,4 +53,4 @@ Providence, RI 02903
 
 Or through Paypal using the link below:
 
-## [SPONSORSHIP ONLINE PAYMENT ](https://docs.google.com/forms/d/e/1FAIpQLSfO5a4o1xvKPzO4KMq8pXvx0RAnOGWGBi6ouUCGDpuYm_z8Rw/viewform?usp=sf_link)
+## [SPONSORSHIP ONLINE PAYMENT ](https://www.paypal.com/donate?hosted_button_id=3R8VXV6LJ3KNQ)
