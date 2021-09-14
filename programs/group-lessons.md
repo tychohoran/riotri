@@ -23,4 +23,4 @@ You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons are
 ## Ian Lefort, Intro to Bass: Youth
 ## Crikkett Young, Intro to Bass: Adult
 ## Guitar, TBA: Youth and Adult
-
+ 
