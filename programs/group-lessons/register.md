@@ -69,7 +69,7 @@ A note about gear: We ask you to bring your bass to class (Gear Loaned or otherw
 If there are any cancellations due to weather, instructor illness, or other unforeseen circumstances, we will reschedule the class based on instructor and participant availability. 
 
 # COVID-19 and Switching Virtual
-If COVID-19 test-positive rates in our city rise above 5%, we will be shifting all programming to a virtual setting immediately. Classes will continue at their normal times via zoom. Additional information will be distributed if this becomes a necessity. 
+If the COVID-19 test-positivity ratio in Rhode Island rises above 5%, we will be shifting all programming to a virtual setting immediately. Classes will continue at their normal times via zoom. Additional information will be distributed if this becomes a necessity. 
 
 # Location
 
