@@ -16,11 +16,15 @@ We are also offering a VIRTUAL ONE ON ONE setting (drums, keys, vocals, ukulele,
 
 # Registration for Fall Group Lessons
 
-Click here to register for FALL GROUP LESSONS as a YOUTH (ages 10-18):
+Click here to register for in-person FALL GROUP LESSONS as a YOUTH (ages 10-18):
 
 ## [REGISTER YOUTH GROUP LESSONS](https://forms.gle/sAy59eQE4oVP8Uxu9)
 
-Click here to register for FALL GROUP LESSONS as an ADULT (must be 18 years of age or older):
+Click here to register for in-person FALL GROUP LESSONS as an ADULT (must be 18 years of age or older):
+
+## [REGISTER ADULT GROUP LESSONS](https://docs.google.com/forms/d/e/1FAIpQLSfo2n0mj3OcyhFyPFxaaGTGbRRNMWy2HBYVG0vy19iCzCkwLA/viewform)
+
+Click here to register for Individual Music Lessons for Youth (10+) and Adults (18+), in person or virtual
 
 ## [INDIVIDUAL MUSIC LESSONS FOR YOUTH AND ADULTS](https://docs.google.com/forms/d/e/1FAIpQLSelEvM44VdJMreVoLJtm73SJ4gOcvgiRcolp3KZS32fwGKrkQ/viewform)
  
