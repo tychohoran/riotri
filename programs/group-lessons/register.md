@@ -73,13 +73,14 @@ All Group Lessons will be held at RIOT RI’s program and office space: 763 Rear
 
 # Tuition and Payment
 
-* All group lessons cost $250 for the 10-week session.
+* TUITION:
+The cost for this small group mode for 10 week session where you will learn and instrument, write a song and perform live is $250.00 - As always, no one will be turned away for lack of funds so we are offering a sliding scale tuition cost based on financial need according to self-reported income. If you have special circumstances not reflected in your income, please indicate so in your financial aid application. 
 
-We have **need-based financial aid** for those who are unable to pay full tuition. Nobody is turned away for lack of funds! If you are interested in applying for financial aid, please indicate on the registration form in the “payment and financial aid” section. BIPOC youth attend all RIOT RI programming at no cost, no questions asked. 
+Due to the  small capacity, scholarships are limited and are offered on a first come first served need basis. BIPOC Students attend RIOT RI Group Lessons at no cost are encouraged to apply!
 
 Payment for Fall Group Lessons is due one week prior to start date. To pay safely and securely online with a credit/debit card or PayPal account, please click the button below:
 
-## [FALL GROUP LESSONS PAYMENT](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XM56XK9U94ZDJ&source=url)
+## [FALL 2021 GROUP LESSONS PAYMENT](https://www.paypal.com/donate?hosted_button_id=FW8T8HBJAHKME)
 
 You can also write a check to “RIOT RI” (write the name of the class on the memo line) and mail to:
 * RIOT RI
