@@ -19,8 +19,8 @@ You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons are
 
 # Instructors
 
-Singer Joy, Intro to Keys: Youth and Adult
-Ian Lefort, Intro to Bass: Youth
-Crikkett Young, Intro to Bass: Adult
-Guitar, TBA: Youth and Adult
+##Singer Joy, Intro to Keys: Youth and Adult
+##Ian Lefort, Intro to Bass: Youth
+##Crikkett Young, Intro to Bass: Adult
+##Guitar, TBA: Youth and Adult
 
