@@ -6,16 +6,30 @@ Thumbnail Image: "/uploads/adult-rock-camp-3.jpg"
 layout: page
 ---
 
-## Showcase TBA
+## Showcase November 6th, 2:00 PM - 6:00 PM
+
+Outdoors! Gear Sale! Live Music! Costume Contest!
+
+⚡The final battle of the bands show and our yearly gear sale is here -- and this year, is extra spooky just like the patriarchy!⚡
+
+Our second Battle of the Patriarchy throw down will be happening Saturday, November 6 @ 2-6pm in the RIOT parking lot (access through Washington St or Westminster St behind Nice Slice @ 763 Westminster, PVD 02903 -- FOLLOW THE MUSIC!) NOTICE! THIS IS THE RAIN DATE! THIS EVENT IS NOT ON OCT 30!
+
+## What's A Battle of the Patriarchy aka BoP?!
+
+ It's a battle of the bands program where participants are places into bands with strangers to write original music and fundraise to support their local rock camp!
+We will also have our annual gear sale from 2-6pm AND this year we'll celebrate spooky style with a Halloween Costume Contest for all participants! Expect spoooooky prizes!
+
+## Things to know
+⚡The show and the gear sale will be outdoors but please wear your masks!
+⚡Gear Sale runs 2-6 so get there early if you wanna snag some stuff! All gear is marked down from what you'll find online or at retail stores!
+⚡Music starts @ 3!
+⚡The show entry is by donation $20-$5 or whatever you can donate to the band of your choice!
+⚡You can cast your vote at the show for the final two bands @we.are.nigh and @frills.no.frills by donating to the band of your choice! the bands will be battling out on stage and YOU CAN HELP ONE OF THEM WIN THE BATTLE OF THE PATRIARCHY 2021
+⚡This is an all age show - tell all your frens!
+
+There will also be a special performance by:
+⚡Caloric - the solo queer dance-pop project of Dailen Williams
 
 
-## Deadline to Register: August 19, 2021
+![Girls Rock! RI Presents copy.png](/uploads/Girls%20Rock!%20RI%20Presents%20copy.png)
 
-What is the Battle of the Patriarchy you ask? It’s basically a Battle of the Bands, Rock Lotto Fundraiser wherein women, trans and gender-expansive adults 18+ are placed into bands and given a fundraising goal. The bands write original music while fundraising online to support their local rock camp, and at the end of 10 weeks, the bands finally play a huge fundraiser show!
-
-Here’s how it works: SIGN UP! No experience on your instrument is necessary, but a bit is helpful! We’ll randomly place you into bands with folks you’ve (ideally) never played with before. RIOT RI will lend gear to folks that don’t have the instruments that they need, and will provide practice space on a need basis!
-
-Registration costs $10.00. Registration is on a first-come-first-served basis, we will be forming 10 total bands. To register and complete your registration payment, please follow the links below:
-
-## [REGISTER FOR BOTP](https://docs.google.com/forms/d/e/1FAIpQLSc6kSrQVgv9JW5OI9Hxe97ZaTeMxzLIbqUEnm0Xm0WYqFlVlw/viewform?usp=sf_link)
-## [PAY APPLICATION FEE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=92YUAYM3ETFXN)
