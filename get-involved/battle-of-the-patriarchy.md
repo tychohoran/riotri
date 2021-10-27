@@ -30,3 +30,6 @@ We will also have our annual gear sale from 2-6pm AND this year we'll celebrate 
 There will also be a special performance by:
 ⚡Caloric - the solo queer dance-pop project of Dailen Williams
 
+
+![Girls Rock! RI Presents copy.png](/uploads/Girls%20Rock!%20RI%20Presents%20copy.png)
+
