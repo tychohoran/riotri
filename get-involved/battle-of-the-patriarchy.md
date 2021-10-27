@@ -36,6 +36,5 @@ This is an all age show - tell all your frens!
 There will also be a special performance by:
 Caloric - the solo queer dance-pop project of Dailen Williams
 
-
-[Girls Rock! RI Presents copy.png](/uploads/Girls%20Rock!%20RI%20Presents%20copy.png)
+![Girls Rock! RI Presents copy.png](/uploads/Girls%20Rock!%20RI%20Presents%20copy.png "bop")
 
