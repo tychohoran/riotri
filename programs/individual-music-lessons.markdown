@@ -55,9 +55,7 @@ Singer Joy (she/her) is a queer musician and writer originally hailing from Big 
 
 Kai (She/Her) is a DIY musician and lifelong scene kid. As a
 self-taught musician she believes in an open-ended approach to
-teaching that identifies and achieves goals directly without stressing
-prescribed fundamentals. She plays in the bands Trophy Hunt and Maafa
-and is a resident artist at the Dirt Palace.
+teaching that identifies and achieves goals directly without stressing prescribed fundamentals. She plays in the bands Trophy Hunt and Maafa and is a resident artist at the Dirt Palace.
 
 
 ## Rates
