@@ -40,11 +40,6 @@ Co-Chair
 
 Katie Krafft (she/her) is currently co-chair of the Board. She has been volunteering variously as a band counselor, training and workshop facilitator, and GRIT co-coordinator since 2013, and has been on the Board since 2017. She's finally getting used to identifying as a person who makes music (after doing Adult Rock Camp and taking keyboard + songwriting lessons with the other Board co-chair Roz Raskin!). She is an Assistant Professor of Crime and Justice Studies at the University of Massachusetts and she is always interested in talking about education, transformative justice, and the future.
 
-![Meredith%20Stern.jpg](/uploads/Meredith%20Stern.jpg)
-## Meredith Stern
-
-Meredith Stern (she/her) works with soil, clay, drums, and paper. She is a member of the Justseeds Artists Cooperative.
-
 
 ![Abeer.jpg](/uploads/Abeer.jpg)
 ## Abeer Khatana
@@ -61,6 +56,11 @@ Kyla Falcon (she/her) is originally from Rhode Island but currently living in Ne
 ## Aloe Russell
 
 Aloe (she/her) has been working with RIOT! RI since 2016, first as a volunteer and then also teaching lessons. She's a musician, music teacher, community college student, and she does IT for AS220. Aloe is new to the board in 2020 and super psyched about deepening her relationship with this awesome organization!
+
+![150534522_3062223660678432_7663887058737176402_n.jpg](/uploads/150534522_3062223660678432_7663887058737176402_n.jpg)
+## Monse Segura
+
+Bio coming soon!
 
 # STAFF
 
