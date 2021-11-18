@@ -76,31 +76,20 @@ Co-Executive Director
 
 Denise (she/her) is a bilingual educator who fiercely advocates for youth. She has a strong administrative background and experience as a Spanish interpreter/translator and has used her skills in roles within schools in Providence and Central Falls, the RI Disability Law Center, and the Institute for the Study and Practice of Nonviolence. Denise is also a community yoga instructor who has volunteered teaching yoga and participating in body image workshops at Girls Rock Camps and Ladies Rock Camps with a focus on intersectionality, body positivity and restorative healing practices. Denise is a Latinx feminista who loves tacos and flan. She is a self-taught vocalist who dabbles in the harmonica and ukulele with her band Tall and has diverse musical influences from Selena and Buffy Sainte Marie to the Grateful Dead.
 
+![COURTNEYTKINGHeadshot%20(1).jpeg](/uploads/COURTNEYTKINGHeadshot%20(1).jpeg)
+## Court King
+Programs and Operations Coordinator
+
+Court King (they/she) is a Providence native and URI alumni with almost fifteen years of youth development work. Well known for her youth work and building community, Court's work is rooted in a deep love for progress. As a Black queer and non-binary person she pulls from her identities to help shape a new future. When talking about her work she focuses on her expertise in softening and re-softening Black and brown youth. Court’s interest in formerly silenced voices, critical analysis and public engagement informs all of her work. In addition to her new role at RIOT Court is a graduate student at RIC working towards her Masters in Youth Development.
+
 ![CourtneyBrown.jpg](/uploads/CourtneyBrown.jpg)
 ## Courtney Brown 
 Professional Development Coordinator / Bonner Fellow (she/her)
 
-![20181021_111252-e1545258780433-768x1024.jpg](/uploads/20181021_111252-e1545258780433-768x1024.jpg)
-## Jacqueline James 
+![IMG_7740.jpg](/uploads/IMG_7740.jpg)
+## Kai Van Vlack
 Gear Coordinator
 (she/her)
-
-
-## Aileen Feliz
-Events Coordinator
-(they/them)
-
-## Ace Neves
-Design Intern
-(they/them)
-
-![billie.jpg](/uploads/billie.jpg)
-## Billie Grant
-Evaluation Consultant
-
-Billie (she/her) is a contextually radical, queer, faith aware, Black woman rumored to “run on giggles and glitter.” Living and organizing in the Hudson Valley (on land stolen from the Lenape, Mohican, and Wappinger people), she works as a cultural consultant both locally and internationally and has been engaged in organizing and activism for nearly two decades.
-Her likes include baking elaborate (ideally miniature) desserts and singing impromptu jingles about her more mundane tasks.  Her dislikes include willful ignorance and being “nice.”  Billie's nights are often spent writing postcards to pals, cuddling with Winston Caldwell (her pup), or reading young adult fiction with a lukewarm cup of tea.
-Billie is an established fixture of our Rock Camp community having volunteered with 20+ camps translationally, holding multiple paid and unpaid positions. She has intentionally sought out the opportunity to work with Rock Camps looking to center our margins and is excited to work with RIOT!
 
 
 # YOUTH ADVISORY BOARD
