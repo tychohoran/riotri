@@ -12,10 +12,10 @@ layout: page
 * Reba Mitchell
 * Roz Raskin, Co-Chair
 * Katie Krafft, Co-Chair
-* Meredith Stern
 * Abeer Khatana
 * Kyla Falcon
 * Aloe Russell
+* Monse Segura
 
 ![Lipou.jpg](/uploads/Lipou.jpg)
 ## Lipou Laliemthavisay
