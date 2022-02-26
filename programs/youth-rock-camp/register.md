@@ -114,6 +114,10 @@ The camp is open to girls, trans and nonbinary youth. Our mission is to provide 
 
 RIOT RI is a fully-insured day camp in Rhode Island. All of our camp week volunteers undergo the standard, up-to-date background checks required of anyone working with children in Rhode Island. RIOT RI also provides up to 30 min. of morning & afternoon supervision for campers who cannot be dropped off or picked up right as the camp day begins & ends.
 
+## What are your COVID-19 Policies?
+
+All staff, participants, and volunteers are required to wear masks at all times while indoors in RIOT RI programming (lunch will be eaten outside in a tent!). All participants, staff, and volunteers must have their up to date COVID-19 vaccinations (including booster if eligable), and show a proof of vaccination in order to participate. Rapid testing kits will be provided each day of camp at check-in. All participants must sign our COVID-19 waiver, and agree to honor all COVID-19 policies. 
+
 ## More questions?
 
 Contact Rikki with any questions about registration: [rikki@riotri.org](mailto:rikki@riotri.org)! 
