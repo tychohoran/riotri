@@ -25,20 +25,20 @@ In addition to all this, campers will have the opportunity to meet other girls, 
 
 Check out tons of pictures, videos, and blog entries by our Girls Rock Internship & Training (GRIT) and Volunteer-in-Training (VIT) program participants [on our blog!](/news/)
  
-## Youth Rock Camp 2020:
+## Youth Rock Camp 2022:
 
-**2020 & 2021 Youth Rock Camps have been cancelled due to COVID-19. Camps will resume once the COVID-19 vaccine is widespread. See our Virtual and Outdoor programming for Summer 2021!**
 
-* **SESSION 1:** July 6th-11th, 2020 for campers ages 10-13 (in or entering middle school age, 5th-8th grade) at the Rhode Island Philharmonic in East Providence, capacity of 40
-* **SESSION 2:** August 10th-15th, 2020 for campers ages 14-18 (in or entering high school age, 9th-12th grade) at JamStage in Pawtucket, capacity of 30
+* **SESSION 1:** July 18th-23rd, 2022 for campers ages10-14 (in or entering high school age, 9th-12th grade) at JamStage in Pawtucket, capacity of 35 
+
+* **SESSION 2:** August 15th-20th, 2022 for campers ages 14-18 (in or entering middle school age, 5th-8th grade) at Jamstage in Pawtucket, capacity of 35
  
-**Needs-based financial aid is available for Youth Rock Camp. No camper turned away for lack of funds.**
+**Need-based financial aid is available on a sliding scale for Youth Rock Camp. No camper turned away for lack of funds.**
 
-**Youth Rock Camp and GRIT/VIT** registration will open on Saturday, February 22nd at 9am.**  Scholarships are awarded on a need-basis, and are awarded on a sliding scale. Full tuition is $395. Camp sells out very fast, so be sure to sign up as soon as you see the announcement! [Sign up for our mailing list](/get-involved/subscribe) to receive announcements about Youth Rock Camp 2020!
+**Youth Rock Camp and GRIT/VIT** registration will open on Saturday, Monday February 28th at 12 PM.**  Scholarships are awarded on a need-basis, and are awarded on a sliding scale. Full tuition is $475. Camp sells out very fast, so be sure to sign up as soon as you see the announcement! [Sign up for our mailing list](/get-involved/subscribe) to receive announcements about Youth Rock Camp 2022!
  
-***A camper is eligible to become a GRIT when they are 15 or older and have attended Girls Rock Camp (Youth Rock Camp) at least once, plus at least one other GRR! program (camp or afterschool programming equivalent). A camper is eligible to become a VIT once they have completed the GRIT program. Staff will reach out to eligible participants who will be required to fill out applications to participate in the GRIT or VIT programs. Both the GRIT and VIT program are free to attend.*
+***A camper is eligible to become a GRIT when they are 15 or older and have attended Girls Rock Camp (Youth Rock Camp) at least once. A camper is eligible to become a VIT once they have completed the GRIT program. Staff will reach out to eligible participants who will be required to fill out applications to participate in the GRIT or VIT programs. Both the GRIT and VIT program are free to attend.*
 
-## [Register as a GRIT/VIT](/programs/youth-rock-camp/grit-application)
+## [Registration for GRIT/VIT program will open soon!]
 
 ## LESSONS
 
