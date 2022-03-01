@@ -2,6 +2,9 @@
 title: Youth Drop In
 date: 2022-03-01 21:44:00 Z
 position: 3
+Thumbnail Image: "/uploads/30435829598_c2f821130a_4k.jpg"
+Slideshow Images:
+- "/uploads/30435829598_c2f821130a_4k.jpg"
 ---
 
 Youth Drop in takes place from 3:00 - 6:00 PM on Monday and Wednesday afternoons starting on March 16th, 2022!
