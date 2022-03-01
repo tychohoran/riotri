@@ -5,9 +5,9 @@ position: 3
 Header Button:
   Text: Preregister for March 16
   URL: https://docs.google.com/forms/d/e/1FAIpQLScXPCRXqh1hxfLTOUUmBACm2y6n6RcSq936zKKbSD1EYQUFeA/viewform?usp=sf_link
-Thumbnail Image: "/uploads/30435829598_c2f821130a_4k.jpg"
+Thumbnail Image: "/uploads/30335203008_11881c681b_4k.jpg"
 Slideshow Images:
-- "/uploads/30435829598_c2f821130a_4k.jpg"
+- "/uploads/30335203008_11881c681b_4k.jpg"
 ---
 
 Youth Drop in takes place from 3:00 - 6:00 PM on Monday and Wednesday afternoons starting on March 16th, 2022!
