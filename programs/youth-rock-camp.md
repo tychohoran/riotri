@@ -28,9 +28,9 @@ Check out tons of pictures, videos, and blog entries by our Girls Rock Internshi
 ## Youth Rock Camp 2022:
 
 
-* **SESSION 1:** July 18th-23rd, 2022 for campers ages 10-14 (in or entering high school age, 9th-12th grade) at JamStage in Pawtucket, capacity of 35 
+* **SESSION 1:** July 18th-23rd, 2022 for campers ages 14-18 (in or entering high school age, 9th-12th grade) at JamStage in Pawtucket, capacity of 35 
 
-* **SESSION 2:** August 15th-20th, 2022 for campers ages 14-18 (in or entering middle school age, 5th-8th grade) at Jamstage in Pawtucket, capacity of 35
+* **SESSION 2:** August 15th-20th, 2022 for campers ages 10-13 (in or entering middle school age, 5th-8th grade) at Jamstage in Pawtucket, capacity of 35
  
 **Need-based financial aid is available on a sliding scale for Youth Rock Camp. No camper turned away for lack of funds.**
 
