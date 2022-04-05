@@ -76,20 +76,16 @@ Co-Executive Director
 
 Denise (she/her) is a bilingual educator who fiercely advocates for youth. She has a strong administrative background and experience as a Spanish interpreter/translator and has used her skills in roles within schools in Providence and Central Falls, the RI Disability Law Center, and the Institute for the Study and Practice of Nonviolence. Denise is also a community yoga instructor who has volunteered teaching yoga and participating in body image workshops at Girls Rock Camps and Ladies Rock Camps with a focus on intersectionality, body positivity and restorative healing practices. Denise is a Latinx feminista who loves tacos and flan. She is a self-taught vocalist who dabbles in the harmonica and ukulele with her band Tall and has diverse musical influences from Selena and Buffy Sainte Marie to the Grateful Dead.
 
-![COURTNEYTKINGHeadshot%20(1).jpeg](/uploads/COURTNEYTKINGHeadshot%20(1).jpeg)
-## Court King
+![IMG_7740.jpg](/uploads/IMG_7740.jpg)
+## Kai Van Vlack
 Programs and Operations Coordinator
 
-Court King (they/she) is a Providence native and URI alumni with almost fifteen years of youth development work. Well known for her youth work and building community, Court's work is rooted in a deep love for progress. As a Black queer and non-binary person she pulls from her identities to help shape a new future. When talking about her work she focuses on her expertise in softening and re-softening Black and brown youth. Court’s interest in formerly silenced voices, critical analysis and public engagement informs all of her work. In addition to her new role at RIOT Court is a graduate student at RIC working towards her Masters in Youth Development.
+Kai (She/Her) started at RIOT RI as a guitar instructor before joining the administrative team. While her professional experience is in the biological sciences and university administration, most of her adult life has been devoted to radical organizing within the arts, with a specific emphasis on using DIY punk as a platform for activism and community building. She believes in the profound transformative effect of shared cathartic experiences around music, particularly for marginalized young people. Kai is an artist in residence at the Dirt Palace and a member of the bands Trophy Hunt and Maafa. Her spare time is spent hiking, eating burritos, and reading sci-fi.
 
 ![CourtneyBrown.jpg](/uploads/CourtneyBrown.jpg)
 ## Courtney Brown 
 Professional Development Coordinator / Bonner Fellow (she/her)
 
-![IMG_7740.jpg](/uploads/IMG_7740.jpg)
-## Kai Van Vlack
-Gear Coordinator
-(she/her)
 
 
 # YOUTH ADVISORY BOARD
