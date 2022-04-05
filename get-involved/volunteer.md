@@ -49,7 +49,7 @@ Volunteer at this summer’s Youth Rock Camps July 6-11 and August 10-15! Volunt
 (any gender; experience required) Available on-site or on-call throughout the day as a point person for medical emergencies, mental health issues, minor accidents, helping campers with special medical needs, prescriptions, and assisting the support and administrative team as needed. Combines well with other volunteer positions such as hospitality team, workshop leader, etc.  
 **TIME: Shifts available**
 
-## [GIRLS ROCK CAMP VOLUNTEER APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSfr0jKDxMaOyVlKp82gy6UEfOXsWpo06u7fpPT29XSSo7RaIA/viewform?usp=sf_link)
+## [GIRLS ROCK CAMP VOLUNTEER APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSc8mE8a0zEvIrGByHAof9Hz9l8z1XbAr7MiwkXaP6Hvmgz21g/viewform?usp=sf_link)
  
 # VOLUNTEER YEAR ROUND
 We could use your help to keep RIOT RI rocking year round (no musical experience necessary!)!  We need regular support with everything from tabling at events to graphic design!  If you’ve got a skill, we can probably use it!  Here’s a list of areas you can help: PR/marketing, outreach, data entry, fund development, event tabling, music gear coordination, food donations, event coordination, graphic design, accounting, legal affairs, and more!  If you are interested in helping out, please fill out our general volunteer application below!
