@@ -23,13 +23,6 @@ Eight youth participants will also have the opportunity to be paired with a Musi
 
 ## Our Instructors
 
-![image4.jpg](/uploads/image4.jpg)
-## Willy Kubas: Vocals
-
-Willy Kubas (they/them) is a sound and visual artist. Their work revolves around exploring the location and dislocation of the voice in sound, and the relationship between the voice and gender.
-
-When they aren’t making work - one can find them practicing make-up, or spending too much time on eBay.
-
 ![Crikkett%20RWP.webp](/uploads/Crikkett%20RWP.webp)
 ## Crikkett Young: Bass and Ukulele
 
