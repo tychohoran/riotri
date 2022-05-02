@@ -16,6 +16,8 @@ layout: page
 * Kyla Falcon
 * Aloe Russell
 * Monse Segura
+* Yasmine Hassan
+
 
 ![Lipou.jpg](/uploads/Lipou.jpg)
 ## Lipou Laliemthavisay
