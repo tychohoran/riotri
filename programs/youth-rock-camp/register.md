@@ -31,9 +31,15 @@ Once you have filled out a camp application, please click the “APPLICATION FEE
 
 ## [APPLICATION FEE PAYMENT](https://www.paypal.com/donate/?hosted_button_id=MZ37E35ZYJLBS)
 
+## [FULL PAY TUITION](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZVAL4UJ7S3R8N)
+
+## [PARTIAL PAY TUITION 50% SCHOLARSHIP](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9NMTLBE5QMQ9E)
+
+## [PARTIAL PAY TUITION 80% SCHOLARSHIP](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AKSCRDZY9LR26)
+
 **Once you have received official notification that your child has been accepted into camp, you can make your tuition payment one of two ways:**
 * **Mail a check** made out to “RIOT RI” 763 Westminster St, Providence RI 02903. Please include your camper’s name on the memo line
-* Pay safely and securely online **using a debit/credit card or PayPal account**
+* Pay safely and securely online **using a debit/credit card or PayPal account via the above links**
 
 # FREQUENTLY ASKED QUESTIONS
 
