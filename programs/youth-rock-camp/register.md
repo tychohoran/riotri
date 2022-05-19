@@ -41,7 +41,7 @@ Once you have filled out a camp application, please click the “APPLICATION FEE
 * **Mail a check** made out to “RIOT RI” 763 Westminster St, Providence RI 02903. Please include your camper’s name on the memo line
 * Pay safely and securely online **using a debit/credit card or PayPal account via the above links**
 
-# FREQUENTLY ASKED QUESTIONS
+# FREQUENTLY ASKED QUESTIONS 
 
 ## When does registration begin and end?
 
