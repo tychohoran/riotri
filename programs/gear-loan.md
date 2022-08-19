@@ -20,7 +20,6 @@ All participants and volunteers are welcome to borrow our music gear year-round 
 
 We currently have over 100 instruments loaned out in the community. Gear loan of any specific instrument is subject to availability. 
 
-**During the COVID-19 Pandemic, all deposits for gear loan have been waived. **
 
 Deposit rates are as follows:
 * Electric Guitar: $20
