@@ -9,14 +9,14 @@ layout: page
 
 # BOARD
 * Lipou Laliemthavisay
-* Reba Mitchell
+* Reba Mitchell, Co-Chair
 * Roz Raskin, Co-Chair
-* Katie Krafft, Co-Chair
 * Abeer Khatana
 * Kyla Falcon
 * Aloe Russell
 * Monse Segura
 * Yasmine Hassan
+* Tatiana Dossantos
 
 
 ![Lipou.jpg](/uploads/Lipou.jpg)
@@ -64,30 +64,36 @@ Aloe (she/her) has been working with RIOT! RI since 2016, first as a volunteer a
 
 Bio coming soon!
 
+## Tatiana Dossantos
+
+Bio coming soon!
+
 # STAFF
 
 ![rikki-davis.jpg](/uploads/rikki-davis.jpg)
 ## Rikki Davis
-Co-Executive Director
+Executive Director
 
 Rikki Davis (they/them) was a vocal instructor and band coach with RIOT RI before joining the administrative team. They worked for music festivals, political campaigns, art galleries, and museums before finding their niche in the non-profit world. Rikki trained in classical voice for 10 years before leaving the opera world in favor of less strictly policed forms of musical expression. They are currently the vocalist and bassist in the queercore band Tenderhooks. As a director, Rikki is passionate about collaborative leadership, dismantling oppression from its root causes, and valuing community building over professionalism. In their free time, Rikki is a skater with Providence Roller Derby under the alter ego, RetroRocket.
 
-![denise-mathews-reidpath.jpg](/uploads/denise-mathews-reidpath.jpg)
-## Denise Meza-Reidpath
-Co-Executive Director
-
-Denise (she/her) is a bilingual educator who fiercely advocates for youth. She has a strong administrative background and experience as a Spanish interpreter/translator and has used her skills in roles within schools in Providence and Central Falls, the RI Disability Law Center, and the Institute for the Study and Practice of Nonviolence. Denise is also a community yoga instructor who has volunteered teaching yoga and participating in body image workshops at Girls Rock Camps and Ladies Rock Camps with a focus on intersectionality, body positivity and restorative healing practices. Denise is a Latinx feminista who loves tacos and flan. She is a self-taught vocalist who dabbles in the harmonica and ukulele with her band Tall and has diverse musical influences from Selena and Buffy Sainte Marie to the Grateful Dead.
-
 ![IMG_7740.jpg](/uploads/IMG_7740.jpg)
 ## Kai Van Vlack
-Programs and Operations Coordinator
+Programs and Operations Co-Coordinator
 
 Kai (She/Her) started at RIOT RI as a guitar instructor before joining the administrative team. While her professional experience is in the biological sciences and university administration, most of her adult life has been devoted to radical organizing within the arts, with a specific emphasis on using DIY punk as a platform for activism and community building. She believes in the profound transformative effect of shared cathartic experiences around music, particularly for marginalized young people. Kai is an artist in residence at the Dirt Palace and a member of the bands Trophy Hunt and Maafa. Her spare time is spent hiking, eating burritos, and reading sci-fi.
 
-![CourtneyBrown.jpg](/uploads/CourtneyBrown.jpg)
-## Courtney Brown 
-Professional Development Coordinator / Bonner Fellow (she/her)
+![Crikkett_RIOT-9647e8.jpeg](/uploads/Crikkett_RIOT-9647e8.jpeg)
+## Crikkett Young
+Programs and Operations Co-Coordinator
 
+Crikkett Young (they/them) has been a musician and educator in the Providence area since 2004. They have been coaching bands and teaching lessons with RIOT RI since 2013; in addition, Crikkett is the founding principal oboist of the Narragansett Bay Symphony Community Orchestra, a member of the RI Philharmonic Music School applied music faculty, and an alto saxophonist in Providence’s Extraordinary Rendition Band. Through professional and volunteer work they are constantly working to increase equity and belonging for people of all identities, especially in music and technology programs. They have taught music, math, and other STEAM topics in classroom settings and through nonprofit programs in Rhode Island for over 15 years, and they love encouraging youth and adults to grow their own confidence and self-expression through music!
+
+
+![denise-mathews-reidpath.jpg](/uploads/denise-mathews-reidpath.jpg)
+## Denise Meza-Reidpath
+Executive Consultant
+
+Denise (she/her) is a bilingual educator who fiercely advocates for youth. She has a strong administrative background and experience as a Spanish interpreter/translator and has used her skills in roles within schools in Providence and Central Falls, the RI Disability Law Center, and the Institute for the Study and Practice of Nonviolence. Denise is also a community yoga instructor who has volunteered teaching yoga and participating in body image workshops at Girls Rock Camps and Ladies Rock Camps with a focus on intersectionality, body positivity and restorative healing practices. Denise is a Latinx feminista who loves tacos and flan. She is a self-taught vocalist who dabbles in the harmonica and ukulele with her band Tall and has diverse musical influences from Selena and Buffy Sainte Marie to the Grateful Dead.
 
 
 # YOUTH ADVISORY BOARD
