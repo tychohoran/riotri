@@ -17,6 +17,7 @@ layout: page
 * Monse Segura
 * Yasmine Hassan
 * Tatiana Dossantos
+* Christine Dechichio
 
 
 ![Lipou.jpg](/uploads/Lipou.jpg)
@@ -65,6 +66,10 @@ Aloe (she/her) has been working with RIOT! RI since 2016, first as a volunteer a
 Bio coming soon!
 
 ## Tatiana Dossantos
+
+Bio coming soon!
+
+## Christine Dechichio
 
 Bio coming soon!
 
