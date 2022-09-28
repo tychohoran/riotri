@@ -11,8 +11,8 @@ Thumbnail Image: "/uploads/sponsor.jpg"
 layout: page
 ---
 
-# 2020 SPONSORS
-Thank you to our 2020 sponsors and grants for supporting empowerment through music!
+# 2022-2023 SPONSORS
+Thank you to our 2022-2023 sponsors and grants for supporting empowerment through music!
 
 ![Untitled design-fff05b.png](/uploads/Untitled%20design-fff05b.png)
 
@@ -21,8 +21,9 @@ Thank you to our 2020 sponsors and grants for supporting empowerment through mus
 * [Dexter Donation Fund](https://www.providenceri.gov/dexter-donation/)
 * [Providence Shelter](http://www.providenceshelter.org/)
 * [Newport Festivals Foundation](https://www.newportfestivals.org/)
-* [Empire Guitars](https://www.empireguitarsri.com/)
-* [Whole Foods](https://www.wholefoodsmarket.com/company-info/donate)
+* [Fox Pest Control]
+(https://fox-pest.com/rhode-island/)
+
 
  
 # Food Donors
