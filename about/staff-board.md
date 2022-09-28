@@ -36,14 +36,6 @@ Co-Chair
 
 Roz Raskin (they/them) is a writer, musician, community organizer, and teacher based in their hometown of Providence, Rhode Island.  They currently serve as a board member and keyboard instructor at RIOT. Roz toured for over ten years with their critically acclaimed art rock band, Roz and the Rice Cakes, and can more recently be seen touring in their cosmic pop project, NOVA ONE. Roz also curates safer musicians show spaces under the name SELF LUV and teaches songwriting and piano locally.
 
-
-![Krafft_BoardPic.jpg](/uploads/Krafft_BoardPic.jpg)
-## Katie Krafft
-Co-Chair
-
-Katie Krafft (she/her) is currently co-chair of the Board. She has been volunteering variously as a band counselor, training and workshop facilitator, and GRIT co-coordinator since 2013, and has been on the Board since 2017. She's finally getting used to identifying as a person who makes music (after doing Adult Rock Camp and taking keyboard + songwriting lessons with the other Board co-chair Roz Raskin!). She is an Assistant Professor of Crime and Justice Studies at the University of Massachusetts and she is always interested in talking about education, transformative justice, and the future.
-
-
 ![Abeer.jpg](/uploads/Abeer.jpg)
 ## Abeer Khatana
 
@@ -62,6 +54,10 @@ Aloe (she/her) has been working with RIOT! RI since 2016, first as a volunteer a
 
 ![150534522_3062223660678432_7663887058737176402_n.jpg](/uploads/150534522_3062223660678432_7663887058737176402_n.jpg)
 ## Monse Segura
+
+Bio coming soon!
+
+## Yasmine Hassan
 
 Bio coming soon!
 
@@ -100,6 +96,10 @@ Executive Consultant
 
 Denise (she/her) is a bilingual educator who fiercely advocates for youth. She has a strong administrative background and experience as a Spanish interpreter/translator and has used her skills in roles within schools in Providence and Central Falls, the RI Disability Law Center, and the Institute for the Study and Practice of Nonviolence. Denise is also a community yoga instructor who has volunteered teaching yoga and participating in body image workshops at Girls Rock Camps and Ladies Rock Camps with a focus on intersectionality, body positivity and restorative healing practices. Denise is a Latinx feminista who loves tacos and flan. She is a self-taught vocalist who dabbles in the harmonica and ukulele with her band Tall and has diverse musical influences from Selena and Buffy Sainte Marie to the Grateful Dead.
 
+## Leaf Brooks
+Intern
+
+Bio Coming Soon!
 
 # YOUTH ADVISORY BOARD
 
