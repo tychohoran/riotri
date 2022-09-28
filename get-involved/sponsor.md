@@ -39,7 +39,6 @@ Thank you to our 2022-2023 sponsors and grants for supporting empowerment throug
 * [Nice Slice](http://niceslice.com/)
 * [Like No Udder](http://www.like-no-udder.com/)
 * [White Electric Coffee](http://whiteelectriccoffee.com/)
-* [Pizza J](https://pizzajprovidence.com/)
 * [Knead Donuts](https://www.kneaddoughnuts.com/)
 
 
