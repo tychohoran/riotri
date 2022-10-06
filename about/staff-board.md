@@ -59,7 +59,7 @@ Bio coming soon!
 
 ## Yasmine Hassan
 
-Bio coming soon!
+Yasmine Hassan [she/her] is an interdisciplinary artist (mechanical engineer by training, youth design/build educator by trade, musician by passion) who has lived in Providence since 2013, despite spending her childhood calling many different places home. Though she was born in Brooklyn, NY, she spent years of her childhood just outside of Philadelphia and Richmond, VA, before her family eventually settled in Columbus, OH. Having grown up visiting family in Pawtucket, though, she was no stranger to Rhode Island when she moved here for undergrad. She comes from a working-class, "tri-cultural" household of African & Arab immigrants--her father is Sudanese and her mother is Sierra Leonean-born Lebanese. Her values and teaching practice are deeply informed by this identity and upbringing, but she also draws inspiration from a fascination with music of ALL sorts, Black pop culture history, cartoons and anime, old Nintendo games, magical realism, and a fiercely DIY work ethic. She's been involved with RIOT since 2018 as an Adult Rock Camp participant, through drum and bass individual lessons, and through her full-time job at a nearby peer youth arts nonprofit
 
 ## Tatiana Dossantos
 
