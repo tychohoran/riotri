@@ -5,8 +5,7 @@ Has Visible Header: true
 Description: All participants and volunteers are welcome to borrow our music gear
   year-round for a small deposit, which they get back when the instrument is returned.
 Header Button:
-  Text: Rental Form
-  URL: https://docs.google.com/forms/d/e/1FAIpQLSdPAKTiaVBR0uZ9UEuLffWLc8EVPFrc49cui_Jg3QLK6LCeIQ/viewform?usp=sf_link
+  Text: Rental Form (Paused)
 Thumbnail Image: "/uploads/gear-loan.jpg"
 Slideshow Images:
 - "/uploads/gear-loan.jpg"
@@ -15,6 +14,9 @@ Slideshow Images:
 - "/uploads/gear-loan-4.jpg"
 layout: page
 ---
+
+***Our gear loan program is currently paused as we revamp our system. Thank you for your patience*** 
+(Last update: 10/7/2022)
 
 All participants and volunteers are welcome to borrow our music gear year-round for a small deposit, which they get back when the instrument is returned. By offering this service, we seek to provide access to instruments beyond the program environment and allow participants to continue to practice at home. 
 
@@ -43,4 +45,4 @@ All gear loan participants will need to submit a Gear Loan Agreement:
 [Youth Gear Loan Agreement](https://drive.google.com/file/d/1-0mFClu7uErEbC2ADduBoroyIdcTTHxQ/view)
 [Adult Gear Loan Agreement](https://drive.google.com/file/d/0B8GwquT_BYALRllla2h6T2d3Uk0/view)
 
-Contact Jacqui at gear@riotri.org with any questions!
+Contact [Gear Loan](mailto:gear@riotri.org) with any questions!
