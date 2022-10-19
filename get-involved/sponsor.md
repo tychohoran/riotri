@@ -20,11 +20,9 @@ Thank you to our 2022-2023 sponsors and grants for supporting empowerment throug
 * [Rhode Island Foundation](https://rifoundation.org/)
 * [Dexter Donation Fund](https://www.providenceri.gov/dexter-donation/)
 * [Providence Shelter](http://www.providenceshelter.org/)
-* [EarthQuaker Devices]
-(https://www.earthquakerdevices.com/)
+* [EarthQuaker Devices](https://www.earthquakerdevices.com/)
 * [Newport Festivals Foundation](https://www.newportfestivals.org/)
-* [Fox Pest Control]
-(https://fox-pest.com/rhode-island/)
+* [Fox Pest Control](https://fox-pest.com/rhode-island/)
 * [Equity Action Fund](https://rifoundation.org/grant/equity-action-grants)
 * [Grantmakers for Girls of Color] (https://grantmakersforgirlsofcolor.org/)
 * [Parlour Providence](http://theparlourri.com/)
