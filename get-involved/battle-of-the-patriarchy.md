@@ -1,5 +1,6 @@
 ---
 title: Battle of the Patriarchy
+published: false
 position: 3
 Has Visible Header: true
 Thumbnail Image: "/uploads/adult-rock-camp-3.jpg"
