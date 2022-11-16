@@ -2,7 +2,7 @@
 title: Individual Music Lessons
 date: 2021-01-19 20:56:00 Z
 published: false
-position: 0
+position: 9
 Header Button:
   Text: Register!
   URL: https://docs.google.com/forms/d/e/1FAIpQLSelEvM44VdJMreVoLJtm73SJ4gOcvgiRcolp3KZS32fwGKrkQ/viewform?usp=sf_link

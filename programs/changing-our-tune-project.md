@@ -1,6 +1,6 @@
 ---
 title: Changing Our Tune Project
-position: 9
+position: 6
 Thumbnail Image: "/uploads/changing-our-tune.jpg"
 Slideshow Images:
 - "/uploads/changing-our-tune.jpg"
