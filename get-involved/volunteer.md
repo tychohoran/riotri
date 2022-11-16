@@ -11,11 +11,12 @@ Slideshow Images:
 layout: page
 ---
 
-# VOLUNTEER FOR YOUTH ROCK CAMP 2022
+# VOLUNTEER FOR YOUTH ROCK CAMP 2023
 
-Volunteer at this summer’s Youth Rock Camps July 18th-23rd and August 15th-20th! Volunteering for camp is fun and rewarding, and there are flexible positions available for those with or without musical experience, for folks of all genders! Volunteers must be at least 18 years of age or older. New volunteers are required to do an interview with our volunteer coordinator. Please read the volunteer descriptions and fill out the volunteer application below to get involved and join the fun!
+Volunteer at this summer’s Youth Rock Camps! Dates are TBA, 2022 sessions were scheduled July 18th-23rd and August 15th-20th. Volunteering for camp is fun and rewarding, and there are flexible positions available for those with or without musical experience, for folks of all genders! Volunteers must be at least 18 years of age or older. New volunteers are required to do an interview with our volunteer coordinator. Please read the volunteer descriptions and get ready to join the fun!
 
 ## [YOUTH ROCK CAMP VOLUNTEER APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSc8mE8a0zEvIrGByHAof9Hz9l8z1XbAr7MiwkXaP6Hvmgz21g/viewform?usp=sf_link)
+The new application form will be coming in Spring 2023!
 
 
 # VOLUNTEER JOB DESCRIPTIONS
@@ -52,14 +53,3 @@ Volunteer at this summer’s Youth Rock Camps July 18th-23rd and August 15th-20t
 (any gender; experience required) Available on-site or on-call throughout the day as a point person for medical emergencies, mental health issues, minor accidents, helping campers with special medical needs, prescriptions, and assisting the support and administrative team as needed. Combines well with other volunteer positions such as hospitality team, workshop leader, etc.  
 **TIME: Shifts available**
  
-# VOLUNTEER YEAR ROUND
-We could use your help to keep RIOT RI rocking year round (no musical experience necessary!)!  We need regular support with everything from tabling at events to graphic design!  If you’ve got a skill, we can probably use it!  Here’s a list of areas you can help: PR/marketing, outreach, data entry, fund development, event tabling, music gear coordination, food donations, event coordination, graphic design, accounting, legal affairs, and more!  If you are interested in helping out, please fill out our general volunteer application below!
-
-**Only fill out this form if you CANNOT volunteer at our upcoming camp, but would like to volunteer year-round!**
-
-## [GENERAL VOLUNTEER APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSegxsGeOuD87R7Rti-W8KNR2_rZVDpzUju3LUIphWB2amjIlQ/viewform?formkey=cnVqbFhWbzd2Wlc3VXJtb3YwVHBwSnc6MA..#gid=0)
-
-
-
-
-
