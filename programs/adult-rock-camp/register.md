@@ -1,5 +1,6 @@
 ---
 title: Register for Adult Rock Camp
+published: false
 layout: page
 ---
 
