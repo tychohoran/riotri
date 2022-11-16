@@ -15,12 +15,9 @@ Slideshow Images:
 layout: page
 ---
 
-You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons are taught by our experienced instructors at our space at 763R Westminster Street in Providence. Classes run in the winter/spring and in the fall.  This fall 2021 we will be offering group lessons in Guitar, Bass, and Keys!
+You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons are taught by our experienced instructors at our space at 763R Westminster Street in Providence. Classes run in the winter/spring and in the fall.  This winter/spring 2023 we will be offering group lessons for youth ages 10 to 17 in Bass, Drums, Guitar, Keys, Ukulele, and Vocals!
 
-# Instructors
+# Instructors - TBA
 
-## Singer Joy, Intro to Keys: Youth and Adult
-## Ian Lefort, Intro to Bass: Youth
-## Crikkett Young, Intro to Bass: Adult
-## Guitar, TBA: Youth and Adult
+# Registration - Coming Soon!
  
