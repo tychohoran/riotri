@@ -33,13 +33,13 @@ All Group Lessons will be held at RIOT RI’s program and office space: 763 Rear
 # Tuition and Payment
 
 * TUITION:
-The cost for this 10 week session where you will learn and instrument, write a song and perform live is $250.00 - As always, no one will be turned away for lack of funds so we are offering a sliding scale tuition cost based on financial need according to self-reported income. If you have special circumstances not reflected in your income, please indicate so in your financial aid application. 
+The cost for this 10 week session where you will learn an instrument, write a song, and perform live is $300.00 - As always, no one will be turned away for lack of funds so we are offering a sliding scale tuition cost based on financial need according to self-reported income. If you have special circumstances not reflected in your income, please indicate so in your financial aid application. 
 
-Due to the  small capacity, scholarships are limited and are offered on a first come first served need basis. BIPOC Students attend RIOT RI Group Lessons at no cost are encouraged to apply!
+Depending on enrollment, scholarships may be limited and will be offered on a first-come, first-served need basis. BIPOC Students attend RIOT RI Group Lessons at no cost and are encouraged to apply!
 
-Payment for Fall Group Lessons is due one week prior to start date. To pay safely and securely online with a credit/debit card or PayPal account, please click the button below:
+Payment for Youth Group Lessons is due one week prior to start date. To pay safely and securely online with a credit/debit card or PayPal account, please click the button below:
 
-## [FALL 2021 GROUP LESSONS PAYMENT](https://www.paypal.com/donate?hosted_button_id=FW8T8HBJAHKME)
+## [WINTER-SPRING 2023 GROUP LESSONS PAYMENT](https://www.paypal.com/donate?hosted_button_id=FW8T8HBJAHKME)
 
 You can also write a check to “RIOT RI” (write the name of the class on the memo line) and mail to:
 * RIOT RI
@@ -54,4 +54,4 @@ As a participant, you can borrow an instrument through our Gear Loan program to 
 
 There is limited capacity for each class and registration is first-come, first-served for each tuition category. Registration must include enough paying participants (determined by staff) for class to run. We rely on tuition fees to run this program, which requires a certain minimum of paying students. If registration is low, classes may be cancelled and participants will be contacted by RIOT RI staff.
 
-Questions?  Contact Denise at [denise@riotri.org](mailto:denise@riotri.org) or 401-443-2873.
+Questions?  Contact us at [info@riotri.org](mailto:info@riotri.org) or 401-443-2873.
