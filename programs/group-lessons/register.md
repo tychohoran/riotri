@@ -37,7 +37,7 @@ The cost for this 10 week session where you will learn an instrument, write a so
 
 Depending on enrollment, scholarships may be limited and will be offered on a first-come, first-served need basis. BIPOC Students attend RIOT RI Group Lessons at no cost and are encouraged to apply!
 
-Payment for Youth Group Lessons is due two weeks prior to start date. To pay safely and securely online with a credit/debit card or PayPal account, please click the button below:
+Payment for Youth Group Lessons is due February 13, 2023, two weeks prior to the start of classes. To pay safely and securely online with a credit/debit card or PayPal account, please click the button below:
 
 ## [WINTER-SPRING 2023 GROUP LESSONS PAYMENT](https://www.paypal.com/donate?hosted_button_id=FW8T8HBJAHKME)
 
