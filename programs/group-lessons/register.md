@@ -3,7 +3,7 @@ title: Register for Group Lessons
 layout: page
 ---
 
-## REGISTRATION IS OPEN FOR GROUP LESSONS
+## REGISTRATION FOR GROUP LESSONS IS COMING SOON
 
 This winter/spring, RIOT RI is offering a variety of group music lesson opportunities for youth — offerings and schedule coming soon. All lessons will be held at RIOT RI’s Headquarters, located at 763 Rear Westminster Street on the west side of Providence (right across the street from Classical High School) and start the week of February 27. Classes run for 10 weeks culminating in a final community concert.
  
