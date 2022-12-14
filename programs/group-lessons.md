@@ -80,4 +80,6 @@ Learning keyboard will keep you from being bored! In this class, we’ll learn k
 
 *A note about gear:* No gear required! You can use our keyboard during class (though we recommend you have a keyboard or piano at home to practice).
 
-## [REGISTER FOR YOUTH GROUP LESSONS](/register) 
+# REGISTRATION AND MORE DETAILS
+
+## REGISTER
