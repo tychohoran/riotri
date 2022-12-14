@@ -1,6 +1,5 @@
 ---
 title: Register for Group Lessons
-published: false
 layout: page
 ---
 
