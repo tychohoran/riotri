@@ -98,3 +98,7 @@ Learning keyboard will keep you from being bored! In this class, we’ll learn k
 
 ## BASS & UKULELE: Crikkett Young
 ![Crikkett Young.jpg](/uploads/Crikkett%20Young.jpg)
+
+# REGISTER NOW!
+
+## [LEARN MORE AND REGISTER](/programs/group-lessons/register)
