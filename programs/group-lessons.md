@@ -15,21 +15,7 @@ Slideshow Images:
 layout: page
 ---
 
-You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons are taught by our experienced instructors at our space at 763R Westminster Street in Providence. Classes run in the winter/spring and in the fall.  This winter/spring 2023 we will be offering group lessons for youth ages 10 to 17 in Bass, Drums, Guitar, Keys, Ukulele, and Vocals!
-
-# Instructors
-
-## KEYBOARDS  Singer Joy
-![Singer_056.jpg](/uploads/Singer_056.jpg)
-
-## DRUMS & VOCALS Reba Mitchell & Intern Leaf B!
-![RebaPic.jpg](/uploads/RebaPic.jpg)
-
-## GUITAR  Aloe Russell
-[Aloe Russell.JPG](/uploads/Aloe%20Russell.JPG)
-
-## BASS & UKULELE  Crikkett Young
-![Crikkett Young.jpg](/uploads/Crikkett%20Young.jpg)
+You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons are taught by our experienced instructors at our space at 763R Westminster Street in Providence. Classes run in the winter/spring and in the fall. This winter/spring 2023 we will be offering group lessons for youth ages 10 to 17 in Bass, Drums, Guitar, Keys, Ukulele, and Vocals!
 
 # Group Lessons Schedule & Class Descriptions
 
@@ -80,6 +66,35 @@ Learning keyboard will keep you from being bored! In this class, we’ll learn k
 
 *A note about gear:* No gear required! You can use our keyboard during class (though we recommend you have a keyboard or piano at home to practice).
 
-# REGISTRATION AND MORE DETAILS
+# Important Dates
 
-## REGISTER
+## Lessons Begin
+* **DRUMS & VOCALS**  Sunday, February 26
+* **BASS & GUITAR**  Tuesday, February 28
+* **UKULELE & KEYBOARDS**  Thursday, March 2
+
+## April Break
+* **NO LESSONS** April 7 - 15
+
+## Last Class Day
+* **DRUMS & VOCALS**  Sunday, May 7
+* **BASS & GUITAR**  Tuesday, May 9
+* **UKULELE & KEYBOARDS**  Thursday, May 11
+
+## End-of-Session Showcase
+* **Saturday Afternoon, May 13**
+* Exact Time & Location TBA
+
+# Instructors
+
+## KEYBOARDS: Singer Joy
+![Singer_056.jpg](/uploads/Singer_056.jpg)
+
+## DRUMS & VOCALS: Reba Mitchell & Intern Leaf B!
+![RebaPic.jpg](/uploads/RebaPic.jpg)
+
+## GUITAR: Aloe Russell
+![Aloe Russell.JPG](/uploads/Aloe%20Russell.JPG)
+
+## BASS & UKULELE: Crikkett Young
+![Crikkett Young.jpg](/uploads/Crikkett%20Young.jpg)
