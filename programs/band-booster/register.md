@@ -1,5 +1,6 @@
 ---
 title: Register for Band Booster
+published: false
 layout: page
 ---
 
