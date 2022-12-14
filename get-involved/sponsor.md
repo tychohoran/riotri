@@ -24,7 +24,7 @@ Thank you to our 2022-2023 sponsors and grants for supporting empowerment throug
 * [Newport Festivals Foundation](https://www.newportfestivals.org/)
 * [Fox Pest Control](https://fox-pest.com/rhode-island/)
 * [Equity Action Fund](https://rifoundation.org/grant/equity-action-grants)
-* [Grantmakers for Girls of Color(https://grantmakersforgirlsofcolor.org/)
+* [Grantmakers for Girls of Color](https://grantmakersforgirlsofcolor.org/)
 * [Parlour Providence](http://theparlourri.com/)
 * [June Rockwell Levy Foundation](https://rifoundation.org/grant/june-rockwell-levy-foundation-grants)
 * [Newport Festivals Foundation](https://newportfestivals.org/)
