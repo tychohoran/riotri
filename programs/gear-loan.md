@@ -6,7 +6,6 @@ Description: All participants and volunteers are welcome to borrow our music gea
   year-round for a small deposit, which they get back when the instrument is returned.
 Header Button:
   Text: Rental Form (Paused)
-  URL: https://docs.google.com/forms/d/e/1FAIpQLSc_-n0AcHayyfso6h4a_ZKBt1pISMIO64koTNMI8OE3QZEJzg/viewform?usp=sf_link
 Thumbnail Image: "/uploads/gear-loan.jpg"
 Slideshow Images:
 - "/uploads/gear-loan.jpg"
