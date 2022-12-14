@@ -1,5 +1,6 @@
 ---
 title: Band Booster
+published: false
 position: 3
 Has Visible Header: true
 Description: Band Booster is a program where bands can learn how to be bands! Bands
