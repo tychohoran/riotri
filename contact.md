@@ -7,7 +7,7 @@ layout: hub
 
 ## EMAIL
 * General Inquiries: [info@riotri.org](mailto:info@riotri.org)
-* Kai Van Vlack, Executive Director: [kai@riotri.org](mailto:kai@riotri.org)
+* Kai Van Vlack, Programs and Operations Co-Coordinator: [kai@riotri.org](mailto:kai@riotri.org)
 
 
 ## PHONE
