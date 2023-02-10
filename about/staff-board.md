@@ -9,10 +9,8 @@ layout: page
 
 # BOARD
 * Lipou Laliemthavisay
-* Reba Mitchell, Co-Chair
-* Roz Raskin, Co-Chair
+* Reba Mitchell, Chair
 * Abeer Khatana
-* Kyla Falcon
 * Aloe Russell
 * Monse Segura
 * Yasmine Hassan
@@ -30,22 +28,11 @@ Lipou [lee-pu, she/her/hers] was born and raised in Providence, RI. While growin
 
 Reba Mitchell is a current board member who has volunteered since 2009 as a vocal instructor, band coach, workshop leader, and GRIT coordinator. She spends most of her time in a 3x5 iso booth as an audiobook narrator (having recorded over 200 titles and receiving a coveted Earphones Award), and, in order to escape the box and remain part of society, at Flipp Salon as a hairdresser. She holds degrees in Women's Studies and Cosmetology. Yes, her hairstyle is specifically engineered to accommodate wearing headphones six hour a day. 
 
-![rozraskin.JPG](/uploads/rozraskin.JPG)
-## Roz Raskin
-Co-Chair
-
-Roz Raskin (they/them) is a writer, musician, community organizer, and teacher based in their hometown of Providence, Rhode Island.  They currently serve as a board member and keyboard instructor at RIOT. Roz toured for over ten years with their critically acclaimed art rock band, Roz and the Rice Cakes, and can more recently be seen touring in their cosmic pop project, NOVA ONE. Roz also curates safer musicians show spaces under the name SELF LUV and teaches songwriting and piano locally.
-
 ![Abeer.jpg](/uploads/Abeer.jpg)
 ## Abeer Khatana
 
 Abeer Khatana (she/her) joined the RIOT RI board in 2019 and currently serves as the chair of the Anti-Oppression Committee. She has volunteered as a workshop facilitator and has been a (very enthusiastic!!!) participant in RIOT RI's drum lessons for beginners. She has a background in community organizing, development, facilitation, and policy analysis. Abeer is deeply committed to genuine, intentional relationship building. Her superpower is connecting every conversation to the evils of capitalism.
 
-
-![Kyla%20Falcon.jpeg](/uploads/Kyla%20Falcon.jpeg)
-## Kyla Falcon
-
-Kyla Falcon (she/her) is originally from Rhode Island but currently living in New Bedford, MA and working as a school counselor in a public charter school in Fall River, MA. She has experience working with youth across ages, focused on supporting youth living in poverty, disability advocacy, and trauma-informed practices. Some of her biggest passions are integrating social-emotional learning within creative expression, body acceptance and body image, and dismantling oppressive practices in the education system. In her downtime, Kyla enjoys creating graphic art, playing Dungeons and Dragons, and going on spontaneous road trips.
 
 ![Aloe%20Russell.JPG](/uploads/Aloe%20Russell.JPG)
 ## Aloe Russell
@@ -74,24 +61,11 @@ Christine Dechichio (she/her) is our most recent board member who has volunteere
 
 # STAFF
 
-![rikki-davis.jpg](/uploads/rikki-davis.jpg)
-## Rikki Davis
-Executive Director
-
-Rikki Davis (they/them) was a vocal instructor and band coach with RIOT RI before joining the administrative team. They worked for music festivals, political campaigns, art galleries, and museums before finding their niche in the non-profit world. Rikki trained in classical voice for 10 years before leaving the opera world in favor of less strictly policed forms of musical expression. They are currently the vocalist and bassist in the queercore band Tenderhooks. As a director, Rikki is passionate about collaborative leadership, dismantling oppression from its root causes, and valuing community building over professionalism. In their free time, Rikki is a skater with Providence Roller Derby under the alter ego, RetroRocket.
-
 ![IMG_7740.jpg](/uploads/IMG_7740.jpg)
 ## Kai Van Vlack
 Programs and Operations Co-Coordinator
 
 Kai (She/Her) started at RIOT RI as a guitar instructor before joining the administrative team. While her professional experience is in the biological sciences and university administration, most of her adult life has been devoted to radical organizing within the arts, with a specific emphasis on using DIY punk as a platform for activism and community building. She believes in the profound transformative effect of shared cathartic experiences around music, particularly for marginalized young people. Kai is an artist in residence at the Dirt Palace and a member of the bands Trophy Hunt and Maafa. Her spare time is spent hiking, eating burritos, and reading sci-fi.
-
-![Crikkett_RIOT-9647e8.jpeg](/uploads/Crikkett_RIOT-9647e8.jpeg)
-## Crikkett Young
-Programs and Operations Co-Coordinator
-
-Crikkett Young (they/them) has been a musician and educator in the Providence area since 2004. They have been coaching bands and teaching lessons with RIOT RI since 2013; in addition, Crikkett is the founding principal oboist of the Narragansett Bay Symphony Community Orchestra, a member of the RI Philharmonic Music School applied music faculty, and an alto saxophonist in Providence’s Extraordinary Rendition Band. Through professional and volunteer work they are constantly working to increase equity and belonging for people of all identities, especially in music and technology programs. They have taught music, math, and other STEAM topics in classroom settings and through nonprofit programs in Rhode Island for over 15 years, and they love encouraging youth and adults to grow their own confidence and self-expression through music!
-
 
 ![denise-mathews-reidpath.jpg](/uploads/denise-mathews-reidpath.jpg)
 ## Denise Meza-Reidpath
