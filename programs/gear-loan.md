@@ -57,7 +57,7 @@ Deposit rates are as follows:
 
 No participant is turned away for lack of funds. If you are not able to put down this deposit, please contact [kai@girlsrockri.org](mailto:kai@girlsrockri.org) with your circumstances, and the deposit fee can be waived.
 
-Deposits Made Here: \[Deposit\] (https://www.paypal.com/donate/?hosted_button_id=4VEMC3XYRQ4EW)
+[Deposits Made Here:](https://www.paypal.com/donate/?hosted_button_id=4VEMC3XYRQ4EW)
 
 All gear loan participants will need to submit a Gear Loan Agreement:
 [Youth Gear Loan Agreement](https://drive.google.com/file/d/1-0mFClu7uErEbC2ADduBoroyIdcTTHxQ/view)
