@@ -22,4 +22,4 @@ Providence, RI 02903
 Visit our [program page](http://riotri.org/programs/) for information about program registration or payment.
 
 ## DONATE
-Visit our [donate page](http://riotri.org/get-involved/donate.html) to learn about donating to RIOT RI or make a credit card donation now [[donate](https://www.mightycause.com/donate/Riot-Rhode-Island)]
+Visit our [donate page](http://riotri.org/get-involved/donate.html) to learn about donating to RIOT RI or make a credit card donation now [donate][(https://www.mightycause.com/donate/Riot-Rhode-Island)]
