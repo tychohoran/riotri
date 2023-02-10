@@ -1,5 +1,6 @@
 ---
 title: Register for Youth Rock Camp
+published: false
 position: 0
 layout: page
 ---
