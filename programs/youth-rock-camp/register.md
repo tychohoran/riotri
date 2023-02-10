@@ -1,29 +1,31 @@
 ---
 title: Register for Youth Rock Camp
+published: false
 position: 0
 layout: page
 ---
 
-**Registration for Youth Rock Camp 2022 officially opens on Monday 2/28/22 at 12:00 PM!** More information about registration follows below. For general information about what happens at Youth Rock Camp, visit our [Youth Rock Camp info page](/programs/youth-rock-camp).
+**Registration for Youth Rock Camp 2023 officially opens on Monday 2/28/22 at 12:00 PM!** More information about registration follows below. For general information about what happens at Youth Rock Camp, visit our [Youth Rock Camp info page](/programs/youth-rock-camp).
 
  
 # Session 1
 
-July 18-23 for campers ages 14-18 years old (in or entering high school in fall of 2022, 9th-12th grade)  
-*1ra Sesión para edades de 14 – 18 años – Julio 10-16:*
+DATE TBA: for campers ages 14-18 years old (in or entering high school in fall of 2023, 9th-12th grade)  
+*La registración para el campamento de música de Verano para juventud (chicas, juventud trans y de género expansivo) ya está abierta! 
+1ra Sesión para edades de 14 – 18 años – 2023: *
 
-## [SESSION 1 APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSe3rNS3SRGfHb5XU-crZ9tAjUuUpkccrCcid_ukKvdwYpPTqA/viewform?usp=sf_link)
+## [SESSION 1 APPLICATION]
 
 # Session 2
 
-Camp this August 15-20 for campers ages 10-13 years old (in or entering middle school in fall of 2022, 5th-8th grade)  
+DATE TBA: for campers ages 10-13 years old (in or entering middle school in fall of 2023, 5th-8th grade)  
 *La registración para el campamento de música de Verano para juventud (chicas, juventud trans y de género expansivo) ya está abierta!  
-2nda Sesión para edades de 10 – 13 años – Agosto 15-20*
+2nda Sesión para edades de 10 – 13 años – 2023: *
 
-## [SESSION 2 APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSeAIJLa3BkwCvn3q37xHQ5vHh6dEWF-AVpvAxai2j01pK1Yyg/viewform?usp=sf_link)
+## [SESSION 2 APPLICATION]
 
  
-**Please note:** If your camper is not with you when you complete your registration, you may still submit the form. The camper’s section (About Music & More!) does **not** have to be completed to register. A link to this section will be included in your application confirmation email, and the camper may complete it by the June 1 registration deadline (the sooner, the better!).
+**Please note:** If your camper is not with you when you complete your registration, you may still submit the form. The camper’s section (About Music & More!) does **not** have to be completed to register. A link to this section will be included in your application confirmation email, and the camper may complete it by the registration deadline (the sooner, the better!).
 
 # TUITION PAYMENT
 

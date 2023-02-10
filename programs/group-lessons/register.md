@@ -36,9 +36,9 @@ Depending on enrollment, scholarships may be limited and will be offered on a fi
 
 Payment for Youth Group Lessons is due February 13, 2023, two weeks prior to the start of classes. To pay safely and securely online with a credit/debit card or PayPal account, please click the button below:
 
-## [WINTER-SPRING 2023 GROUP LESSONS PAYMENT](https://www.paypal.com/donate/?hosted_button_id=MZ37E35ZYJLBS)
+## [WINTER-SPRING 2023 GROUP LESSONS PAYMENT](https://www.paypal.com/donate/?hosted_button_id=AZY5ZGVML44Q6)
 
-You can also write a check to “RIOT RI” (write the name of the class on the memo line) and mail to:
+You can also write a check to “RIOT RI” (write the name of the class & participant on the memo line) and mail to:
 * RIOT RI
 * 763R Westminster St
 * Providence, RI 02903

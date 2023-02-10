@@ -1,5 +1,6 @@
 ---
 title: Register as a GRIT/VIT
+published: false
 position: 1
 layout: page
 ---
