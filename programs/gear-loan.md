@@ -2,6 +2,7 @@
 title: Gear Loan
 position: 4
 Has Visible Header: true
+Has Subpages Embedded: false
 Description: All participants and volunteers are welcome to borrow our music gear
   year-round for a small deposit, which they get back when the instrument is returned.
 Header Button:
@@ -23,20 +24,21 @@ All participants and volunteers are welcome to borrow our music gear year-round 
 Gear loan of any specific instrument is subject to availability. 
 
 Deposit rates are as follows:
-* Electric Guitar: $20
-* Electric Bass: $20
-* Acoustic Guitar: $20
+* Microphone (Adult Participants Only): $20
 * Keyboard: $20
-* Drums: $75
+* Acoustic Guitar: $20
+* Electric Guitar: $20
+* Electric Guitar w/ Practice Amp: $30
 * Practice Guitar Amp: $20
 * Performance Guitar Amp: $40
+* Electric Bass: $20
+* Electric Bass w/ Practice Amp: $30
 * Practice Bass Amp: $20
 * Performance Bass Amp: $40
-* Electric Guitar w/ Practice Amp: $30
-* Electric Bass w/ Practice Amp: $30
+* Drums: $75
 * Electronic Drum Set: $75 
 * PA System: $100
-* Microphone (Adult Participants Only): $20
+* Pedals: Varies
 
 No participant is turned away for lack of funds. If you are not able to put down this deposit, please contact [kai@girlsrockri.org](mailto:kai@girlsrockri.org) with your circumstances, and the deposit fee can be waived. 
 
