@@ -43,7 +43,7 @@ Thank you to our 2022-2023 sponsors and grants for supporting empowerment throug
 
 # BECOME A SPONSOR
 Contact us at info@riotri.org to inquire about how you can become a sponsor, too!  We’d love to tell our 5000+ social media followers, 2000+ friend email list, and 1000+ showcase attendees about how much you rock!
-To become a 2020 sponsor, please fill out the form below!
+To become a 2023 sponsor, please fill out the form below!
  
 ## [SPONSORSHIP FORM](https://docs.google.com/forms/d/e/1FAIpQLSfO5a4o1xvKPzO4KMq8pXvx0RAnOGWGBi6ouUCGDpuYm_z8Rw/viewform?usp=sf_link)
 
