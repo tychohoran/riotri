@@ -14,7 +14,7 @@ layout: page
 
 # MONEY
 
-Click the donation button above to give safely via [Mightycause](https://www.mightycause.com/organization/Girls-Rock-Rhode-Island), one time or monthly. Checks can be sent to our mailing address (PO Box 3475, Providence, RI 02909). Donations are tax deductible, too! **(If you are paying tuition for Youth Rock Camp, please visit our [registration page](/programs/youth-rock-camp/register.html))**
+Click the donation button above to give safely via [Mightycause](https://www.mightycause.com/donate/Riot-Rhode-Island), one time or monthly. Checks can be sent to our mailing address (763R Westminster Street Providence, RI 02903). Donations are tax deductible, too! **(If you are paying tuition for Youth Rock Camp, please visit our [registration page](/programs/youth-rock-camp/register.html))**
 
 # TIME
 
