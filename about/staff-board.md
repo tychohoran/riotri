@@ -1,6 +1,6 @@
 ---
 title: Staff & Board
-position: 1
+position: 2
 Has Visible Header: true
 layout: page
 ---

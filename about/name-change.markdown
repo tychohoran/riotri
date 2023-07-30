@@ -1,7 +1,7 @@
 ---
 title: Name Change
 date: 2020-06-25 16:51:00 Z
-position: 2
+position: 1
 ---
 
 ## WHY
