@@ -4,13 +4,13 @@ published: false
 layout: page
 ---
 
-**Registration is closed** for our Spring 2020 Adult Rock Camp. Keep an eye out for Fall 2020 Registration!:
+**Registration is not yet open** for our Fall 2023 Adult Rock Camp. Keep an eye out for Registration!:
 
-## [ADULT ROCK CAMP SPRING 2020 APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSf0-q5812TCf3Qbq_lMUcXqu95jLEVOQ_O8E_40RmND3wyWvw/viewform)
+## [ADULT ROCK CAMP FALL 2023 APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSf0-q5812TCf3Qbq_lMUcXqu95jLEVOQ_O8E_40RmND3wyWvw/viewform)
 
 To register someone else as a gift, click the button below:
 
-[ADULT ROCK CAMP SPRING 2020 AS A GIFT](https://docs.google.com/forms/d/e/1FAIpQLSff56PDJ0Og0qoAfoydk4imIfnaxZhVqF3006NNz0U3sFL3uA/viewform)
+[ADULT ROCK CAMP SPRING 2023 AS A GIFT](https://docs.google.com/forms/d/e/1FAIpQLSff56PDJ0Og0qoAfoydk4imIfnaxZhVqF3006NNz0U3sFL3uA/viewform)
 
 # Frequently Asked Questions
 
