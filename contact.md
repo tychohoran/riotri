@@ -7,12 +7,12 @@ layout: hub
 
 ## EMAIL
 * General Inquiries: [info@riotri.org](mailto:info@riotri.org)
-* Kai Van Vlack, Programs and Operations Co-Coordinator: [kai@riotri.org](mailto:kai@riotri.org)
+* Board, Sponsorship, Grants & Other Inquiries: [board@riotri.org](mailto:board@riotri.org)
 
 
 ## PHONE
 * General inquiries: [(401) 443-2869](tel:4014432869)
-* Registration or volunteer questions: [(401) 443-2873](tel:4014432873)
+
 
 ## ADDRESS
 763R Westminster Street
