@@ -9,10 +9,9 @@ layout: page
 
 # BOARD
 * Lipou Laliemthavisay
-* Reba Mitchell, Chair
-* Abeer Khatana
+* Reba Mitchell, Co Chair
+* Abeer Khatana, Co Chair
 * Aloe Russell
-* Monse Segura
 * Yasmine Hassan
 * Tatiana Dossantos
 * Christine Dechichio
@@ -39,10 +38,6 @@ Abeer Khatana (she/her) joined the RIOT RI board in 2019 and currently serves as
 
 Aloe (she/her) has been working with RIOT! RI since 2016, first as a volunteer and then also teaching lessons. She's a musician, music teacher, community college student, and she does IT for AS220. Aloe is new to the board in 2020 and super psyched about deepening her relationship with this awesome organization!
 
-![150534522_3062223660678432_7663887058737176402_n.jpg](/uploads/150534522_3062223660678432_7663887058737176402_n.jpg)
-## Monse Segura
-
-Bio coming soon!
 
 ## Yasmine Hassan
 
@@ -60,12 +55,8 @@ Christine Dechichio (she/her) is our most recent board member who has volunteere
 
 
 # STAFF
-
-![IMG_7740.jpg](/uploads/IMG_7740.jpg)
-## Kai Van Vlack
-Programs and Operations Co-Coordinator
-
-Kai (She/Her) started at RIOT RI as a guitar instructor before joining the administrative team. While her professional experience is in the biological sciences and university administration, most of her adult life has been devoted to radical organizing within the arts, with a specific emphasis on using DIY punk as a platform for activism and community building. She believes in the profound transformative effect of shared cathartic experiences around music, particularly for marginalized young people. Kai is an artist in residence at the Dirt Palace and a member of the bands Trophy Hunt and Maafa. Her spare time is spent hiking, eating burritos, and reading sci-fi.
+As of 2023 RIOT RI is once again a volunteer run organization with a very active working board.
+We are currently seeking out funding for the upcoming school year and hope to interview candidates for positions with RIOT RI around the fall of 2023. 
 
 ![denise-mathews-reidpath.jpg](/uploads/denise-mathews-reidpath.jpg)
 ## Denise Meza-Reidpath
@@ -73,10 +64,6 @@ Executive Consultant
 
 Denise (she/her) is a bilingual educator who fiercely advocates for youth. She has a strong administrative background and experience as a Spanish interpreter/translator and has used her skills in roles within schools in Providence and Central Falls, the RI Disability Law Center, and the Institute for the Study and Practice of Nonviolence. Denise is also a community yoga instructor who has volunteered teaching yoga and participating in body image workshops at Girls Rock Camps and Ladies Rock Camps with a focus on intersectionality, body positivity and restorative healing practices. Denise is a Latinx feminista who loves tacos and flan. She is a self-taught vocalist who dabbles in the harmonica and ukulele with her band Tall and has diverse musical influences from Selena and Buffy Sainte Marie to the Grateful Dead.
 
-## Leaf Brooks
-Intern
-
-Bio Coming Soon!
 
 # YOUTH ADVISORY BOARD
 
