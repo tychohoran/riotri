@@ -1,8 +1,9 @@
 ---
 title: Programs
 permalink: "/programs/"
+published: false
 position: 1
-layout: hub
 Has Subpages Embedded: false
+layout: hub
 ---
 
