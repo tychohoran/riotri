@@ -42,6 +42,9 @@ description: 'RIOT Rhode Island is a volunteer-based non-profit that uses music 
   and critical thinking to foster empowerment, collaborative relationships, and the
   development of healthy identities in girls, women, trans, and gender expansive youth
   and adults.  '
+
+  Banner Color: "#e8483c"
+Announcement Banner Text: 
 Background Color: "#000"
 Accent Color 1: "#ffe22b"
 Accent Color 2: "#00c4bb"
