@@ -17,11 +17,11 @@
     {% endif %}
 
     <main class="wrapper{{class}}">
-    	{% assign has_banner = site['Announcement Banner Text'] | compact | join: "" | strip %}
+    	<!--{% assign has_banner = site['Announcement Banner Text'] | compact | join: "" | strip %}
 		{% unless has_banner == "" %}
-		<!-- ANNOUNCEMENT BANNER -->
+		<! ANNOUNCEMENT BANNER >
 		{% include announcement.html %}
-		{% endunless %}
+		{% endunless %} -->
 
 		{% include slideshow.html %}
 
