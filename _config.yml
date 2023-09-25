@@ -36,7 +36,8 @@ gems:
 plugins_dir:
 - jekyll-paginate
 - jekyll-feed
-plugins: [jekyll-paginate]
+plugins:
+- jekyll-paginate
 paginate: 8
 paginate_path: "/news/:num/"
 description: 'RIOT Rhode Island is a volunteer-based non-profit that uses music creation
