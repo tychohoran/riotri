@@ -6,7 +6,6 @@ body {
     background-color: $background-color;
 }
 
-
 /*------Defaults-------*/
 
 %absolute-reset {
@@ -598,7 +597,6 @@ img {
     line-height: $mobile-margin;
     background-color: $banner-color;
     color: white;
-    display:none!important;
 
     @include media-query($on-palm){
         font-size: $small-font-size;
