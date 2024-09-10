@@ -16,51 +16,8 @@ Slideshow Images:
 layout: page
 ---
 
-***Our gear loan program is currently paused as we revamp our system. We will offer gear loan to Youth Group Lessons participants only, starting in February 2023. Thank you for your patience***
-\(Last update: 12/14/2022)
+We have historically loaned gear to program participants and volunteers year-round for a small deposit, which they get back when the instrument is returned. By offering this service, we have provided access to instruments beyond the program environment and allowed participants to continue to practice at home.
 
-All participants and volunteers are welcome to borrow our music gear year-round for a small deposit, which they get back when the instrument is returned. By offering this service, we seek to provide access to instruments beyond the program environment and allow participants to continue to practice at home.
+Our Gear Loan program has limited capacity at this time. Please contact [info@riotri.org](mailto:info@riotri.org) if you have gear needs and we will respond as quickly as we can!
 
-Gear loan of any specific instrument is subject to availability.
-
-Deposit rates are as follows:
-
-* Microphone (Adult Participants Only): $20
-
-* Keyboard: $20
-
-* Acoustic Guitar: $20
-
-* Electric Guitar: $20
-
-* Electric Guitar w/ Practice Amp: $30
-
-* Practice Guitar Amp: $20
-
-* Performance Guitar Amp: $40
-
-* Electric Bass: $20
-
-* Electric Bass w/ Practice Amp: $30
-
-* Practice Bass Amp: $20
-
-* Performance Bass Amp: $40
-
-* Drums: $75
-
-* Electronic Drum Set: $75
-
-* PA System: $100
-
-* Pedals: Varies
-
-No participant is turned away for lack of funds. If you are not able to put down this deposit, please contact [kai@girlsrockri.org](mailto:kai@girlsrockri.org) with your circumstances, and the deposit fee can be waived.
-
-[Deposits Made Here:](https://www.paypal.com/donate/?hosted_button_id=4VEMC3XYRQ4EW)
-
-All gear loan participants will need to submit a Gear Loan Agreement:
-[Youth Gear Loan Agreement](https://drive.google.com/file/d/1-0mFClu7uErEbC2ADduBoroyIdcTTHxQ/view)
-[Adult Gear Loan Agreement](https://drive.google.com/file/d/0B8GwquT_BYALRllla2h6T2d3Uk0/view)
-
-Contact [our staff](mailto:info@riotri.org) with any questions!
+Deposit rates vary by type of equipment. Please contact us for details.
