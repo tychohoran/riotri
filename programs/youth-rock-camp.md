@@ -25,16 +25,15 @@ In addition to all this, campers will have the opportunity to meet other girls, 
 
 Check out tons of pictures, videos, and blog entries by our Girls Rock Internship & Training (GRIT) and Volunteer-in-Training (VIT) program participants [on our blog!](/news/)
  
-## Youth Rock Camp 2023:
+## Youth Rock Camp
 
+**Stay tuned for announcements about our next Youth Rock Camp programs.**
 
-* **SESSION 1:** DATE TBA for campers ages 14-18 (in or entering high school age, 9th-12th grade) at JamStage in Pawtucket, capacity of 35 
-
-* **SESSION 2:** DATE TBA for campers ages 10-13 (in or entering middle school age, 5th-8th grade) at Jamstage in Pawtucket, capacity of 35
+Read on to learn more about how Youth Rock Camp goes!
  
 **Need-based financial aid is available on a sliding scale for Youth Rock Camp. No camper turned away for lack of funds.**
 
-**Youth Rock Camp** MORE INFO SOON**  Scholarships are awarded on a need-basis, and are awarded on a sliding scale. Full tuition is $475. Camp sells out very fast, so be sure to sign up as soon as you see the announcement! [Sign up for our mailing list](/get-involved/subscribe) to receive announcements about Youth Rock Camp 2023!
+**Youth Rock Camp** MORE INFO SOON**  Scholarships are awarded on a need-basis, and are awarded on a sliding scale. Full tuition will be announced when the next camp is planned. Camp sells out very fast, so be sure to sign up as soon as you see the announcement! [Sign up for our mailing list](/get-involved/subscribe) to receive announcements about Youth Rock Camp 2023!
  
 ***Campers are eligible for our GRIT Intern Training Program  when they are 15 or older and have attended Youth Rock Camp at least once. A camper is eligible to become a VIT once they have completed the GRIT program. Staff will reach out to eligible participants who will be required to fill out applications to participate in the GRIT or VIT programs. Both the GRIT and VIT program are free to attend. Registration for these programs will be posted soon*
 
@@ -71,5 +70,3 @@ At the end of the camp week, camper bands perform their original songs at a show
 * 4:30 Closing reflection
 
 ## [Frequently Asked Questions](/programs/youth-rock-camp/register.html#frequently-asked-questions)
-
-## [Register for Youth Rock Camp](/programs/youth-rock-camp/register)
