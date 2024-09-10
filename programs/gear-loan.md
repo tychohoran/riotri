@@ -1,6 +1,6 @@
 ---
 title: Gear Loan
-position: 4
+position: 5
 Has Visible Header: true
 Has Subpages Embedded: false
 Description: All participants and volunteers are welcome to borrow our music gear

@@ -1,6 +1,6 @@
 ---
 title: Youth Rock Camp
-position: 1
+position: 2
 Has Visible Header: true
 Description: Youth Rock Camp (previously called Girls Rock Camp) is an intensive one-week
   day camp offered to youth ages 10-18, where campers of all skill levels have the

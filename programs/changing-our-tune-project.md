@@ -1,7 +1,7 @@
 ---
 title: Changing Our Tune Project
 published: false
-position: 6
+position: 7
 Thumbnail Image: "/uploads/changing-our-tune.jpg"
 Slideshow Images:
 - "/uploads/changing-our-tune.jpg"
