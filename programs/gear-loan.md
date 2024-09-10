@@ -3,10 +3,8 @@ title: Gear Loan
 position: 1
 Has Visible Header: true
 Has Subpages Embedded: false
-Description: All participants and volunteers are welcome to borrow our music gear
+Description: We have historically loaned gear to program participants and volunteers
   year-round for a small deposit, which they get back when the instrument is returned.
-Header Button:
-  Text: Rental Form (Paused)
 Thumbnail Image: "/uploads/gear-loan.jpg"
 Slideshow Images:
 - "/uploads/gear-loan.jpg"
