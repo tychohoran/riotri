@@ -30,7 +30,7 @@ Read on to learn more about how Youth Rock Camp goes!
  
 **Need-based financial aid is available on a sliding scale for Youth Rock Camp. No camper turned away for lack of funds.**
 
-**Youth Rock Camp** MORE INFO SOON**  Scholarships are awarded on a need-basis, and are awarded on a sliding scale. Full tuition will be announced when the next camp is planned. Camp sells out very fast, so be sure to sign up as soon as you see the announcement! [Sign up for our mailing list](/get-involved/subscribe) to receive announcements about Youth Rock Camp 2023!
+**Youth Rock Camp** Full tuition rates will be announced when the next camp is planned. Scholarships are awarded on a need-basis, and are awarded on a sliding scale. Camp sells out very fast, so be sure to sign up as soon as you see the announcement! [Sign up for our mailing list](/get-involved/subscribe) to receive announcements about our next Youth Rock Camp program!
  
 ***Campers are eligible for our GRIT Intern Training Program  when they are 15 or older and have attended Youth Rock Camp at least once. A camper is eligible to become a VIT once they have completed the GRIT program. Staff will reach out to eligible participants who will be required to fill out applications to participate in the GRIT or VIT programs. Both the GRIT and VIT program are free to attend. Registration for these programs will be posted soon*
 
