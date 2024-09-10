@@ -11,24 +11,24 @@ layout: page
 * Lipou Laliemthavisay
 * Reba Mitchell, Co Chair
 * Abeer Khatana, Co Chair
-* Aloe Russell
+* Ashley (Aloe) Russell
 * Yasmine Hassan
 * Tatiana Dossantos
 
 
-![Lipou.jpg](/uploads/Lipou.jpg)
 ## Lipou Laliemthavisay
 
+![Lipou.jpg](/uploads/Lipou.jpg)
 Lipou [lee-pu, she/her/hers] was born and raised in Providence, RI. While growing up, she always thought she would be an ambassador and allow all visa applications that came in. However, life took a different path. Coming from an immigrant family, she had a deep desire to work with and for marginalized communities, which then grew into a passion for indigent defense. Aside from being a public defender, she is a proud parent of two pitbulls, Kenya & Penny, and teaches criminal law & procedure part-time. She loves going on walks/hikes with the dogs and listening to music to de-stress. She is glad she was invited to join the board in December 2018, though regretful she did not join the organization sooner. She recently began taking virtual drum classes @  RIOT and looks forward to bangin' out Rage Against the Machine's Bulls on Parade!  
 
-![RebaPic.jpg](/uploads/RebaPic.jpg)
 ## Reba Mitchell
 
+![RebaPic.jpg](/uploads/RebaPic.jpg)
 Reba Mitchell is a current board member who has volunteered since 2009 as a vocal instructor, band coach, workshop leader, and GRIT coordinator. She spends most of her time in a 3x5 iso booth as an audiobook narrator (having recorded over 200 titles and receiving a coveted Earphones Award), and, in order to escape the box and remain part of society, at Flipp Salon as a hairdresser. She holds degrees in Women's Studies and Cosmetology. Yes, her hairstyle is specifically engineered to accommodate wearing headphones six hour a day. 
 
-![Abeer.jpg](/uploads/Abeer.jpg)
 ## Abeer Khatana
 
+![Abeer.jpg](/uploads/Abeer.jpg)
 Abeer Khatana (she/her) joined the RIOT RI board in 2019 and currently serves as the chair of the Anti-Oppression Committee. She has volunteered as a workshop facilitator and has been a (very enthusiastic!!!) participant in RIOT RI's drum lessons for beginners. She has a background in community organizing, development, facilitation, and policy analysis. Abeer is deeply committed to genuine, intentional relationship building. Her superpower is connecting every conversation to the evils of capitalism.
 
 
@@ -49,10 +49,10 @@ Bio coming soon!
 # STAFF
 As of 2024 RIOT RI is working to reboot our programming with a very active working board, dedicated volunteers, and a small group of contractors:
 
-![aloe.jpeg](/uploads/aloe.jpeg)
 ## Ashley Russell
 Program Coordinator
 
+![aloe.jpeg](/uploads/aloe.jpeg)
 Ashley (aka Aloe) has been making music in Providence since arriving in 2016, notably with Prior Panic, What Cheer? Brigade, and hir own projects aloelonely and Wolf’s Milk. Ze’s worn many hats at RIOT over those years, from teaching group lessons and volunteering at camp to sitting on the board of directors starting in 2020. Now in 2024, Aloe is working on staff to plan and resource youth and adult programming which truly serves a community that has shown hir so much opportunity and grace. 
 
 ## Maddy Wood
@@ -60,10 +60,10 @@ Program Associate
 
 Bio Coming Soon!
 
-![Crikkett_DTPOC.jpeg](/uploads/Crikkett_DTPOC.jpeg)
 ## Crikkett Young
 Administrative Coordinator
 
+![Crikkett_DTPOC.jpeg](/uploads/Crikkett_DTPOC.jpeg)
 Crikkett Young is a musician and music teacher. They have worked and volunteered with RIOT RI since 2013, in roles ranging from Band Coach and Lessons Instructor to their current position as Administrative Coordinator. They’re working this fall to keep the RIOT ship on-course as we organize upcoming programming, keeping track of everyday details so the rest of the team can dream big! A classically trained oboist—still their first love—they have also found a lot of joy in helping youth and adult students explore self-expression with ukulele and bass guitar. They perform locally with the [Narragansett Bay Symphony Community Orchestra](https://www.nabsco.org) and can be found running around the streets with an alto saxophone and the [Extraordinary Rendition Band](https://www.extraordinaryrenditionband.com/)!
 
 # YOUTH ADVISORY BOARD
