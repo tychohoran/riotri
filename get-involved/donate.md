@@ -24,6 +24,7 @@ Visit our [volunteer page](/get-involved/volunteer.html) to learn about our fun 
 
 # STUFF
 
+## Music Gear
 We can often use music gear that is **decent quality and in working order**! If you would like to schedule a time to drop off donations, please contact us at info@riotri.org. All in-kind donations are tax-deductible, too!
 
 ## Space
