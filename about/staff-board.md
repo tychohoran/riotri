@@ -14,7 +14,6 @@ layout: page
 * Aloe Russell
 * Yasmine Hassan
 * Tatiana Dossantos
-* Christine Dechichio
 
 
 ![Lipou.jpg](/uploads/Lipou.jpg)
@@ -47,16 +46,9 @@ Yasmine Hassan [she/her] is an interdisciplinary artist (mechanical engineer by 
 
 Bio coming soon!
 
-![269603809_10165856928455397_3813795294895786522_n.jpg](/uploads/269603809_10165856928455397_3813795294895786522_n.jpg)
-## Christine Dechichio
-
-Christine Dechichio (she/her) is our most recent board member who has volunteered since 2013 in so many different roles from fundraising to gear roadie. She also has participated in several ladies rock camps & is a two time winner of our annual Battle of the Patriarchy! She's a full time creative consultant based out of Providence where she was born & raised. Christine works part time as a social media media manager & live music videographer, for a local live music venue & various Providence based artists. You can typically find her out at a vegan restaurant, combing the beach for treasures like a good pisces would, or travelling the country with her friends going to music festivals and following their favorite bands on tour. 
-
-
 
 # STAFF
-As of 2023 RIOT RI is once again a volunteer run organization with a very active working board.
-We are currently seeking out funding for the upcoming school year and hope to interview candidates for positions with RIOT RI around the fall of 2023. 
+As of 2024 RIOT RI is working to reboot our programming with a very active working board, dedicated volunteers, and a small group of contractors:
 
 ![denise-mathews-reidpath.jpg](/uploads/denise-mathews-reidpath.jpg)
 ## Denise Meza-Reidpath
