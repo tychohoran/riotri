@@ -1,6 +1,6 @@
 ---
 title: Group Lessons
-position: 1
+position: 2
 Has Visible Header: true
 Description: You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons
   are taught by our experienced instructors at our space at 763 Rear Westminster Street
