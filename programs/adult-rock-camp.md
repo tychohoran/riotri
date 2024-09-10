@@ -18,7 +18,7 @@ layout: page
 ---
 
 ## WHAT IS ADULT ROCK CAMP AND WHY?
-Adult Rock Camp (ARC) is a weekend day camp in Providence, RI that provides an opportunity for women, trans, and non-binary individuals 18+ to let loose for a long weekend and play music together. Adult Rock Camp was formerly called “Ladies Rock Camp”, but the name was changed to better reflect its participants. It is an intensive, three-day music and mentoring program for women, trans, and non-binary adults. The “grown-up” version of the summer camp for youth, the program brings together folks from different walks of life and all levels of musical experience for a long weekend of instrument lessons, songwriting, band practice, and workshops, all culminating in a showcase concert at a professional music venue. ***NO PRIOR MUSICAL EXPERIENCE IS NECESSARY!!***
+Adult Rock Camp (ARC) is a weekend day camp in or near Providence, RI that provides an opportunity for women, trans, and gender expansive individuals 18+ to let loose for a long weekend and play music together. It is an intensive, three-day music and mentoring program created to give adults an experience similar to our [Youth Rock Camp](/programs/youth-rock-camp.html). This “grown-up” version of camp brings together folks from different walks of life and all levels of musical experience for a long weekend of instrument lessons, songwriting, band practice, and workshops, all culminating in a showcase concert at a professional music venue. ***NO PRIOR MUSICAL EXPERIENCE IS NECESSARY!!***
 
 ## REGISTRATION and PAYMENT
 Next Adult Rock Camp is TBA! Capacity is limited to the first 30 participants. Flexible payment plans are available and a limited number of need-based scholarships are available on a first-come, first served basis for those who qualify.
@@ -52,5 +52,3 @@ Want to see what happens at Adult Rock Camp? Check out these photos and videos f
 * Showcase [videos by Julia Liu](https://youtu.be/k_MzTIpXx1A)
 
 ## [Frequently Asked Questions](/programs/adult-rock-camp/register.html#frequently-asked-questions)
-
-## [Register for Adult Rock Camp 2020](/programs/adult-rock-camp/register)
