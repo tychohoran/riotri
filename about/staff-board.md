@@ -57,7 +57,7 @@ Program Coordinator
 Ashley (aka Aloe) has been making music in Providence since arriving in 2016, notably with Prior Panic, What Cheer? Brigade, and hir own projects aloelonely and Wolf’s Milk. Ze’s worn many hats at RIOT over those years, from teaching group lessons and volunteering at camp to sitting on the board of directors starting in 2020. Now in 2024, Aloe is working on staff to plan and resource youth and adult programming which truly serves a community that has shown hir so much opportunity and grace. 
 
 ## Maddy Wood
-Program Program Associate
+Program Associate
 
 Bio Coming Soon!
 
