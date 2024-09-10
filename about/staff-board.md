@@ -50,12 +50,22 @@ Bio coming soon!
 # STAFF
 As of 2024 RIOT RI is working to reboot our programming with a very active working board, dedicated volunteers, and a small group of contractors:
 
-![denise-mathews-reidpath.jpg](/uploads/denise-mathews-reidpath.jpg)
-## Denise Meza-Reidpath
-Executive Consultant
+![aloe.jpeg](/uploads/aloe.jpeg)
+## Ashley Russell
+Program Coordinator
 
-Denise (she/her) is a bilingual educator who fiercely advocates for youth. She has a strong administrative background and experience as a Spanish interpreter/translator and has used her skills in roles within schools in Providence and Central Falls, the RI Disability Law Center, and the Institute for the Study and Practice of Nonviolence. Denise is also a community yoga instructor who has volunteered teaching yoga and participating in body image workshops at Girls Rock Camps and Ladies Rock Camps with a focus on intersectionality, body positivity and restorative healing practices. Denise is a Latinx feminista who loves tacos and flan. She is a self-taught vocalist who dabbles in the harmonica and ukulele with her band Tall and has diverse musical influences from Selena and Buffy Sainte Marie to the Grateful Dead.
+Ashley (aka Aloe) has been making music in Providence since arriving in 2016, notably with Prior Panic, What Cheer? Brigade, and hir own projects aloelonely and Wolf’s Milk. Ze’s worn many hats at RIOT over those years, from teaching group lessons and volunteering at camp to sitting on the board of directors starting in 2020. Now in 2024, Aloe is working on staff to plan and resource youth and adult programming which truly serves a community that has shown hir so much opportunity and grace. 
 
+## Maddy Wood
+Program Program Associate
+
+Bio Coming Soon!
+
+![Crikkett_DTPOC.jpeg](/uploads/Crikkett_DTPOC.jpeg)
+## Crikkett Young
+Administrative Coordinator
+
+Crikkett Young is a musician and music teacher. They have worked and volunteered with RIOT RI since 2013, in roles ranging from Band Coach and Lessons Instructor to their current position as Administrative Coordinator. They’re working this fall to keep the RIOT ship on-course as we organize upcoming programming, keeping track of everyday details so the rest of the team can dream big! A classically trained oboist—still their first love—they have also found a lot of joy in helping youth and adult students explore self-expression with ukulele and bass guitar. They perform locally with the [Narragansett Bay Symphony Community Orchestra](https://www.nabsco.org) and can be found running around the streets with an alto saxophone and the [Extraordinary Rendition Band](https://www.extraordinaryrenditionband.com/)!
 
 # YOUTH ADVISORY BOARD
 
