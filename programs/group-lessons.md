@@ -2,12 +2,9 @@
 title: Group Lessons
 position: 2
 Has Visible Header: true
-Description: You can rock out all year long with RIOT RI’s Group Lessons! Group Lessons
-  are taught by our experienced instructors at our space at 763 Rear Westminster Street
-  in Providence. Classes run in the winter, spring and fall.
-Header Button:
-  Text: Register
-  URL: "/programs/group-lessons/register"
+Description: Currently on hiatus, RIOT RI’s Group Lessons program allows you to rock
+  out all year long! In the past, we have offered group lessons for youth ages 10
+  to 17 and for adults 18+ in Bass, Drums, Guitar, Keys, Ukulele, and Vocals!
 Thumbnail Image: "/uploads/group-lessons.jpg"
 Slideshow Images:
 - "/uploads/group-lessons.jpg"
