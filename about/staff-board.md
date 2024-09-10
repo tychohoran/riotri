@@ -32,10 +32,9 @@ Reba Mitchell is a current board member who has volunteered since 2009 as a voca
 Abeer Khatana (she/her) joined the RIOT RI board in 2019 and currently serves as the chair of the Anti-Oppression Committee. She has volunteered as a workshop facilitator and has been a (very enthusiastic!!!) participant in RIOT RI's drum lessons for beginners. She has a background in community organizing, development, facilitation, and policy analysis. Abeer is deeply committed to genuine, intentional relationship building. Her superpower is connecting every conversation to the evils of capitalism.
 
 
-![Aloe%20Russell.JPG](/uploads/Aloe%20Russell.JPG)
-## Aloe Russell
+## Ashley Russell
 
-Aloe (she/her) has been working with RIOT! RI since 2016, first as a volunteer and then also teaching lessons. She's a musician, music teacher, community college student, and she does IT for AS220. Aloe is new to the board in 2020 and super psyched about deepening her relationship with this awesome organization!
+Ashley (aka Aloe) is currently both a Board member and one of RIOT's contractors. Read more about hir below!
 
 
 ## Yasmine Hassan
