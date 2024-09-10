@@ -25,7 +25,7 @@ Visit our [volunteer page](/get-involved/volunteer.html) to learn about our fun 
 # STUFF
 
 ## Music Gear
-We can often use music gear that is **decent quality and in working order**! If you would like to schedule a time to drop off donations, please contact us at info@riotri.org. All in-kind donations are tax-deductible, too!
+We can often use music gear that is **decent quality and in working order**! If you would like to schedule a time to drop off donations, please contact us at [info@riotri.org](mailto:info@riotri.org). All in-kind donations are tax-deductible, too!
 
 ## Space
 RIOT RI is always looking for donated space for our programming! If you have a venue, or a space that you think would be perfect to host a camp or workshop, let us know!
