@@ -11,7 +11,7 @@ layout: page
 * Lipou Laliemthavisay
 * Reba Mitchell, Co Chair
 * Abeer Khatana, Co Chair
-* Aloe Russell
+* Ashley (Aloe) Russell
 * Yasmine Hassan
 * Tatiana Dossantos
 
