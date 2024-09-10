@@ -35,7 +35,7 @@
 		      {% assign edited_content = content | markdownify | strip | replace: "<h1", "</div></section><section class='post-section'><h1 class='section-header'" | replace: "/h1>","/h1><div class='section-content'>" | replace: "<p><img", "<img" | replace_first: "</div></section>","</section>" %}
 		          {{ edited_content | replace: "></p>",">"}}
 		          <section class="subpage-links post news">
-		          {% for subpage in site.posts limit:0 %}
+		          {% for subpage in site.posts limit:4 %}
 			        <a class="subpage-link" id="{{subpage.title | slugify}}" style="background-image: url({{subpage['Thumbnail Image']}})" href="{{subpage.url}}">
 			          <div class="subpage-wrapper">
 			            <h1 class="subpage-date">{{subpage.date | date: "%m/%d" }}</h1>
