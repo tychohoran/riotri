@@ -30,7 +30,7 @@ Yasmine Hassan [she/her] is an interdisciplinary artist (mechanical engineer by 
 ## Tatiana Dossantos
 Bio coming soon!
 # STAFF
-As of 2024 RIOT RI is working to reboot our programming with a very active working board, dedicated volunteers, and a small group of contractors:
+**As of 2024 RIOT RI is working to reboot our programming with a very active working board, dedicated volunteers, and a small group of contractors:**
 ## Ashley Russell
 Program Coordinator
 ![aloe.jpeg](/uploads/aloe.jpeg)
