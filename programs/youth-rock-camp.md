@@ -66,4 +66,3 @@ At the end of the camp week, camper bands perform their original songs at a show
 * 3:30 Media literacy workshop: seeing magazines, television images critically
 * 4:30 Closing reflection
 
-## [Frequently Asked Questions](/programs/youth-rock-camp/register.html#frequently-asked-questions)
