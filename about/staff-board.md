@@ -26,7 +26,7 @@ layout: page
 ![Lipou.jpg](/uploads/Lipou.jpg)
 Lipou \[lee-pu, she/her/hers\] was born and raised in Providence, RI. While growing up, she always thought she would be an ambassador and allow all visa applications that came in. However, life took a different path. Coming from an immigrant family, she had a deep desire to work with and for marginalized communities, which then grew into a passion for indigent defense. Aside from being a public defender, she is a proud parent of two pitbulls, Kenya & Penny, and teaches criminal law & procedure part-time. She loves going on walks/hikes with the dogs and listening to music to de-stress. She is glad she was invited to join the Board in December 2018, though regretful she did not join the organization sooner. She recently took virtual drum classes @ RIOT and loved bangin' out Rage Against the Machine's Bulls on Parade!
 
-##
+
 ## Reba Mitchell
 
 ![RebaPic.jpg](/uploads/RebaPic.jpg)
