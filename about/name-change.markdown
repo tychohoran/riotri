@@ -33,6 +33,9 @@ In December 2019, the organization also chose to hire a new logo designer to ref
 
 From January to April, the organization has worked with Mx. Tirado to finalize the logo, branding, and assets. The official name and logo, along with the new website and social media handles were released on March 30, 2020.
 
+![RIOTRI_logo_horizontal_yellow_blue.jpg](/uploads/RIOTRI_logo_horizontal_yellow_blue.jpg)
+
+
 ## WHAT IT MEANS
 
 RIOT RI stands for Revolution in our Times Rhode Island. By keeping the word RIOT in the name, the organization nods to the roots of Girls Rock! Rhode Island, which was grown from the Riot Grrl movement. The full name nods to the social justice oriented mission of the organization, and the organization's commitment to challenge power structures along with empowering individuals. 
