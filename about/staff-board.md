@@ -94,7 +94,7 @@ The 5 key components of the youth advisory board: youth-led,  consistent engagem
 
 LYLAC has been key in moving the organization forward by taking part in different project such as:
 
-* New Name Initiative
+* [New Name Initiative](/about/#name-change)
 
 * Program Empowerment Evaluations
 
