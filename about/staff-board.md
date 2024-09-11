@@ -92,9 +92,9 @@ Passing the mic to youth leaders allows RIOT RI to have a relevant perspective o
 
 The 5 key components of the youth advisory board: youth-led,  consistent engagement, community agreements, creating a space for youth where youth can be themselves, taking active part in different organizational projects.
 
-LYLAC has been key in moving the organization forward by taking part in different project such as:
+LYLAC has been key in moving the organization forward by taking part in different projects such as:
 
-* New Name Initiative
+* [New Name Initiative](/about/#name-change)
 
 * Program Empowerment Evaluations
 
