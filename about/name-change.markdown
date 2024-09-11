@@ -6,7 +6,7 @@ position: 1
 
 ## WHY OUR NAME CHANGED
  
-In its mission, Girls Rock! Rhode Island, or GRR! (as RIOT RI was named at its founding) made a commitment to help foster the development of healthy identities of girls, women, trans and non-binary individuals. By 2020, our Board, staff, and community recognized that the very name under which the organization functioned was no longer empowering to our LGBTQ participants, staff, and volunteers.
+In its mission, Girls Rock! Rhode Island, or GRR! (as RIOT RI was named at its founding) made a commitment to help foster the development of healthy identities of girls, women, trans and gender expansive individuals. By 2020, our Board, staff, and community recognized that the very name under which the organization functioned was no longer empowering to our LGBTQ participants, staff, and volunteers.
  
 When the name of GRR! was originally imagined in 2009, the word “Girl” carried very different connotations than it does today. At the time the organization was formed, the Riot Grrl movement of the 1990s and early ‘00s still carried weight in the cultural zeitgeist as a symbol of inclusive, underground feminism in the music scene. As language has evolved and expanded over the past decade, that word “Girl” as it appears in our name now means something very different.
 
