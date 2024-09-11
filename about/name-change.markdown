@@ -17,7 +17,7 @@ By 2019-2020, our organization began to focus on internal anti-oppression practi
 
 Based on data from 2018, 40% of our volunteer base at that time identified as LGBTQ. 16% of our middle school participants and 23% of our high school participants identified as LGBTQ as well. According to PEW Research Center data, the median age for LGBT individuals to come out is 20 years old, so we could safely predict this number to be underreported.  The YRBS reported that 8% of high school age youth identify as LGBTQ; that number was nearly tripled in attendees of our 2018 high school camp. With this in mind, we had and have a responsibility to be a leader in organizational inclusivity.
 
-2019-2020 was a year of transition, during which we brought on new leadership, moved into a new space, and even created some new programs. It’s important to know, however, that our name change was in the works well before it became publicly visible. For years we were saying “We’re not just for girls, and we don’t just play rock!” We recognized that, if we had to specify that every time you said it, something wasn’t working.
+2019-2020 was a year of transition, during which we brought on new leadership, moved into a new space, and even created some new programs. It’s important to know, however, that our name change was in the works well before it became publicly visible. For years we were saying “We’re not just for girls, and we don’t just play rock!” We recognized that, if we had to specify that every time we said it, something wasn’t working.
 
 ## HOW WE CHOSE IT
 
