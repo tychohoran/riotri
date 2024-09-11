@@ -38,7 +38,7 @@ Reba Mitchell is a current Board member who has volunteered since 2009 as a voca
 
 ![Abeer.jpg](/uploads/Abeer.jpg)
 
-Abeer Khatana (she/her) joined the RIOT RI board in 2019 and currently serves as the chair of the Anti-Oppression Committee. She has volunteered as a workshop facilitator and has been a (very enthusiastic!!!) participant in RIOT RI's drum lessons for beginners. She has a background in community organizing, development, facilitation, and policy analysis. Abeer is deeply committed to genuine, intentional relationship building. Her superpower is connecting every conversation to the evils of capitalism.
+Abeer Khatana (she/her) joined the RIOT RI Board in 2019 and currently serves as the chair of the Anti-Oppression Committee. She has volunteered as a workshop facilitator and has been a (very enthusiastic!!!) participant in RIOT RI's drum lessons for beginners. She has a background in community organizing, development, facilitation, and policy analysis. Abeer is deeply committed to genuine, intentional relationship building. Her superpower is connecting every conversation to the evils of capitalism.
 
 ## Ashley Russell
 
@@ -54,7 +54,7 @@ Bio coming soon!
 
 # STAFF
 
-**As of 2024 RIOT RI is working to reboot our programming with a very active working board, dedicated volunteers, and a small group of contractors:**
+**As of 2024 RIOT RI is working to reboot our programming with a very active working Board, dedicated volunteers, and a small group of contractors:**
 
 ## Ashley Russell
 
@@ -62,7 +62,7 @@ Program Coordinator
 
 ![aloe](/uploads/aloe.jpeg)
 
-Ashley (aka Aloe) has been making music in Providence since arriving in 2016, notably with Prior Panic, What Cheer? Brigade, and hir own projects aloelonely and Wolf’s Milk. Ze’s worn many hats at RIOT over those years, from teaching group lessons and volunteering at camp to sitting on the board of directors starting in 2020. Now in 2024, Aloe is working on staff to plan and resource youth and adult programming which truly serves a community that has shown hir so much opportunity and grace.
+Ashley (aka Aloe) has been making music in Providence since arriving in 2016, notably with Prior Panic, What Cheer? Brigade, and hir own projects aloelonely and Wolf’s Milk. Ze’s worn many hats at RIOT over those years, from teaching group lessons and volunteering at camp to sitting on the Board of directors starting in 2020. Now in 2024, Aloe is working on staff to plan and resource youth and adult programming which truly serves a community that has shown hir so much opportunity and grace.
 
 ## Maddy Wood
 
