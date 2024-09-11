@@ -24,15 +24,15 @@ layout: page
 ## Lipou Laliemthavisay
 
 ![Lipou.jpg](/uploads/Lipou.jpg)
-Lipou \[lee-pu, she/her/hers\] was born and raised in Providence, RI. While growing up, she always thought she would be an ambassador and allow all visa applications that came in. However, life took a different path. Coming from an immigrant family, she had a deep desire to work with and for marginalized communities, which then grew into a passion for indigent defense. Aside from being a public defender, she is a proud parent of two pitbulls, Kenya & Penny, and teaches criminal law & procedure part-time. She loves going on walks/hikes with the dogs and listening to music to de-stress. She is glad she was invited to join the board in December 2018, though regretful she did not join the organization sooner. She recently took virtual drum classes @ RIOT and loved bangin' out Rage Against the Machine's Bulls on Parade!
-.
+Lipou \[lee-pu, she/her/hers\] was born and raised in Providence, RI. While growing up, she always thought she would be an ambassador and allow all visa applications that came in. However, life took a different path. Coming from an immigrant family, she had a deep desire to work with and for marginalized communities, which then grew into a passion for indigent defense. Aside from being a public defender, she is a proud parent of two pitbulls, Kenya & Penny, and teaches criminal law & procedure part-time. She loves going on walks/hikes with the dogs and listening to music to de-stress. She is glad she was invited to join the Board in December 2018, though regretful she did not join the organization sooner. She recently took virtual drum classes @ RIOT and loved bangin' out Rage Against the Machine's Bulls on Parade!
+[]
 
 
 ## Reba Mitchell
 
 ![RebaPic.jpg](/uploads/RebaPic.jpg)
 
-Reba Mitchell is a current board member who has volunteered since 2009 as a vocal instructor, band coach, workshop leader, and GRIT coordinator. She spends most of her time in a 3x5 iso booth as an audiobook narrator (having recorded over 200 titles and receiving a coveted Earphones Award), and, in order to escape the box and remain part of society, at Flipp Salon as a hairdresser. She holds degrees in Women's Studies and Cosmetology. Yes, her hairstyle is specifically engineered to accommodate wearing headphones six hours a day.
+Reba Mitchell is a current Board member who has volunteered since 2009 as a vocal instructor, band coach, workshop leader, and GRIT coordinator. She spends most of her time in a 3x5 iso booth as an audiobook narrator (having recorded over 200 titles and receiving a coveted Earphones Award), and, in order to escape the box and remain part of society, at Flipp Salon as a hairdresser. She holds degrees in Women's Studies and Cosmetology. Yes, her hairstyle is specifically engineered to accommodate wearing headphones six hours a day.
 
 ## Abeer Khatana
 
