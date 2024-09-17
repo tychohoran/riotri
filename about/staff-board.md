@@ -67,7 +67,9 @@ Ashley (aka Aloe) has been making music in Providence since arriving in 2016, no
 
 Program Associate
 
-Bio Coming Soon!
+![Maddy_guitar_cropped](/uploads/Maddy_guitar_cropped.jpeg)
+
+[Maddy Wood](https://linktr.ee/maddywood25) is a 25-year-old singer/songwriter, performer, composer, and recording artist from Providence, Rhode Island. She has been involved with RIOT as a camper from 2012-2015, and is working this fall to organize the upcoming RIOT programming and events alongside the rest of the team. Maddy is extremely passionate about RIOT and credits it as a major part of the foundation for the artist and woman that she is today. Maddy is currently earning her Masters degree in Composition at the University of Rhode Island, and you can catch her playing shows with her band all over Rhode Island. 
 
 ## Crikkett Young
 
