@@ -33,7 +33,7 @@ In December 2019, the organization also chose to hire a new logo designer to ref
 
 From January to April, the organization has worked with Mx. Tirado to finalize the logo, branding, and assets. The official name and logo, along with the new website and social media handles were released on March 30, 2020.
 
-![RIOTRI_logo_horizontal_yellow_blue.jpg](/uploads/RIOTRI_logo_horizontal_yellow_blue.jpg)
+![Google%20Form%20Header.png](/uploads/Google%20Form%20Header.png)
 
 
 ## WHAT IT MEANS
