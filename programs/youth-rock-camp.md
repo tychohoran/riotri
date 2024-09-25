@@ -20,7 +20,15 @@ Youth Rock Camp (previously called Girls Rock Camp) is an intensive one-week day
 
 In addition to all this, campers will have the opportunity to meet other girls, trans and nonbinary youth, musicians, and mentors, and participate in enrichment activities such as workshops on media literacy or screen-printing. GRR! welcomes campers that identify as female, trans, and gender expansive.
 
-Check out tons of pictures, videos, and blog entries by our Girls Rock Internship & Training (GRIT) and Volunteer-in-Training (VIT) program participants [on our blog!](/news/)
+**In Campers' Own Words**
+
+"You’re going to have a lot of fun and make some great friends and memories!!"
+
+"you’ll have a fun time and always feel safe"
+
+"Riot is an amazing experience, it only gets better as you get further into the weeks and you start to know everybody better."
+
+"don’t be afraid to be yourself, that’s the best you"
  
 ## Youth Rock Camp
 
