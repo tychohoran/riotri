@@ -2,9 +2,9 @@
 title: Youth Rock Camp
 position: 0
 Has Visible Header: true
-Description: Youth Rock Camp is an intensive one-week day camp offered to youth ages
-  10-18, where campers of all skill levels have the opportunity to learn guitar, bass,
-  drums, vocals, or other instruments.
+Description: Youth Rock Camp is an intensive one-week day camp offered to girls, trans
+  and gender expansive youth, ages 10-18. Campers of all skill levels will learn guitar,
+  bass, drums, keyboard, or vocals; form a band; write a song; and perform in a showcase!
 Thumbnail Image: "/uploads/youth-rock-camp.jpeg"
 Slideshow Images:
 - "/uploads/youth-rock-camp.jpeg"
@@ -16,7 +16,7 @@ layout: page
 ---
 
 ## WHAT IS YOUTH ROCK CAMP?
-Youth Rock Camp (previously called Girls Rock Camp) is an intensive one-week day camp offered to girls, trans and nonbinary youth, ages 10-18. Campers of all skill levels will: learn guitar, bass, drums, keyboards, or vocals; form a band, create a band name and logo; collaboratively write an original song; AND perform at the final Showcase for friends, family, and fans!
+Youth Rock Camp (previously called Girls Rock Camp) is an intensive one-week day camp offered to girls, trans and gender expansive youth, ages 10-18. Campers of all skill levels will: learn guitar, bass, drums, keyboards, or vocals; form a band, create a band name and logo; collaboratively write an original song; AND perform at the final Showcase for friends, family, and fans!
 
 In addition to all this, campers will have the opportunity to meet other girls, trans, and gender expansive youth, musicians, and mentors, and participate in enrichment activities such as workshops on media literacy or screen-printing.
 
