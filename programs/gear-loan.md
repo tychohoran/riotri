@@ -1,6 +1,6 @@
 ---
 title: Gear Loan
-position: 1
+position: 2
 Has Visible Header: true
 Has Subpages Embedded: false
 Description: We have historically loaned gear to program participants and volunteers

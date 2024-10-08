@@ -1,6 +1,6 @@
 ---
 title: Group Lessons
-position: 2
+position: 3
 Has Visible Header: true
 Description: Currently on hiatus, RIOT RI’s Group Lessons program allows you to rock
   out all year long! In the past, we have offered group lessons for youth ages 10

@@ -1,6 +1,6 @@
 ---
 title: Youth Rock Camp
-position: 0
+position: 1
 Has Visible Header: true
 Description: Youth Rock Camp is an intensive one-week day camp offered to girls, trans
   and gender expansive youth, ages 10-18. Campers of all skill levels will learn guitar,
