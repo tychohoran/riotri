@@ -2,6 +2,9 @@
 title: Volunteer
 position: 2
 Has Visible Header: true
+Header Button:
+  Text: VOLUNTEER FOR ADULT ROCK CAMP 2025!
+  URL: https://forms.gle/iNrwFdJoJ1ytK5CU8
 Thumbnail Image: "/uploads/volunteer.jpg"
 Slideshow Images:
 - "/uploads/volunteer.jpg"
