@@ -1,6 +1,6 @@
 ---
 title: Adult Rock Camp
-position: 3
+position: 0
 Has Visible Header: true
 Description: Adult Rock Camp (ARC) is a weekend day camp in or near Providence, RI
   that provides an opportunity for women, trans, and gender expansive individuals
