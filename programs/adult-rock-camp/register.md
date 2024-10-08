@@ -5,20 +5,20 @@ position: 1
 layout: page
 ---
 
-**Registration is not yet open** for our Fall 2023 Adult Rock Camp. Keep an eye out for Registration!:
+**Registration is now open** for our Winter 2025 Adult Rock Camp!:
 
-## [ADULT ROCK CAMP FALL 2023 APPLICATION](https://docs.google.com/forms/d/e/1FAIpQLSf0-q5812TCf3Qbq_lMUcXqu95jLEVOQ_O8E_40RmND3wyWvw/viewform)
+## [ADULT ROCK CAMP WINTER 2025 REGISTRATION](https://forms.gle/KieYdHpHuhbtAp1J8)
 
-To register someone else as a gift, click the button below:
+To give the gift of Adult Rock Camp, click the button below:
 
-[ADULT ROCK CAMP SPRING 2023 AS A GIFT](https://docs.google.com/forms/d/e/1FAIpQLSff56PDJ0Og0qoAfoydk4imIfnaxZhVqF3006NNz0U3sFL3uA/viewform)
+[GIVE ADULT ROCK CAMP WINTER 2025 AS A GIFT](https://forms.gle/bUrtAd3Bmjb4BehG8)
 
 # Frequently Asked Questions
 
 ## WHAT IS ADULT ROCK CAMP?
 
-Click here for more info about Adult Rock Camp.  
-This program was formerly called “Ladies Rock Camp”, but has been renamed to reflect the inclusivity of our program. Adult Rock Camp is open to women, trans, and non-binary adults 18+.
+[Click here](/adult-rock-camp.html) for more info about Adult Rock Camp.  
+This program was formerly called “Ladies Rock Camp”, but has been renamed to reflect the inclusivity of our program. Adult Rock Camp is open to women, trans, and gender expansive adults 18+.
 
 ## DATE
 
@@ -33,9 +33,13 @@ This program was formerly called “Ladies Rock Camp”, but has been renamed to
 
 JamStage music complex and practice space is located at 25 Esten Ave. in Pawtucket, RI, less than 5 miles from downtown Providence off of I-95. Their facility was created specifically for musicians. Each room includes professional musical equipment, as well as the ability to record practices. JamStage also has… you guessed it! A stage! With great lights and a professional sound system! We think you will enjoy your rock experience there quite a bit. For more info visit [www.jamstage.net](www.jamstage.net).
 
+**Accessibility information:**
+The entrance to Jamstage has seven stairs outdoors, plus one step up between the lobby entrance and restrooms. The entrance to our showcase venue may also involve some steps.
+There will be a quiet/chill room available for campers to step away from the noise as needed. We recommend wearing hearing protection during camp activities—this is a LOUD environment! 
+
 ## TUITION
 
-The cost of camp is $395.00. PAYMENT MUST BE INCLUDED WITH YOUR APPLICATION. You will be able to pay through our website as the last step of the ARC registration. Adult Rock Camp is implemented to generate awareness for RIOT RI, as well as reach out to those who support our mission. Tuition has been set at the absolute lowest amount possible (below our own costs for the program) and meet expected financial goals for our programs. We have a limited number of scholarships available. We also have flexible payment plans available (see below for payment options)! Please contact Co-Executive Director, Rikki Davis at [rikki@riotri.org](mailto:rikki@riotri.org) for more information.
+The cost of camp is $395, or $425 with limited-edition RIOT RENAISSANCE merch. All gift registrations are priced to include limited-edition merch. Payment is needed to complete the registration process. We accept payment via check or PayPal. We have a limited number of scholarships available. Please contact us at [info@riotri.org](mailto:info@riotri.org) for more information.
 
 ## PAYMENT
 
