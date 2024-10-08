@@ -39,7 +39,7 @@ There will be a quiet/chill room available for campers to step away from the noi
 
 ## TUITION
 
-The cost of camp is $395, or $425 with limited-edition RIOT RENAISSANCE merch. All gift registrations are priced to include limited-edition merch. Payment is needed to complete the registration process. We accept payment via check or PayPal. We have a limited number of scholarships available. Please contact us at [info@riotri.org](mailto:info@riotri.org) for more information.
+The cost of camp is $395, or $425 with limited-edition RIOT RENAISSANCE merch. All gift registrations are priced to include the limited-edition merch. Payment is needed to complete the registration process. We accept payment via check or PayPal. We have a limited number of scholarships available. Please contact us at [info@riotri.org](mailto:info@riotri.org) for more information.
 
 ## PAYMENT
 
