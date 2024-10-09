@@ -53,7 +53,7 @@ Space is limited to 30 participants, first come, first served. Please note that 
 
 ## ENROLLMENT PROCESS AND CONFIRMATION
 
-We will confirm your enrollment via email as soon as we process your registration and no later than two weeks before camp. If instrument spots fill up before your registration reaches us, we will notify you and automatically assign you to your second instrument choice. We will add you to a waiting list for your first instrument choice. We will announce on our website when enrollment is full and we will cut off registration at that time.
+We can process your registration as soon as we have received your registration form and payment. We will confirm your enrollment via email as soon as possible after receiving both of these pieces, and no later than two weeks before camp. If spots for your first-choice instrument fill up before your registration reaches us, we will notify you and automatically assign you to your second instrument choice. We will also add you to a waiting list for your first choice. We will announce on our website when enrollment is full and we will cut off registration at that time.
 
 ## CANCELLATION POLICY
 
@@ -62,6 +62,8 @@ If you need to cancel, please notify the office right away. If you have submitte
 ## ACCOMMODATIONS FOR OUT-OF-TOWNERS
 
 Adult Rock Camp does not provide accommodations for the weekend, but we can help you connect with another rocker if you need a place to stay. Please indicate your request on the registration form, and contact us at [info@girlsrockri.org](mailto:info@girlsrockri.org) with any further questions.
+
+If you live locally and can host a fellow camper from out-of-town, please let us know when you register! YOU ROCK!! 
 
 ## SCHEDULE
 
