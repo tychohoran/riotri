@@ -1,7 +1,7 @@
 ---
 title: Sponsor
 permalink: "/sponsor"
-position: 1
+position: 2
 Has Photo Banner: false
 Has Visible Header: true
 Header Button:

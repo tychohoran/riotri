@@ -1,6 +1,6 @@
 ---
 title: Volunteer
-position: 2
+position: 1
 Has Visible Header: true
 Header Button:
   Text: VOLUNTEER FOR ADULT ROCK CAMP 2025!
