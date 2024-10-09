@@ -24,10 +24,10 @@ This program was formerly called “Ladies Rock Camp”, but has been renamed to
 ## DATE
 
 **Camp Dates and Times:**
-* Friday, January 31 – 11:00am–8pm, group karaoke from 8-10pm!
-* Saturday, February 1 – 9am-7pm
-* Sunday, February 2 – 9am-4pm
-* Showcase 7-8:30 pm
+* **Friday, January 31**  11:00 a.m. – 8:00 p.m., group karaoke from 8-10pm!
+* **Saturday, February 1**  9:00 a.m. - 7:00 p.m.
+* **Sunday, February 2**  9:00 a.m. - 4:00 p.m.
+* **Sunday Showcase** 5:00 p.m. arrival, 7:00 - 8:30 p.m. show
 * (EXACT TIMES MAY CHANGE)
 
 ## LOCATION
