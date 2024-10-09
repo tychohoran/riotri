@@ -7,7 +7,7 @@ Description: Adult Rock Camp (ARC) is a weekend day camp in or near Providence, 
   18+ to let loose for a long weekend and play music together.
 Header Button:
   Text: REGISTER FOR ADULT ROCK CAMP 2025
-  URL: https://forms.gle/KieYdHpHuhbtAp1J8
+  URL: "/programs/adult-rock-camp/register.html"
 Thumbnail Image: "/uploads/adult-rock-camp.jpg"
 Slideshow Images:
 - "/uploads/adult-rock-camp.jpg"
@@ -18,10 +18,10 @@ layout: page
 ---
 
 ## WHAT IS ADULT ROCK CAMP AND WHY?
-Adult Rock Camp (ARC) is a weekend day camp in or near Providence, RI that provides an opportunity for women, trans, and gender expansive individuals 18+ to let loose for a long weekend and play music together. It is an intensive, three-day music and mentoring program created to give adults an experience similar to our [Youth Rock Camp](/programs/youth-rock-camp.html). This “grown-up” version of camp brings together folks from different walks of life and all levels of musical experience for a long weekend of instrument lessons, songwriting, band practice, and workshops, all culminating in a showcase concert at a professional music venue. ***NO PRIOR MUSICAL EXPERIENCE IS NECESSARY!!***
+Adult Rock Camp (ARC) is a weekend day camp in Pawtucket, RI that provides an opportunity for women, trans, and gender expansive individuals 18+ to let loose for a long weekend and play music together. It is an intensive, three-day music and mentoring program created to give adults an experience similar to our [Youth Rock Camp](/programs/youth-rock-camp.html). This “grown-up” version of camp brings together folks from different walks of life and all levels of musical experience for a long weekend of instrument lessons, songwriting, band practice, and workshops, all culminating in a showcase concert at a professional music venue. ***NO PRIOR MUSICAL EXPERIENCE IS NECESSARY!!***
 
 ## REGISTRATION and PAYMENT
-Next Adult Rock Camp is Friday, Janau! Capacity is limited to the first 30 participants. Flexible payment plans are available and a limited number of need-based scholarships are available on a first-come, first served basis for those who qualify.
+Next Adult Rock Camp is Friday, January 31 - Sunday, February 2! Capacity is limited to the first 30 participants. Flexible payment plans are available and a limited number of need-based scholarships are available on a first-come, first served basis for those who qualify.
 
 ## LESSONS
 Participants choose one instrument to focus on for the weekend–drums, bass, guitar, vocals, or keyboards. All instruction happens in small group lessons and is led by experienced and enthusiastic women, trans, or gender-expansive musicians.
