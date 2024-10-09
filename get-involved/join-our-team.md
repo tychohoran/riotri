@@ -1,7 +1,7 @@
 ---
 title: Join Our Team
 published: false
-position: 5
+position: 3
 Has Photo Banner: false
 Has Visible Header: true
 Thumbnail Image: "/uploads/join-our-team.jpg"
