@@ -40,9 +40,7 @@ Contact us at [info@riotri.org](mailto:info@riotri.org) to learn more. Get ready
 
 ## HOSPITALITY TEAM MEMBERS
 (any gender; NO experience needed) Great news for folks with no music experience, there will be PLENTY of work for you if you want to help! Throughout the week you will be called upon to help with daily morning set up, camper check-in/out, hall monitoring, workshop room setup/breakdown, food set up and take down, serving lunch to volunteers, merch sales, volunteer break room maintenance, errand-running, general clean-up duties, and other tasks that help everyone have a great day at rock camp!  
-**TIME: Shifts available all day**
 
 ## NURSES, DOCTORS, LICENSED SOCIAL WORKERS
 (any gender; experience required) Available on-site or on-call throughout the day as a point person for medical emergencies, mental health issues, minor accidents, helping campers with special medical needs, prescriptions, and assisting the support and administrative team as needed. Combines well with other volunteer positions such as hospitality team, workshop leader, etc.  
-**TIME: Shifts available**
  
