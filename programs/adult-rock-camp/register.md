@@ -18,7 +18,7 @@ To give the gift of Adult Rock Camp, click the button below:
 
 ## WHAT IS ADULT ROCK CAMP?
 
-[Click here](/adult-rock-camp.html) for more info about Adult Rock Camp.  
+[Click here](/programs/adult-rock-camp.html) for more info about Adult Rock Camp.  
 This program was formerly called “Ladies Rock Camp”, but has been renamed to reflect the inclusivity of our program. Adult Rock Camp is open to women, trans, and gender-expansive adults 18+.
 
 ## DATE
