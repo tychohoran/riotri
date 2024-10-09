@@ -13,7 +13,7 @@ layout: page
 
 # VOLUNTEER TO HELP MAKE RIOT RI'S PROGRAMS HAPPEN!
 
-Our Rock Camps (Adult and Youth) and other programs rely on volunteers to make the magic happen! Our next upcoming program is Adult Rock Camp, happening in early 2025! Other programs are TBA, but we are always looking for community members interested in helping out. Volunteering with RIOT RI is fun and rewarding, and there are flexible positions available for folks of all genders, with or without musical experience! Volunteers must be at least 18 years of age or older. For new volunteers, our Volunteer Coordinator will reach out to learn more about you. Descriptions for camp-related volunteer positions are below, and there are often other opportunities at various times throughout the year.
+Our Rock Camps (Adult and Youth) and other programs rely on volunteers to make the magic happen! Our next upcoming program is [Adult Rock Camp](/programs/adult-rock-camp.html), happening in early 2025! Other programs are TBA, but we are always looking for community members interested in helping out. Volunteering with RIOT RI is fun and rewarding, and there are flexible positions available for folks of all genders, with or without musical experience! Volunteers must be at least 18 years of age or older. For new volunteers, our Volunteer Coordinator will reach out to learn more about you. Descriptions for camp-related volunteer positions are below, and there are often other opportunities at various times throughout the year.
 
 Contact us at [info@riotri.org](mailto:info@riotri.org) to learn more. Get ready to join the fun!
 
