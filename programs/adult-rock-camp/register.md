@@ -32,7 +32,7 @@ This program was formerly called “Ladies Rock Camp”, but has been renamed to
 
 ## LOCATION
 
-JamStage music complex and practice space is located at 25 Esten Ave. in Pawtucket, RI, less than 5 miles from downtown Providence off of I-95. Their facility was created specifically for musicians. Each room includes professional musical equipment, as well as the ability to record practices. JamStage also has… you guessed it! A stage! With great lights and a professional sound system! We think you will enjoy your rock experience there quite a bit. For more info visit [www.jamstage.net](www.jamstage.net).
+JamStage music complex and practice space is located at 25 Esten Ave. in Pawtucket, RI, less than 5 miles from downtown Providence off of I-95. Their facility was created specifically for musicians. Each room includes professional musical equipment, as well as the ability to record practices. JamStage also has… you guessed it! A stage! With great lights and a professional sound system! We think you will enjoy your rock experience there quite a bit. For more info visit [their website](http://jamstage.net/).
 
 **Accessibility information:**
 The entrance to Jamstage has seven stairs outdoors, plus one step up between the lobby entrance and restrooms. The entrance to our showcase venue may also involve some steps.
