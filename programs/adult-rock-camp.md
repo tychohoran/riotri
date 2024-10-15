@@ -20,6 +20,9 @@ layout: page
 ## WHAT IS ADULT ROCK CAMP AND WHY?
 Adult Rock Camp (ARC) is a weekend day camp in Pawtucket, RI that provides an opportunity for women, trans, and gender-expansive individuals 18+ to let loose for a long weekend and play music together. It is an intensive, three-day music and mentoring program created to give adults an experience similar to our [Youth Rock Camp](/programs/youth-rock-camp.html). This “grown-up” version of camp brings together folks from different walks of life and all levels of musical experience for a long weekend of instrument lessons, songwriting, band practice, and workshops, all culminating in a showcase concert at a professional music venue. ***NO PRIOR MUSICAL EXPERIENCE IS NECESSARY!!***
 
+## [Frequently Asked Questions](/programs/adult-rock-camp/register.html#frequently-asked-questions)
+## [Register Now!](/programs/adult-rock-camp/register.html)
+
 All of our programs rely on our fantastic volunteer community to make the magic happen. Want to help out?
 
 ## [Learn more about volunteering at camp!](/get-involved/volunteer.html)
@@ -54,5 +57,3 @@ Want to see what happens at Adult Rock Camp? Check out these photos and videos f
 * [Ladies Rock Camp Spring 2019 Behind-The-Scenes](https://flic.kr/s/aHsmBD1RaM) by [Rue Sakayama](https://ruesakayama.com/)
 * [Ladies Rock Camp 2018 Showcase](https://flic.kr/s/aHsmrfpt4S) by Keri Denison-Leidecker
 * [Ladies Rock Camp 2018 Band Portraits](https://flic.kr/s/aHsmvFJDiS) by Keri Denison-Leidecker
-
-## [Frequently Asked Questions](/programs/adult-rock-camp/register.html#frequently-asked-questions)
