@@ -47,10 +47,10 @@ At Rock Camp, we know how to have a good time. The camp day is interspersed with
 *“Loved every minute of it. Perfect introduction to drumming and playing as part of a band”* – Adult Rock Camper
 
 ## CHECK IT OUT!
-Want to see what happens at Adult Rock Camp? Check out these photos and videos from the Spring 2017 session:
-* [Behind the scenes](https://www.flickr.com/photos/girlsrockri/albums/72157682347672886) photos
-* More behind the scenes [photos by Jaime Lowe](https://www.flickr.com/photos/girlsrockri/albums/72157679740745432)
-* Showcase concert [photos by Lydia Mackela](https://www.flickr.com/photos/girlsrockri/albums/72157678432176333)
-* Showcase [videos by Julia Liu](https://youtu.be/k_MzTIpXx1A)
+Want to see what happens at Adult Rock Camp? Check out these photos and videos from camps sessions in 2018 & 2019:
+* [Ladies Rock Camp Spring 2019 Band Photos](https://flic.kr/s/aHskTm2f6Y) by [Rue Sakayama](https://ruesakayama.com/)
+* [Ladies Rock Camp Spring 2019 Behind-The-Scenes](https://flic.kr/s/aHsmBD1RaM) by [Rue Sakayama](https://ruesakayama.com/)
+* [Ladies Rock Camp 2018 Showcase](https://flic.kr/s/aHsmrfpt4S) by Keri Denison-Leidecker
+* [Ladies Rock Camp 2018 Band Portraits](https://flic.kr/s/aHsmvFJDiS) by Keri Denison-Leidecker
 
 ## [Frequently Asked Questions](/programs/adult-rock-camp/register.html#frequently-asked-questions)
