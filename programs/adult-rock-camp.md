@@ -51,10 +51,20 @@ At Rock Camp, we know how to have a good time. The camp day is interspersed with
 *“I haven’t written or played music since high school, and after camp yesterday I went home and wrote songs until 3am.”* – Adult Rock Camper  
 *“Loved every minute of it. Perfect introduction to drumming and playing as part of a band”* – Adult Rock Camper
 
-## CHECK IT OUT!
-Want to see what happens at Adult Rock Camp? Check out these photos and videos from camps sessions in 2018 & 2019:
+# CHECK IT OUT!
+
+## Ladies Rock Camp Spring 2019 Band Photos
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/riotrhodeisland/albums/72157679601525338" title="Ladies Rock Camp Spring 2019 Band Photos"><img src="https://live.staticflickr.com/7880/33610960968_1544491a0e_z.jpg" width="640" height="480" alt="Ladies Rock Camp Spring 2019 Band Photos"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Ladies Rock Camp Spring 2019 Behind-the-Scenes Photos
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/riotrhodeisland/albums/72157707360812875" title="Ladies Rock Camp Spring 2019"><img src="https://live.staticflickr.com/7896/32545633877_8977581d0d_z.jpg" width="640" height="480" alt="Ladies Rock Camp Spring 2019"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Ladies Rock Camp Fall 2018 Showcase
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/riotrhodeisland/albums/72157700541379012" title="Ladies Rock Camp Fall 2018 Showcase"><img src="https://live.staticflickr.com/4843/45907669352_f15f27940f_z.jpg" width="640" height="480" alt="Ladies Rock Camp Fall 2018 Showcase"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## Ladies Rock Camp 2018 Band Portraits
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/riotrhodeisland/albums/72157703453460064" title="Ladies Rock Camp 2018 Band Portraits"><img src="https://live.staticflickr.com/1978/45139117964_ee4a4635d4_z.jpg" width="640" height="480" alt="Ladies Rock Camp 2018 Band Portraits"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
