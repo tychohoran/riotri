@@ -8,7 +8,7 @@ layout: page
 
 **Adult Rock Camp will take place Friday, January 31, through Sunday, February 2, 2025. This program is open to women, trans and gender-expansive adults ages 18+**
 
-## [REGISTER FOR ADULT ROCK CAMP WINTER 2025](https://forms.gle/GxvNXvFVxSE4RwUQA)
+## <a href="https://forms.gle/GxvNXvFVxSE4RwUQA" target="_blank">REGISTER FOR ADULT ROCK CAMP WINTER 2025</a>
 
 ## [GIVE ADULT ROCK CAMP WINTER 2025 AS A GIFT!](https://forms.gle/SvAzcLaK6MTWVub18)
 
