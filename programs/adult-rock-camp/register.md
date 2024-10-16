@@ -31,7 +31,7 @@ This program was formerly called “Ladies Rock Camp”, but has been renamed to
 
 ## LOCATION
 
-JamStage music complex and practice space is located at 25 Esten Ave. in Pawtucket, RI, less than 5 miles from downtown Providence off of I-95. Their facility was created specifically for musicians. Each room includes professional musical equipment, as well as the ability to record practices. JamStage also has… you guessed it! A stage! With great lights and a professional sound system! We think you will enjoy your rock experience there quite a bit. For more info visit [their website](http://jamstage.net/).
+JamStage music complex and practice space is located at 25 Esten Ave. in Pawtucket, RI, less than 5 miles from downtown Providence off of I-95. Their facility was created specifically for musicians. Each room includes professional musical equipment, as well as the ability to record practices. JamStage also has… you guessed it! A stage! With great lights and a professional sound system! We think you will enjoy your rock experience there quite a bit. For more info visit <a href="http://jamstage.net/" target="_blank">their website</a>.
 
 **Accessibility information:**
 The entrance to Jamstage has seven stairs outdoors, plus one step up between the lobby entrance and restrooms. The entrance to our showcase venue may also involve some steps.
@@ -44,7 +44,7 @@ The cost of camp is $395, or $425 with a limited-edition RIOT RENAISSANCE t-shir
 
 ## PAYMENT
 
-Payment can be made in full via check to RIOT RI, P.O. Box 23371, Providence, RI 02903. We can also accept online payments via [PayPal](https://www.paypal.com/paypalme/riotrhodeisland).
+Payment can be made in full via check to RIOT RI, P.O. Box 23371, Providence, RI 02903. We can also accept online payments via <a href="https://www.paypal.com/paypalme/riotrhodeisland" target="_blank">PayPal</a>.
 
 ## CAPACITY AND ADMISSIONS POLICY
 
