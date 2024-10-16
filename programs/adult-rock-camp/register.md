@@ -18,7 +18,7 @@ layout: page
 
 This program was formerly called “Ladies Rock Camp”, but has been renamed to reflect the inclusivity of our program. Adult Rock Camp is open to women, trans, and gender-expansive adults 18+.
 
-[Click here](/programs/adult-rock-camp.html) for more info about Adult Rock Camp. 
+<a href="https://riotri.org/programs/adult-rock-camp" target="_blank">Click here</a> for more info about Adult Rock Camp. 
 
 ## DATE
 
