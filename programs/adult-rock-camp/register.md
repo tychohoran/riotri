@@ -75,6 +75,6 @@ RIOT RI does not discriminate on the basis of race, religion, national and/or et
 
 ## ADULT ROCK CAMP AS A GIFT
 
-Want to give Adult Rock Camp as a gift? That’s great! We have a [Gift Registration Form](https://forms.gle/SvAzcLaK6MTWVub18) specifically for you, and your gift includes a limited-edition RIOT RENAISSANCE t-shirt or tote bag!
+Want to give Adult Rock Camp as a gift? That’s great! We have a <a href="https://forms.gle/SvAzcLaK6MTWVub18" target="_blank">Gift Registration Form</a> specifically for you, and your gift includes a limited-edition RIOT RENAISSANCE t-shirt or tote bag!
 
 Your completed gift registration, which includes the form and your payment, will save your camper's spot. We will follow up with you promptly - and quietly! - and save the surprise until after the "spoiler-free" date you give us. We will contact your camper to complete the full registration form after that date.
