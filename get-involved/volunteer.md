@@ -17,6 +17,10 @@ Our Rock Camps (Adult and Youth) and other programs rely on volunteers to make t
 
 Contact us at [info@riotri.org](mailto:info@riotri.org) to learn more. Get ready to join the fun!
 
+## <a href="https://forms.gle/nghhiMSD7ebDpYtm6" target="_blank">SIGN UP NOW TO VOLUNTEER AT ADULT ROCK CAMP WINTER 2025!</a>
+
+
+
 
 # VOLUNTEER JOB DESCRIPTIONS
 
