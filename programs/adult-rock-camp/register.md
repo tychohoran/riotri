@@ -29,13 +29,17 @@ This program was formerly called “Ladies Rock Camp”, but has been renamed to
 * **Sunday Showcase** 5:00 p.m. arrival, 7:00 - 8:30 p.m. show
 * (EXACT TIMES MAY CHANGE)
 
-## LOCATION
+## LOCATIONS
 
-JamStage music complex and practice space is located at 25 Esten Ave. in Pawtucket, RI, less than 5 miles from downtown Providence off of I-95. Their facility was created specifically for musicians. Each room includes professional musical equipment, as well as the ability to record practices. JamStage also has… you guessed it! A stage! With great lights and a professional sound system! We think you will enjoy your rock experience there quite a bit. For more info visit <a href="http://jamstage.net/" target="_blank">their website</a>.
+**Program Location:** JamStage music complex and practice space is located at 25 Esten Ave. in Pawtucket, RI, less than 5 miles from downtown Providence off of I-95 and close to the RIPTA R Line. Their facility was created specifically for musicians. Each room includes professional musical equipment, as well as the ability to record practices. JamStage also has… you guessed it! A stage! With great lights and a professional sound system! We think you will enjoy your rock experience there quite a bit. For more info visit <a href="http://jamstage.net/" target="_blank">their website</a>.
+
+**Showcase Location:** AS220 Main Stage is located at 115 Empire St. in downtown Providence, RI. <A href="https://as220.org/perform" targe="–blank">Visit AS220's website</A> for more info!
 
 **Accessibility information:**
 The entrance to Jamstage has seven stairs outdoors, plus one step up between the lobby entrance and restrooms. The entrance to our showcase venue may also involve some steps.
-There will be a quiet/chill room available for campers to step away from the noise as needed. We recommend wearing hearing protection during camp activities—this is a LOUD environment!
+There will be a quiet/chill room available for campers to step away from the noise as needed.
+AS220's Main Stage performance space has a sidewalk-level entrance and accessible restrooms off the adjacent bar space. There are a few steps up from the venue floor to the stage.
+We recommend wearing hearing protection during all camp activities, including (and especially) the Showcase. This is a LOUD environment!
 If you have questions about accessibility for any part of this program, please email us at [info@riotri.org](mailto:info@riotri.org). 
 
 ## TUITION
