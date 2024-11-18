@@ -43,7 +43,7 @@ Throughout the weekend, workshops are held on a variety of topics, from Screen p
 Each day, one to two visiting artist/bands play a live set, then they stick around to take questions from the group. Past performers have included national acts like Mary Lou Lord, prominent local musicians such as Roz and the Ricecakes, alumni bands from previous camps, and talented camp volunteers.
 
 ## FINAL SHOWCASE
-At the end of the camp week, camper bands perform their original songs at a showcase concert for friends, family, and fans!
+At the end of the camp weekend, camper bands perform their original songs at a showcase concert for friends, family, and fans! **This session's showcase will happen Sunday, February 2, at AS220's Main Stage** at 115 Empire St. in Providence!
 
 ## FUN ACTIVITIES
 At Rock Camp, we know how to have a good time. The camp day is interspersed with fun stuff, from warm-up games to making buttons with your band name.
