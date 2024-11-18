@@ -36,11 +36,7 @@ This program was formerly called “Ladies Rock Camp”, but has been renamed to
 **Showcase Location:** AS220 Main Stage is located at 115 Empire St. in downtown Providence, RI. <A href="https://as220.org/perform" targe="–blank">Visit AS220's website</A> for more info!
 
 **Accessibility information:**
-The entrance to Jamstage has seven stairs outdoors, plus one step up between the lobby entrance and restrooms. The entrance to our showcase venue may also involve some steps.
-There will be a quiet/chill room available for campers to step away from the noise as needed.
-AS220's Main Stage performance space has a sidewalk-level entrance and accessible restrooms off the adjacent bar space. There are a few steps up from the venue floor to the stage.
-We recommend wearing hearing protection during all camp activities, including (and especially) the Showcase. This is a LOUD environment!
-If you have questions about accessibility for any part of this program, please email us at [info@riotri.org](mailto:info@riotri.org). 
+The entrance to Jamstage has seven stairs outdoors, plus one step up between the lobby entrance and restrooms. There are a few steps up from the stage-space floor to the stage itself. There will be a quiet/chill room available for campers to step away from the noise as needed. AS220's Main Stage performance space has a sidewalk-level entrance and accessible restrooms off the adjacent bar space. There are a few steps up from the venue floor to the stage. We recommend wearing hearing protection during all camp activities, including (and especially) the Showcase. This is a LOUD environment! If you have questions about accessibility for any part of this program, please email us at [info@riotri.org](mailto:info@riotri.org). 
 
 ## TUITION
 
