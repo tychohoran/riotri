@@ -6,7 +6,7 @@ Has Photo Banner: false
 Has Visible Header: true
 Header Button:
   Text: Sign Up
-  URL: https://docs.google.com/forms/d/e/1FAIpQLSfO5a4o1xvKPzO4KMq8pXvx0RAnOGWGBi6ouUCGDpuYm_z8Rw/viewform?usp=sf_link
+  URL: https://forms.gle/oqz9xXtHWcGBJEGm6
 Thumbnail Image: "/uploads/sponsor.jpg"
 layout: page
 ---
