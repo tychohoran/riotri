@@ -1,6 +1,5 @@
 ---
 title: Newsletter
-published: false
 position: 7
 Thumbnail Image: "/uploads/changing-our-tune.jpg"
 Slideshow Images:
