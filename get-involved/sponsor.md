@@ -11,6 +11,9 @@ Thumbnail Image: "/uploads/sponsor.jpg"
 layout: page
 ---
 
+# BECOME A SPONSOR
+Check out our [2025 Sponsorship Info Packet](/uploads/RIOT%20Sponsor%20Packet%20FINAL%201-15-25.pdf), or contact us at [info@riotri.org](mailto:info@riotri.org) to inquire about how you can become a sponsor, too!  We’d love to tell our 5000+ social media followers, 2000+ friend email list, and 1000+ showcase attendees about how much you rock!
+
 # PAST SPONSORS
 Thank you to the following organizations for supporting our programs in recent years through sponsors and grants for supporting empowerment through music!
 
@@ -38,8 +41,3 @@ Thank you to the following organizations for supporting our programs in recent y
 * [Like No Udder](http://www.like-no-udder.com/)
 * [White Electric Coffee](http://whiteelectriccoffee.com/)
 * [Knead Donuts](https://www.kneaddoughnuts.com/)
-
-
-
-# BECOME A SPONSOR
-Contact us at [info@riotri.org](mailto:info@riotri.org) to inquire about how you can become a sponsor, too!  We’d love to tell our 5000+ social media followers, 2000+ friend email list, and 1000+ showcase attendees about how much you rock!

@@ -1,7 +1,8 @@
 ---
 title: Newsletter
+published: false
 position: 7
 layout: newsletter
 ---
 
-test
+see our newsletter archive
