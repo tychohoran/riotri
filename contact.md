@@ -2,9 +2,6 @@
 title: Contact
 permalink: "/contact/"
 position: 3
-Header Button:
-  Text: News Archive
-  URL: https://us7.campaign-archive.com/home/?u=9bc0ccfa28d3393612bd3e2a1&id=d90deaa8ed
 layout: hub
 ---
 
