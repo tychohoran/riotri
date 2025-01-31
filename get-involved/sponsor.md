@@ -12,7 +12,12 @@ layout: page
 ---
 
 # BECOME A SPONSOR
-Check out our [2025 Sponsorship Info Packet](/uploads/RIOT%20Sponsor%20Packet%20FINAL%201-15-25.pdf), or contact us at [info@riotri.org](mailto:info@riotri.org) to inquire about how you can become a sponsor, too!  We’d love to tell our 5000+ social media followers, 2000+ friend email list, and 1000+ showcase attendees about how much you rock!
+Check out our [2025 Sponsorship Info Packet](/uploads/RIOT%20Sponsor%20Packet%202025.pdf), or contact us at [info@riotri.org](mailto:info@riotri.org) to inquire about how you can become a sponsor, too!  We’d love to tell our 5000+ social media followers, 2000+ friend email list, and 1000+ showcase attendees about how much you rock!
+
+# RISCA
+Our funding is provided in part by a grant from the Rhode Island State Council on the Arts, through an appropriation by the Rhode Island General Assembly, a grant from the National Endowment for the Arts and private funders.
+
+![RISCA](/uploads/RISCA_LOGO_2024_color_w_wh_bkd.jpg)
 
 # PAST SPONSORS
 Thank you to the following organizations for supporting our programs in recent years through sponsors and grants for supporting empowerment through music!
