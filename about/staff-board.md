@@ -9,11 +9,9 @@ layout: page
 
 # BOARD
 
-* Lipou Laliemthavisay
+* Lipou Laliemthavisay, Co Chair
 
-* Reba Mitchell, Co Chair
-
-* Abeer Khatana, Co Chair
+* Kaileigh Ahlquist, Co Chair
 
 * Ashley (Aloe) Russell
 
