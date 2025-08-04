@@ -1,6 +1,5 @@
 ---
 title: Newsletter
-published: false
 position: 7
 layout: newsletter
 ---
