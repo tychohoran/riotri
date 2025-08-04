@@ -33,6 +33,7 @@ layout: page
 ![Lipou.jpg](/uploads/Lipou.jpg)
 Lipou \[lee-pu, she/her/hers\] was born and raised in Providence, RI. While growing up, she always thought she would be an ambassador and allow all visa applications that came in. However, life took a different path. Coming from an immigrant family, she had a deep desire to work with and for marginalized communities, which then grew into a passion for indigent defense. Aside from being a public defender, she is a proud parent of two pitbulls, Kenya & Penny, and teaches criminal law & procedure part-time. She loves going on walks/hikes with the dogs and listening to music to de-stress. She is glad she was invited to join the Board in December 2018, though regretful she did not join the organization sooner. She recently took virtual drum classes at RIOT and loved bangin' out Rage Against the Machine's Bulls on Parade!
 
+
 ## Kaileigh Ahlquist
 
 ![RIOT_Kaileigh.jpg](/uploads/RIOT_Kaileigh.jpg)
@@ -47,9 +48,9 @@ Emily (she/they) joined the RIOT RI Board in 2025 and currently serves as the Vi
 
 ## Rainy Stanford-Cordaro
 
-![riorri-board.jpg](/uploads/riorri-board.jpg)
+![RIOT_Rainy.jpg](/uploads/RIOT_Rainy.jpg)
 
-About Rainy
+Rainy Stanford-Cordaro (she/her) began working with RIOT in early 2025 as a drum instructor and band coach. Soon after that she joined the Board and became Secretary, helping keep things on task and on track. A lifelong percussionist, Rainy also plays bass guitar and a number of woodwinds, most of which are big clarinets. She works at an arts nonprofit in Providence and is a member of Extraordinary Rendition Band (ERB). Rainy moved to Rhode Island in 2024 but is originally from Massachusetts, where she was previously involved with Boston Raising Powerful Musicians for a number of years. She apologizes in advance for her pronunciation of Pawtucket.
 
 ## Rachel Sholly
 
