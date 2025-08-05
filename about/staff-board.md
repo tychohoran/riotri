@@ -8,8 +8,6 @@ layout: page
 
 ![riorri-board.jpg](/uploads/riorri-board.jpg)
 
-**As of 2024 RIOT RI is working to reboot our programming with a very active working Board and dedicated volunteers**
-
 # BOARD
 
 * Lipou Laliemthavisay, Co Chair
