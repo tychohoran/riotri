@@ -48,7 +48,7 @@ Emily (she/they) joined the RIOT RI Board in 2025 and currently serves as the Vi
 
 ## Rainy Stanford-Cordaro
 
-![RIOT_Rainy.jpg](/uploads/RIOT_Rainy.jpg)
+![RIOT_Rainy_crop.jpg](/uploads/RIOT_Rainy_crop.jpg)
 
 Rainy Stanford-Cordaro (she/her) began working with RIOT in early 2025 as a drum instructor and band coach. Soon after that she joined the Board and became Secretary, helping keep things on task and on track. A lifelong percussionist, Rainy also plays bass guitar and a number of woodwinds, most of which are big clarinets. She works at an arts nonprofit in Providence and is a member of Extraordinary Rendition Band (ERB). Rainy moved to Rhode Island in 2024 but is originally from Massachusetts, where she was previously involved with Boston Raising Powerful Musicians for a number of years. She apologizes in advance for her pronunciation of Pawtucket.
 
