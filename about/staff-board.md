@@ -70,15 +70,11 @@ Professionally, Ashley works as a resource manager in the creative industry, whe
 
 ## Santiago Navarro
 
-![riorri-board.jpg](/uploads/riorri-board.jpg)
-
-About Santiago
+Bio coming soon!
 
 ## Tatiana DosSantos
 
-![riorri-board.jpg](/uploads/riorri-board.jpg)
-
-About Tatiana
+Bio coming soon!
 
 <!--
 
