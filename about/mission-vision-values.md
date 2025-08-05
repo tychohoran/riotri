@@ -6,7 +6,7 @@ layout: page
 ---
 
 # 2025 UPDATE
-Right now, RIOT RI is working to reboot our programming with a very active working Board and dedicated volunteers. If you'd like to get involved, email [kaileigh.alhquist@riotri.org](mailto:kaileigh.ahlquist@riotri.org). To find out what's coming up next, follow us on [Instagram](https://www.instagram.com/riotrhodeisland/)!
+Right now, RIOT RI is working to reboot our programming with a very active working Board and dedicated volunteers. If you'd like to get involved, email [kaileigh.ahlquist@riotri.org](mailto:kaileigh.ahlquist@riotri.org). To find out what's coming up next, follow us on [Instagram](https://www.instagram.com/riotrhodeisland/)!
 
 # MISSION
 RIOT RI is a volunteer-based non-profit that uses music creation, critical thinking and collaborative relationships to foster collective empowerment and the development of healthy identities in girls, women, trans, and gender-expansive youth and adults.
