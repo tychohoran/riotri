@@ -6,7 +6,7 @@ Has Visible Header: true
 layout: page
 ---
 
-![riorri-board.jpg](/uploads/riorri-board.jpg)
+![RIOT_board_new.jpg](/uploads/RIOT_board_new.jpg)
 
 # BOARD
 
