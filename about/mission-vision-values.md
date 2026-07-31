@@ -5,8 +5,20 @@ Has Visible Header: false
 layout: page
 ---
 
-# 2025 UPDATE
-Right now, RIOT RI is working to reboot our programming with a very active working Board and dedicated volunteers. If you'd like to get involved, email [kaileigh.ahlquist@riotri.org](mailto:kaileigh.ahlquist@riotri.org). To find out what's coming up next, follow us on [Instagram](https://www.instagram.com/riotrhodeisland/)!
+# 2026 UPDATE
+Youth programming coming Fall 2026! Stay tuned for program details: follow us on [Instagram](https://www.instagram.com/riotrhodeisland/)!
+
+Right now, RIOT RI is working to reboot our programming with a very active working Board and dedicated volunteers. If you'd like to get involved, email [kaileigh.ahlquist@riotri.org](mailto:kaileigh.ahlquist@riotri.org).
+
+In the meantime, come see us at the following events! 
+
+7/31/26  Summer Celebrations — a fun, free, all-ages block party that is thoughtfully created, organized, and brought to life by youth, for everyone to enjoy.
+
+RIOT is excited to collaborate with New Urban Arts on a proposed block festival celebrating high school students, youth culture, and after-school opportunities in Providence. 
+
+8/6/26  Ink & Echo x Symposium Books present: The Creative Current
+
+RIOT is a community partner powering this exciting event featuring an intentional, unplugged night of poetry, song, and deep connection
 
 # MISSION
 RIOT RI is a volunteer-based non-profit that uses music creation, critical thinking and collaborative relationships to foster collective empowerment and the development of healthy identities in girls, women, trans, and gender-expansive youth and adults.
