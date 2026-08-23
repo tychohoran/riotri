@@ -5,7 +5,7 @@ position: 0
 Has Subpages Embedded: true
 Header Button:
   Text: We're Hiring!
-  URL: riotri.org/get-involved/join-our-team.html
+  URL: https://riotri.org/get-involved/join-our-team.html
 Slideshow Images:
 - "/uploads/RiotRI-Picture.jpg"
 - "/uploads/RiotRI-Picture2.jpg"
