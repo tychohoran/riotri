@@ -1,16 +1,21 @@
 ---
 title: Register for Adult Rock Camp
+published: false
 position: 1
 layout: page
 ---
 
-**Registration is now open** for our Winter 2025 Adult Rock Camp!:
+<!-- **Registration is now open** for our Winter 2025 Adult Rock Camp!:
+-->
 
-**Adult Rock Camp will take place Friday, January 31, through Sunday, February 2, 2025. This program is open to women, trans and gender-expansive adults ages 18+**
+Our last Adult Rock Camp will took place Friday, January 31, through Sunday, February 2, 2025. This program is open to women, trans and gender-expansive adults ages 18+. Stay tuned for plans for future Adult Rock Camps!
 
+<!--
 ## <a href="https://forms.gle/GxvNXvFVxSE4RwUQA" target="_blank">REGISTER FOR ADULT ROCK CAMP WINTER 2025</a>
-
+-->
+<!--
 ## [GIVE ADULT ROCK CAMP WINTER 2025 AS A GIFT!](https://forms.gle/SvAzcLaK6MTWVub18)
+-->
 
 # Frequently Asked Questions
 
@@ -20,6 +25,7 @@ This program was formerly called “Ladies Rock Camp”, but has been renamed to
 
 <a href="https://riotri.org/programs/adult-rock-camp" target="_blank">Click here</a> for more info about Adult Rock Camp. 
 
+<!--
 ## DATE
 
 **Camp Dates and Times:**
@@ -28,6 +34,7 @@ This program was formerly called “Ladies Rock Camp”, but has been renamed to
 * **Sunday, February 2**  9:00 a.m. - 4:00 p.m.
 * **Sunday Showcase** 5:00 p.m. arrival, 7:00 - 8:30 p.m. show
 * (EXACT TIMES MAY CHANGE)
+-->
 
 ## LOCATIONS
 

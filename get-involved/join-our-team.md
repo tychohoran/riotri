@@ -1,6 +1,5 @@
 ---
 title: Join Our Team
-published: false
 position: 3
 Has Photo Banner: false
 Has Visible Header: true
@@ -8,52 +7,14 @@ Thumbnail Image: "/uploads/join-our-team.jpg"
 layout: page
 ---
 
-# Instrument Instructors and Band Coaches
+# We’re hiring!
 
-RIOT RI is an organization that serves girls, women, trans and non-binary youth and adults from the greater Providence area. RIOT’s mission is to create spaces where participants use music, collaboration, and critical thinking as tools to foster collective empowerment and achieve goals of their own design. This year RIOT is extending its reach beyond gender equity, towards a more intersectional framework--in other words, exploring the places where identities complicate and compound each other. 
- 
-RIOT Is looking to hire music instructors and band coaches for our fall after-school rock camp. We are looking for **Guitar and Keyboard instructors and Band Coaches** who value creative expression over classical theory and perfectionism and center the spirit of collaborative learning in their work. Instruction will occur weekly over the course of the six-week session.  Classes will contain between 5-10 students of varying skill level.  
- 
-Due to COVID-19, the entirety of this program will be held via Zoom. Instructors must be comfortable teaching music lessons/facilitating groups virtually.
- 
-RIOT is a learning organization. We do not require that the instructor/coach has a professional background in teaching music.
- 
-**Instructors** are expected to be able to teach a wide variety of chords/strums patters/fingering patterns, and answer skill-related questions from students with up to 3 years of experience on their instrument. 
- 
-**Band Coaches** will work with a group of 5 students, each of whom will be working to write their own original song. Band Coaches will facilitate collaboration between students, and mentor them in the process of individual songwriting. Band coaches should have experience writing their own original music, and facilitating groups of high-school-age youth.
- 
-Instructors and coaches will teach students the tools to write an original song to be performed at the end of the session. All instructors and coaches will have support from program coordinators to create a curriculum and troubleshoot throughout the session. 
- 
-As an organization, we expect that all instructors will already have knowledge of, or commit to educating themself before instruction begins about gender identity and pronoun use. Instructors must also have previous knowledge of or willingness to integrate trauma-informed practices in their classrooms. 
- 
-RIOT believes that lived experience is equally if not more important than institutional experience and research shows that students learn better from adults who mirror their identities.  Based on the current participant demographics at RIOT, we strongly encourage LGBTQ+ & POC applicants to apply.
+RIOT RI is looking for passionate, creative, community‑driven individuals to support our fall and summer youth programming.
 
-## Compensation
- 
-**Band Coaches:** $25/hr, 1-2 hrs/week, October 13-November 18
-**Instrument Instruction:** $25/hr, 1 hr/week, October 13-November 18
- 
- 
-## Description of responsibilities:
+Interested in helping students explore music as a tool for empowerment, creative expression, and connection? This fall, in partnership with Providence Student Union, we’re launching our first‑ever AMP’d: Amplifying Music & Power afterschool program — and we’re building a team of [Teaching Artists](https://drive.google.com/file/d/1aJpKlpqA-Efcf91cmkNibaH7vfUSovg6/view?usp=sharing), led by a [Head Teaching Artist](https://drive.google.com/file/d/1XoyvGXZCS4hWw6MdDn8oYtAAQmGY0Tju/view?usp=sharing), to bring it to life.
 
-- For Band Coaches, run virtual songwriting classes Songwriting for high school age youth.
-- For Instructors, run virtual Guitar or Keyboard lessons for high-school-age youth with up to 3 years experience on their instrument.
-- Must attend final showcase, date TBA
-- Prepare a curriculum for classes with the support of RIOT! staff
-- Comfort using Zoom for virtual teaching/facilitation. 
-- Research and feature women, trans, non-binary and POC musicians during class 
-- Attend post-class check-ins with other instructors and RIOT co-directors each week.
-- Provide socio-emotional support for students ages 14-18 in the classroom environment
-- All GRR! Staff, Contractors, and Volunteers who work with youth under the age of 18 accept the responsibility to be mandated reporters 
-- Must sign and abide by RIOT’s standard code of conduct
+Love rock camp and want to help shape an unforgettable summer experience? We’re seeking a self‑driven, highly organized [Camp Coordinator](https://drive.google.com/file/d/1KxWjP2nG4k6Hh_TSe3cwbM0yklPKR6Ee/view?usp=sharing) who thrives in youth work and creating supportive program environments where young people feel seen, encouraged, and inspired.
 
-## Qualifications:
-- For Band coaches, experience in songwriting, either individually or with a band
-- For instructors, the ability to teach either Guitar or Keys to students with  years 3+ of experience
-- Formal OR informal experience working with youth ages 14-18 (teaching classes, camp counselor, younger siblings/cousins, volunteering, etc.)
-- Availability during program times 5:30 - 6:30 PM, Tuesday-Thursday
-- Completion of BCI check (please contact us if this is an issue for you)
-- Knowledge or willingness to learn about curriculum design
+And if you’re someone who can lead AMP’d in the fall and Youth Summer Camp in the summer, we’re open to offering a combined role — the [Youth Programs Coordinator](https://drive.google.com/file/d/1UEEZC89RfFFdvetkLmIbGsxwUQgGBXhw/view?usp=sharing) — which brings both programs together under one position.
 
-## How to Apply 
-Please provide a cover letter, a resume OR description of relevant experience, and contact information to Co-Executive Director, Rikki Davis, at rikki@girlsrockri.org
+[Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSePY3u6xwhkb4kKQlGsoAlrYL6iPY0YhfP5xhfGSsT1t6MklQ/viewform?usp=dialog)

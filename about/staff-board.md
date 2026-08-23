@@ -22,9 +22,7 @@ layout: page
 
 * Ashley Anderson
 
-* Santiago DosSantos
-
-* Tatiana Dossantos
+* Tatiana DosSantos
 
 ## Lipou Laliemthavisay
 
@@ -66,9 +64,6 @@ A lifelong multi-instrumentalist, Ashley has been playing music since age 7 and 
 
 Professionally, Ashley works as a resource manager in the creative industry, where she supports design teams by aligning people, skills, and projects. When she’s not working, playing music, or volunteering, Ashley enjoys spending time in the garden with her husband and their three pups, reading trashy horror novels, and baking tasty vegan treats.
 
-## Santiago Navarro
-
-Bio coming soon!
 
 ## Tatiana DosSantos
 

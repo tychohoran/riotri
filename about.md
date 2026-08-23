@@ -4,8 +4,8 @@ permalink: "/about/"
 position: 0
 Has Subpages Embedded: true
 Header Button:
-  Text: Latest News
-  URL: https://us7.campaign-archive.com/home/?u=9bc0ccfa28d3393612bd3e2a1&id=d90deaa8ed
+  Text: We're Hiring!
+  URL: riotri.org/get-involved/join-our-team.html
 Slideshow Images:
 - "/uploads/RiotRI-Picture.jpg"
 - "/uploads/RiotRI-Picture2.jpg"

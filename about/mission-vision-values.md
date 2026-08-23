@@ -5,20 +5,18 @@ Has Visible Header: false
 layout: page
 ---
 
-# 2026 UPDATE
-Youth programming coming Fall 2026! Stay tuned for program details: follow us on [Instagram](https://www.instagram.com/riotrhodeisland/)!
+# 2026 UPDATE: We're Hiring!
 
-Right now, RIOT RI is working to reboot our programming with a very active working Board and dedicated volunteers. If you'd like to get involved, email [kaileigh.ahlquist@riotri.org](mailto:kaileigh.ahlquist@riotri.org).
+RIOT RI is looking for passionate, creative, community‑driven individuals to support our fall and summer youth programming.
 
-In the meantime, come see us at the following events! 
+Interested in helping students explore music as a tool for empowerment, creative expression, and connection? This fall, in partnership with Providence Student Union, we’re launching our first‑ever AMP’d: Amplifying Music & Power afterschool program — and we’re building a team of [Teaching Artists](https://drive.google.com/file/d/1aJpKlpqA-Efcf91cmkNibaH7vfUSovg6/view?usp=sharing), led by a [Head Teaching Artist](https://drive.google.com/file/d/1XoyvGXZCS4hWw6MdDn8oYtAAQmGY0Tju/view?usp=sharing), to bring it to life.
 
-7/31/26  Summer Celebrations — a fun, free, all-ages block party that is thoughtfully created, organized, and brought to life by youth, for everyone to enjoy.
+Love rock camp and want to help shape an unforgettable summer experience? We’re seeking a self‑driven, highly organized [Camp Coordinator](https://drive.google.com/file/d/1KxWjP2nG4k6Hh_TSe3cwbM0yklPKR6Ee/view?usp=sharing) who thrives in youth work and creating supportive program environments where young people feel seen, encouraged, and inspired.
 
-RIOT is excited to collaborate with New Urban Arts on a proposed block festival celebrating high school students, youth culture, and after-school opportunities in Providence. 
+And if you’re someone who can lead AMP’d in the fall and Youth Summer Camp in the summer, we’re open to offering a combined role — the [Youth Programs Coordinator](https://drive.google.com/file/d/1UEEZC89RfFFdvetkLmIbGsxwUQgGBXhw/view?usp=sharing) — which brings both programs together under one position.
 
-8/6/26  Ink & Echo x Symposium Books present: The Creative Current
+[Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSePY3u6xwhkb4kKQlGsoAlrYL6iPY0YhfP5xhfGSsT1t6MklQ/viewform?usp=dialog)
 
-RIOT is a community partner powering this exciting event featuring an intentional, unplugged night of poetry, song, and deep connection
 
 # MISSION
 RIOT RI is a volunteer-based non-profit that uses music creation, critical thinking and collaborative relationships to foster collective empowerment and the development of healthy identities in girls, women, trans, and gender-expansive youth and adults.
