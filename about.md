@@ -4,8 +4,8 @@ permalink: "/about/"
 position: 0
 Has Subpages Embedded: true
 Header Button:
-  Text: We're Hiring!
-  URL: https://docs.google.com/forms/d/e/1FAIpQLSePY3u6xwhkb4kKQlGsoAlrYL6iPY0YhfP5xhfGSsT1t6MklQ/viewform?usp=dialog
+  Text: Costume Karaoke Fundraiser October 16th! Buy tickets here!
+  URL: https://www.eventbrite.com/e/riot-costume-karaoke-fundraiser-tickets-2001429153475
 Slideshow Images:
 - "/uploads/RiotRI-Picture.jpg"
 - "/uploads/RiotRI-Picture2.jpg"

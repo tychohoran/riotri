@@ -5,18 +5,15 @@ Has Visible Header: false
 layout: page
 ---
 
-# 2026 UPDATE: We're Hiring!
+# Fall 2026 UPDATE:
 
-RIOT RI is looking for passionate, creative, community‑driven individuals to support our fall and summer youth programming.
+[Join us for Karaoke night, Friday October 16th at 7pm!](https://www.eventbrite.com/e/riot-costume-karaoke-fundraiser-tickets-2001429153475)
 
-Interested in helping students explore music as a tool for empowerment, creative expression, and connection? This fall, in partnership with Providence Student Union, we’re launching our first‑ever AMP’d: Amplifying Music & Power afterschool program — and we’re building a team of [Teaching Artists](https://drive.google.com/file/d/1aJpKlpqA-Efcf91cmkNibaH7vfUSovg6/view?usp=sharing), led by a [Head Teaching Artist](https://drive.google.com/file/d/1XoyvGXZCS4hWw6MdDn8oYtAAQmGY0Tju/view?usp=sharing), to bring it to life.
+![2026_boombox_event.jpg](/uploads/2026_boombox_event.jpg)
 
-Love rock camp and want to help shape an unforgettable summer experience? We’re seeking a self‑driven, highly organized [Camp Coordinator](https://drive.google.com/file/d/1KxWjP2nG4k6Hh_TSe3cwbM0yklPKR6Ee/view?usp=sharing) who thrives in youth work and creating supportive program environments where young people feel seen, encouraged, and inspired.
+This fall, in partnership with Providence Student Union, we’re launching our first‑ever AMP’d: Amplifying Music & Power afterschool program! This program is open to all High school age youth and will launch in mid-October. 
 
-And if you’re someone who can lead AMP’d in the fall and Youth Summer Camp in the summer, we’re open to offering a combined role — the [Youth Programs Coordinator](https://drive.google.com/file/d/1UEEZC89RfFFdvetkLmIbGsxwUQgGBXhw/view?usp=sharing) — which brings both programs together under one position.
-
-[Click here to apply!](https://docs.google.com/forms/d/e/1FAIpQLSePY3u6xwhkb4kKQlGsoAlrYL6iPY0YhfP5xhfGSsT1t6MklQ/viewform?usp=dialog)
-
+We are gearing up for a middle school age youth camp summer 2027! Volunteer coordination, fundraising and planning will ramp up over the next several months.
 
 # MISSION
 RIOT RI is a volunteer-based non-profit that uses music creation, critical thinking and collaborative relationships to foster collective empowerment and the development of healthy identities in girls, women, trans, and gender-expansive youth and adults.
